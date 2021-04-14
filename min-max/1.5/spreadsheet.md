@@ -69,13 +69,15 @@ The *Qty* column is the actual quantity available for selling.
 
 The *Modified Qty* column is the quantity of the item you actually plan on selling.
 
-The *Sum G* column keeps a running total of the sum of all items shipped. This data is primarily useful for the formulas.
+The *Sum G* column keeps a running total of the sum of all items shipped. This data is primarily used in formulas.
 
 When a *Remaining G* value goes negative, it means you will have shipped more than is necessary. Usually, this is unavoidable but careful selection of the items you ship can minimize the extra income.
 
 Note that *Inventory G* columns are not merely numbers but are formulas. It is your responsibility to modify the formula to account for passing out or not.
 
 ### Search
+
+![Search](images/search.png)
 
 Nearly all daily tabs include a search feature. Simply type in an item name and optionally a quality (using the syntax described above) and its prices will be displayed. This helps avoid the need to change tabs to the *Items and Professions* tab.
 
