@@ -17,7 +17,7 @@ The *Daily* tab has four pieces of information, all of which may be selected fro
 1. *Season* indicates what season it is.
 2. *Day* indicates what day it is.
 3. *Tomorrow's Weather* indicates what tomorrow's weather will be, as reported by the [Television](https://stardewvalleywiki.com/Television).
-4. *Today's Luck* indicates what today's luck will be, as reported by the [Television](https://stardewvalleywiki.com/Television).
+4. *Today's Luck* indicates what today's luck will be, as reported by the Television.
 
 These cells do not affect any other cells.
 
