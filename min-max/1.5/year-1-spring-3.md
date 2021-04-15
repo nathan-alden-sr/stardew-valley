@@ -1,4 +1,4 @@
-# Year 1, Spring 1
+# Year 1, Spring 3
 
 | M                          | Tu                        | W                         | Th                        | F                         | Sa                        | Su                        |
 | -------------------------- | ------------------------- | ------------------------- | ------------------------- |-------------------------- | ------------------------- | ------------------------- |
@@ -15,7 +15,7 @@
 
 ## Advice and warnings
 
-- At least one [Cauliflower Seed](https://stardewvalleywiki.com/Cauliflower_Seeds) must be planted by this day, watered every single day, and not eaten by crows in order to successfully complete the [Spring Crops Bundle](https://stardewvalleywiki.com/Cauliflower_Seeds) on Spring 15. Usually, you will plant enough Mixed Seeds on Spring 1 to randomly give at least one [Cauliflower](https://stardewvalleywiki.com/Cauliflower), but it is possible for your run to end here.
+- At least one [Cauliflower Seed](https://stardewvalleywiki.com/Cauliflower_Seeds) must be planted by this day, watered every single day, and not eaten by [Crows](https://stardewvalleywiki.com/Animals#Crows) in order to successfully complete the [Spring Crops Bundle](https://stardewvalleywiki.com/Cauliflower_Seeds) on Spring 15. Usually, you will plant enough Mixed Seeds on Spring 1 to randomly give at least one [Cauliflower](https://stardewvalleywiki.com/Cauliflower), but it is possible for your run to end here.
 
 ## Instructions
 
@@ -56,7 +56,8 @@ Instructions:
    - [Ore](https://stardewvalleywiki.com/Ore)
    - Coal
    - [Gems](https://stardewvalleywiki.com/Minerals#Gems)
-   - The most expensive fish using the [spreadsheet](spreadsheet.md)
+   - The most expensive items (may be a mix of fish and other items)
+     - Consider taking [Chubs](https://stardewvalleywiki.com/Chub) with you if you are concerned about needing food for Spring 4.
 5. Pass out.
 
 ## Day's end
