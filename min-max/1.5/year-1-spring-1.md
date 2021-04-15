@@ -52,7 +52,7 @@ Tips:
 
 Instructions:
 
-1. Head west past the [Traveling Cart](https://stardewvalleywiki.com/Traveling_Cart)
+1. Head west past the [Traveling Cart](https://stardewvalleywiki.com/Traveling_Cart) area.
 2. Head south toward the [Abandoned House](https://stardewvalleywiki.com/Abandoned_House).
 3. Head east toward the area where [Spring Onions](https://stardewvalleywiki.com/Spring_Onion) spawn.
    - When foraging grouped items, stand in the center of a 3x3 box containing as many items as possible. Drag the right mouse button over all the items to rapidly collect them.
