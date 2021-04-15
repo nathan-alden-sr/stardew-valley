@@ -30,7 +30,7 @@
 3. Set game options. It is recommended to set Zoom Level to 75% in order to see more of the map.
 4. Unpause.
 5. Take the [Parsnip Seeds](https://stardewvalleywiki.com/Parsnip_Seeds).
-6. Fell a mix of nine [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree). Do not fell any [Oak Trees](https://stardewvalleywiki.com/Oak_Tree) as the [Acorns](https://stardewvalleywiki.com/Acorn) are needed for later and we can't get acorns until reaching Foraging level 1.
+6. Fell a mix of nine [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree). Do not fell any [Oak Trees](https://stardewvalleywiki.com/Oak_Tree) as the [Acorns](https://stardewvalleywiki.com/Acorn) are needed for later and we can't get Acorns until reaching Foraging level 1.
    - Do not gather any Tree seeds embedded in the ground as they are destroyed at Foraging level 0.
    - Pick Trees that are close to one another to minimize extra walking.
    - At Foraging level 0, every tree takes ten chops to fell.
