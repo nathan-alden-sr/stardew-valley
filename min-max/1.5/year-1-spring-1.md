@@ -34,7 +34,7 @@
    - Do not gather any Tree Seeds embedded in the ground as they are destroyed at Foraging level 0.
    - Pick Trees that are close to one another to minimize extra walking.
    - At Foraging level 0, every tree takes ten chops to fell.
-   - Do not chop down the stumps as this wastes energy.
+   - Do not chop down the stumps as this wastes Energy.
    - Determine what direction you want the tree to fall in, then chop from the opposite side. Usually, it's best to fell a tree such that it lands closer to the next tree you plan to fell. You can also stand perpendicular to the tree and slightly to the opposite side. This can save having to walk around the stump.
    - It's faster to manually click with perfect timing than to hold down the mouse button. This is a key skill you should develop early as it applies to [Mining](https://stardewvalleywiki.com/Mining), as well.
    - As soon as a Tree begins falling, move to where the center of the boughs will hit the ground and pause. The falling animation, item spawning, and item collection will continue while the game is paused.
@@ -157,8 +157,8 @@ Instructions:
 1. Eat any remaining Spring Onions.
 2. Clear enough ground to plant 15 Parsnip Seeds and whatever Mixed Seeds you carry, plus a few more spots for Mixed Seeds in case you gather more shortly.
 3. Plant and water Parsnip Seeds and Mixed Seeds.
-4. Fell Trees until you have around four to six energy. The remaining energy will be useful if you gather more Mixed Seeds shortly.
-   - If you don't have enough energy to fully fell a Tree, spend the energy mining Stone or chopping a stump.
+4. Fell Trees until you have around four to six [Energy](https://stardewvalleywiki.com/Energy). The remaining Energy will be useful if you gather more Mixed Seeds shortly.
+   - If you don't have enough Energy to fully fell a Tree, spend the Energy mining Stone or chopping a stump.
 5. Chop Weeds and grass until around 1:30 am. Don't stray too far from the Farmhouse.
 6. Ship all items except for the following:
    - All [Wood](https://stardewvalleywiki.com/Wood)
@@ -167,11 +167,12 @@ Instructions:
    - 20 Fiber
    - One of each Spring forageable you collected (you may not have all four types): [Wild Horseradish](https://stardewvalleywiki.com/Wild_Horseradish), [Daffodil](https://stardewvalleywiki.com/Daffodil), [Leek](https://stardewvalleywiki.com/Leek), and [Dandelion](https://stardewvalleywiki.com/Dandelion). These will be used for the [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) later.
 7. Plant and water Mixed Seeds.
-   - You can work past zero energy, but not too much, otherwise the game will force you to pass out and you will wake up on Spring 2 with half energy. If you do become exhausted, be sure you have enough time to make it into the Farmhouse.
+   - You can work past zero Energy, but not too much, otherwise the game will force you to pass out and you will wake up on Spring 2 with half Energy. If you do become Exhausted, be sure you have enough time to make it into the Farmhouse.
 8. Enter the Farmhouse at 1:50 am.
-9. Pick up the [Single Bed](https://stardewvalleywiki.com/Single_Bed) and optionally trash it with the Trash Can. This forces the game to spawn you one pixel from the doorway every morning, thus reducing walking time.
-10. Pick up the [Television](https://stardewvalleywiki.com/Television) and move it as close to the doorway on the left side as you can. When waking every morning, you can right-click the Television's stand to interact with it.
-11. Pass out.
+9. Pick up the [Single Bed](https://stardewvalleywiki.com/Single_Bed) (optionally trash it with the Trash Can). This forces the game to spawn you one pixel from the doorway every morning, thus reducing walking time.
+10. Pick up and move the [House Plant](https://stardewvalleywiki.com/House_Plant) (optionally trash it).
+11. Pick up the [Television](https://stardewvalleywiki.com/Television) and move it as close to the doorway on the left side as you can. When waking every morning, you can right-click the Television's stand to interact with it.
+12. Pass out.
 
 ### Day's end
 
