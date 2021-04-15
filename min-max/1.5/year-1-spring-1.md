@@ -10,8 +10,9 @@
 ## Goals
 
 - Speak to 26 NPCs around Stardew Valley (it's actually 28, but the game gives you credit for having spoken to [Lewis](https://stardewvalleywiki.com/Lewis) and [Robin](https://stardewvalleywiki.com/Robin))
+- [Forage](https://stardewvalleywiki.com/Foraging) [Spring](https://stardewvalleywiki.com/spring) forageables
 - Start farming
-- Reach [Foraging](https://stardewvalleywiki.com/Foraging) level 1
+- Reach Foraging level 1
 
 ## Advice and warnings
 
