@@ -163,8 +163,8 @@ Instructions:
 5. Chop Weeds and grass until around 1:30 am. Don't stray too far from the Farmhouse.
 6. Ship all items except for the following:
    - All [Wood](https://stardewvalleywiki.com/Wood)
-   - All stone (one is needed for Spring 2)
-   - All coal
+   - All Stone (one is needed for Spring 2)
+   - All [Coal](https://stardewvalleywiki.com/Coal)
    - 20 Fiber
    - One of each Spring forageable you collected (you may not have all four types): [Wild Horseradish](https://stardewvalleywiki.com/Wild_Horseradish), [Daffodil](https://stardewvalleywiki.com/Daffodil), [Leek](https://stardewvalleywiki.com/Leek), and [Dandelion](https://stardewvalleywiki.com/Dandelion). These will be used for the [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) later.
 7. Plant and water Mixed Seeds.

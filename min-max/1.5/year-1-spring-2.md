@@ -13,7 +13,7 @@
 
 ## Advice and warnings
 
-- It is possible to not have enough money to buy the Fiberglass Rod and bait before Willy leaves his shop counter. If this happens, create a new game and hope for better luck finding forageables.
+- It is possible to not have enough money to purchase the Fiberglass Rod and bait before Willy leaves his shop counter. If this happens, create a new game and hope for better luck finding forageables.
 
 ## Instructions
 
@@ -45,20 +45,20 @@ Instructions:
 1. Travel to Pelican Town to the Garbage Can near George's house. Check it, along with the Garbage Cans next to The Stardrop Saloon and Lewis' house.
 2. Travel to the Beach and acquire the Bamboo Pole.
 3. Gift the Stone to Willy and claim the 100g reward.
-4. Place the chest on the east-most tile on the south-most row of tiles on the pier. We will be fishing from the east-most tile on the middle row.<br />![Fishing Chest](images/year-1-spring-2-ocean-chest.png)
+4. Place the chest on the east-most tile on the south-most row of tiles on the pier. We will be fishing from the east-most tile on the middle row.<br />![Ocean Chest](images/year-1-spring-2-ocean-chest.png)
 5. Fish facing right from the east-most tile using maximum casts.
 6. At 8:40 am, destroy the Bamboo Pole, then head to the sand to check for forageables and Artifact Spots.
    - If you acquire an Artifact now, donate it to the Museum and claim the 250g reward, then return to the Beach.
-7. Speak to Willy when he's behind the shop counter. Sell him all Beach forageables and fish. Buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) for 25g.
+7. Speak to Willy when he's behind the shop counter. Sell him all Beach forageables and fish. Purchase the [Training Rod](https://stardewvalleywiki.com/Training_Rod) for 25g.
    - The Training Rod allows for easier perfect catches. Perfect catches increase [Experience](https://stardewvalleywiki.com/Skills) gained from fishing, which is more important than the income acquired from higher-quality fish.
 8. Exit the shop, then fish below Willy's door using minimum casts.
    - Since fish quality doesn't matter with the Training Rod, there is no reason to waste time walking to the eastern end of the pier.
    - Monitor your inventory using the [spreadsheet](spreadsheet.md).
-9. As soon as you have 1800g in inventory and fish value and are Fishing level 2, destroy the Training Rod, sell all the fish, and buy the Fiberglass Rod from Willy. Buy as much Bait as possible and equip the Bait on the Fiberglass Rod.
+9. As soon as you have 1800g in inventory and fish value and are Fishing level 2, destroy the Training Rod, sell all the fish, and purchase the Fiberglass Rod from Willy. Purchase as much Bait as possible and equip the Bait on the Fiberglass Rod.
    - It's now more difficult to perfect catch due to only being Fishing level 2, but the Bait's reduction of bobber time combined with catching fish of silver or higher quality more than make up for it.
    - Now that you have the Fiberglass Rod, Fishing Zone consideration applies.
 10. Fish from the east-most tile of the pier using maximum casts to start.
-    - If you do not have at least 35 Bait on the rod at 4:30 pm, buy more Bait from Willy. This ensures you have enough Bait for the rest of the day and for tomorrow morning.
+    - If you do not have at least 35 Bait on the rod at 4:30 pm, purchase more Bait from Willy. This ensures you have enough Bait for the rest of the day and for tomorrow morning.
     - Fish until 1:50 am.
 11. Leave all of the fish in the chest so we can sell them to Willy tomorrow.
 12. Pass out.
