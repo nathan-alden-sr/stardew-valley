@@ -23,7 +23,7 @@
 
 ## Instructions
 
-### Acquiring Foraging level 1
+### Foraging level 1
 
 1. Pause.
 2. Reorganize your [hotbar](https://stardewvalleywiki.com/Inventory) as desired.
