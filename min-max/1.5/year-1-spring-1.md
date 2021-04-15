@@ -16,6 +16,7 @@
 
 ## Advice and warnings
 
+- Play a female character. This awards you with extra money in the mail.
 - See [Parsnips crop planner](https://stardew.info/planner/32-heavy-rabbits-hugged-merrily) for a suggested [Parsnip](https://stardewvalleywiki.com/Parsnip) and [Scarecrow](https://stardewvalleywiki.com/Scarecrow) layout. [Mixed Seeds](https://stardewvalleywiki.com/Mixed_Seeds) are depicted by a generic crop icon.
 - You need to have collected enough forageables by the end of the day to have enough money to purchase the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) and enough [Bait](https://stardewvalleywiki.com/Bait_(item)) before [Willy](https://stardewvalleywiki.com/Willy) closes his shop on [Spring](https://stardewvalleywiki.com/Spring) 2.
 - You must mine and store at least one [Stone](https://stardewvalleywiki.com/Stone) at some point during the day for Spring 2.
@@ -42,7 +43,7 @@
 
    ![Farmhouse Chest](images/year-1-spring-1-farmhouse-chest.png)
 
-8.  Exit [The Farm](https://stardewvalleywiki.com/The_Farm) south to [Cindersap Forest](https://stardewvalleywiki.com/Cindersap_Forest). You will likely have to use the Scythe to cut through [Weeds](https://stardewvalleywiki.com/Weeds) and use the Pickaxe to break a Stone or two to get through. Try to time the screen transition for 9:20 am.
+8. Exit [The Farm](https://stardewvalleywiki.com/The_Farm) south to [Cindersap Forest](https://stardewvalleywiki.com/Cindersap_Forest). You will likely have to use the Scythe to cut through [Weeds](https://stardewvalleywiki.com/Weeds) and use the Pickaxe to break a Stone or two to get through. Try to time the screen transition for 9:20 am.
    - If you felled Trees quickly enough, you may have some extra time to use the Scythe to cut Weeds to get extra [Fiber](https://stardewvalleywiki.com/Fiber) and Mixed Seeds.
 
 ### Cindersap Forest
