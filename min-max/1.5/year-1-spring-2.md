@@ -46,9 +46,7 @@ Instructions:
 2. Travel to the Beach and acquire the Bamboo Pole.
 3. Gift the Stone to Willy and claim the 100g reward.
 4. Place the chest on the east-most tile on the south-most row of tiles on the pier. We will be fishing from the east-most tile on the middle row.
-
    ![Fishing Chest](images/year-1-spring-2-ocean-chest.png)
-
 5. Fish facing right from the east-most tile using maximum casts.
 6. At 8:40 am, destroy the Bamboo Pole, then head to the sand to check for forageables and Artifact Spots.
    - If you acquire an Artifact now, donate it to the Museum and claim the 250g reward, then return to the Beach.
