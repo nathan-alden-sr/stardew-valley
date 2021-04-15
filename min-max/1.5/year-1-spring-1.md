@@ -50,6 +50,8 @@ Tips:
 - Use the Scythe to chop Weeds, but only if they are near your path. Try and time your swings such that the maximum number of Weeds are chopped per swing.
 - Sometimes, forageables can be partially or completely hidden behind Trees and bushes. It's not worth the time it takes to check behind every Tree, however.
 
+Instructions:
+
 1. Head west past the [Traveling Cart](https://stardewvalleywiki.com/Traveling_Cart)
 2. Head south toward the [Abandoned House](https://stardewvalleywiki.com/Abandoned_House).
 3. Head east toward the area where [Spring Onions](https://stardewvalleywiki.com/Spring_Onion) spawn.
@@ -66,6 +68,8 @@ Tips:
 
 - It's always faster to walk toward NPCs to speak to them instead of waiting for them to walk to you.
 
+Instructions:
+
 1. Check the two [Garbage Cans](https://stardewvalleywiki.com/Garbage_Can) near [Jodi's](https://stardewvalleywiki.com/Jodi) and Haley's houses.
    - Pause immediately after checking the trash. Identical to Trees falling, the game will continue to process the animations, item spawning, and item collection.
 2. Speak to Emily inside her house. If you timed it correctly, you should meet her just as she opens her bedroom door.
@@ -78,6 +82,8 @@ Tips:
 Tips:
 
 - Do not forage any Beach forageables. We need the free inventory slots for other forageables. We will collect them on subsequent days.
+
+Instructions:
 
 1. Walk southeast and speak to [Elliott](https://stardewvalleywiki.com/Elliott).
 2. Check for [Artifact Spots](https://stardewvalleywiki.com/Artifact_Spot) and hoe them up.
