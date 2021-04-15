@@ -103,7 +103,7 @@ Instructions:
    - The tile blocking the fenced area will randomly be a Weed, a Stone, or a branch, so have the correct tool selected before you get to the tile.
 10. Walk west and speak to [Abigail](https://stardewvalleywiki.com/Abigail) on the bridge.
 11. Walk north and speak to [Maru](https://stardewvalleywiki.com/Maru) as she walks south.
-12. Walk southeast toward Lewis house.
+12. Walk southwest toward Lewis' house.
 13. Check the Garbage Can next to Lewis' house.
 14. Walk west and speak to [Caroline](https://stardewvalleywiki.com/Caroline) and [Jodi](https://stardewvalleywiki.com/Jodi).
 15. Walk west and speak to [Vincent](https://stardewvalleywiki.com/Vincent).
