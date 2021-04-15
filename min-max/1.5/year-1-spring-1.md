@@ -144,7 +144,7 @@ Instructions:
 1. Go south, then west behind the [Community Center](https://stardewvalleywiki.com/Community_Center).
 2. Clear the fenced area of weeds.
    - The tile blocking the fenced area will randomly be a Weed, a Stone, or a branch, so have the correct tool selected before you get to the tile.
-3. Walk west past the fountain and chop weeds near the edge of the screen.
+3. Walk west past the fountain and chop Weeds near the edge of the screen.
 4. Walk south, then west, and transition to the Bus Stop.
 
 ### The Bus Stop: Second visit
