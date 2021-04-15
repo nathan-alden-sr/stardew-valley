@@ -9,14 +9,14 @@
 
 ## Goals
 
-- Meet 26 NPCs around Stardew Valley (it's actually 28, but the game starts with you having already talked to [Lewis](https://stardewvalleywiki.com/Lewis) and [Robin](https://stardewvalleywiki.com/Robin))
+- Speak to 26 NPCs around Stardew Valley (it's actually 28, but the game gives you credit for having spoken to [Lewis](https://stardewvalleywiki.com/Lewis) and [Robin](https://stardewvalleywiki.com/Robin))
 - Start farming
 - Reach [Foraging](https://stardewvalleywiki.com/Foraging) level 1
 
 ## Advice and warnings
 
 - See [Parsnips crop planner](https://stardew.info/planner/32-heavy-rabbits-hugged-merrily) for a suggested [Parsnip](https://stardewvalleywiki.com/Parsnip) and [Scarecrow](https://stardewvalleywiki.com/Scarecrow) layout. [Mixed Seeds](https://stardewvalleywiki.com/Mixed_Seeds) are depicted by a generic crop icon.
-- You need to have collected enough forageables by the end of the day to have enough money to purchase the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) and enough [Bait](https://stardewvalleywiki.com/Bait_(item)) before [Willy](https://stardewvalleywiki.com/Willy) closes his shop on [Spring](https://stardewvalleywiki.com/Spring)
+- You need to have collected enough forageables by the end of the day to have enough money to purchase the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) and enough [Bait](https://stardewvalleywiki.com/Bait_(item)) before [Willy](https://stardewvalleywiki.com/Willy) closes his shop on [Spring](https://stardewvalleywiki.com/Spring) 2.
 - You must mine and store at least one [Stone](https://stardewvalleywiki.com/Stone) at some point during the day for Spring 2.
 - Pause often! It's instantaneous, free, and allows you to think.
 
@@ -29,10 +29,10 @@
 3. Set game options. It is recommended to set Zoom Level to 75% in order to see more of the map.
 4. Unpause.
 5. Take the [Parsnip Seeds](https://stardewvalleywiki.com/Parsnip_Seeds).
-6. Fell a mix of nine [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree). Do not chop down any [Oak Trees](https://stardewvalleywiki.com/Oak_Tree) as the [Acorns](https://stardewvalleywiki.com/Acorn) are needed for later and we can't get acorns until reaching Foraging level 1.
+6. Fell a mix of nine [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree). Do not fell any [Oak Trees](https://stardewvalleywiki.com/Oak_Tree) as the [Acorns](https://stardewvalleywiki.com/Acorn) are needed for later and we can't get acorns until reaching Foraging level 1.
    - Do not gather any Tree seeds embedded in the ground as they are destroyed at Foraging level 0.
    - Pick Trees that are close to one another to minimize extra walking.
-   - At Foraging level 0, every tree takes ten chops to chop down.
+   - At Foraging level 0, every tree takes ten chops to fell.
    - Do not chop down the stumps as this wastes energy.
    - Determine what direction you want the tree to fall in, then chop from the opposite side. Usually, it's best to fell a tree such that it lands closer to the next tree you plan to fell. You can also stand perpendicular to the tree and slightly to the opposite side. This can save having to walk around the stump.
    - It's faster to manually click with perfect timing than to hold down the mouse button. This is a key skill you should develop early as it applies to [Mining](https://stardewvalleywiki.com/Mining), as well.
@@ -150,8 +150,9 @@ Tips:
 1. Eat any remaining Spring Onions.
 2. Clear enough ground to plant 15 Parsnip Seeds and whatever Mixed Seeds you carry, plus a few more spots for Mixed Seeds in case you gather more shortly.
 3. Plant and water Parsnip Seeds and Mixed Seeds.
-4. Chop Trees until you have around four to six energy. The remaining energy will be useful if you gather more Mixed Seeds shortly.
-5. Chop weeds and grass until around 1:20 am. Don't stray too far from the Farmhouse.
+4. Fell Trees until you have around four to six energy. The remaining energy will be useful if you gather more Mixed Seeds shortly.
+   - If you don't have enough energy to fully fell a Tree, spend the energy mining Stone or chopping a stump.
+5. Chop weeds and grass until around 1:30 am. Don't stray too far from the Farmhouse.
 6. Ship all items except for the following:
    - All [Wood](https://stardewvalleywiki.com/Wood)
    - All stone (one is needed for Spring 2)
