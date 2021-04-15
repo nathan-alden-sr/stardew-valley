@@ -108,7 +108,7 @@ Instructions:
 14. Walk west and speak to [Caroline](https://stardewvalleywiki.com/Caroline) and [Jodi](https://stardewvalleywiki.com/Jodi).
 15. Walk west and speak to [Vincent](https://stardewvalleywiki.com/Vincent).
 16. Walk north and speak to [Harvey](https://stardewvalleywiki.com/Harvey).
-17. Walk west and chop any Weeds next to the fence.
+17. Walk west and chop all Weeds next to the fence.
 18. Walk north and east and enter Pierre's General Store.
 19. Speak to Leah.
 20. Walk behind the counter and speak to [Pierre](https://stardewvalleywiki.com/Pierre).
