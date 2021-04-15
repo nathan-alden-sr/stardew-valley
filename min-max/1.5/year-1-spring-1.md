@@ -63,7 +63,7 @@ Instructions:
 6. Speak to [Haley](https://stardewvalleywiki.com/Haley) as she walks west toward [Leah](https://stardewvalleywiki.com/Leah)'s house.
 7. Walk east and transition to [Pelican Town](https://stardewvalleywiki.com/Pelican_Town).
 
-### Pelican Town: First Visit
+### Pelican Town: First visit
 
 Tips:
 
