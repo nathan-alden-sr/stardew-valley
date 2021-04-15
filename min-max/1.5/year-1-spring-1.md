@@ -119,7 +119,7 @@ Instructions:
 25. Check the Garbage Can outside of George's house.
 26. Enter George's house, walk into the east room, and speak to George.
 27. Speak to [Alex](https://stardewvalleywiki.com/The_Stardrop_Saloon) as he exits his bedroom at 4:00 pm.
-28. Walk west and transition to the [Bus Stop](https://stardewvalleywiki.com/Bus_Stop).
+28. Exit George's house, walk west, and transition to the [Bus Stop](https://stardewvalleywiki.com/Bus_Stop).
 
 ### The Bus Stop: First visit
 
