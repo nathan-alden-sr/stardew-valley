@@ -174,6 +174,6 @@ Instructions:
 11. Pick up the [Television](https://stardewvalleywiki.com/Television) and move it as close to the doorway on the left side as you can. When waking every morning, you can right-click the Television's stand to interact with it.
 12. Pass out.
 
-### Day's end
+## Day's end
 
 - Foraging level 0 ⟶ 1
