@@ -73,7 +73,7 @@ Instructions:
 1. Check the two [Garbage Cans](https://stardewvalleywiki.com/Garbage_Can) near [Jodi's](https://stardewvalleywiki.com/Jodi) and Haley's houses.
    - Pause immediately after checking the trash. Identical to Trees falling, the game will continue to process the animations, item spawning, and item collection.
 2. Speak to Emily inside her house. If you timed it correctly, you should meet her just as she opens her bedroom door.
-3. Exit Emily's house, walk east, and speak to [https://stardewvalleywiki.com/Penny] to the west of the [Graveyard](https://stardewvalleywiki.com/Graveyard).
+3. Exit Emily's house, walk east, and speak to [Penny](https://stardewvalleywiki.com/Penny) to the west of the [Graveyard](https://stardewvalleywiki.com/Graveyard).
 4. Walk north and speak to [Marnie](https://stardewvalleywiki.com/Marnie) as she walks south from [Pierre's General Store](https://stardewvalleywiki.com/Pierre%27s_General_Store).
 5. Walk south and transition to the [Beach](https://stardewvalleywiki.com/Pierre%27s_General_Store).
 
