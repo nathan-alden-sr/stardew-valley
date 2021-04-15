@@ -99,7 +99,7 @@ Instructions:
 6. Walk west and enter JojaMart.
 7. Speak to [Pam](https://stardewvalleywiki.com/Pam), then [Sam](https://stardewvalleywiki.com/Sam), then [Shane](https://stardewvalleywiki.com/Shane).
 8. Exit JojaMart, walk to the west, then north, then east around the back of JojaMart.
-9. Clear the fenced area of weeds.
+9. Clear the fenced area of Weeds.
    - The tile blocking the fenced area will randomly be a Weed, a Stone, or a branch, so have the correct tool selected before you get to the tile.
 10. Walk west and speak to [Abigail](https://stardewvalleywiki.com/Abigail) on the bridge.
 11. Walk north and speak to [Maru](https://stardewvalleywiki.com/Maru) as she walks south.
@@ -142,7 +142,7 @@ Instructions:
 ### Pelican Town: Third visit
 
 1. Go south, then west behind the [Community Center](https://stardewvalleywiki.com/Community_Center).
-2. Clear the fenced area of weeds.
+2. Clear the fenced area of Weeds.
    - The tile blocking the fenced area will randomly be a Weed, a Stone, or a branch, so have the correct tool selected before you get to the tile.
 3. Walk west past the fountain and chop Weeds near the edge of the screen.
 4. Walk south, then west, and transition to the Bus Stop.
@@ -159,7 +159,7 @@ Instructions:
 3. Plant and water Parsnip Seeds and Mixed Seeds.
 4. Fell Trees until you have around four to six energy. The remaining energy will be useful if you gather more Mixed Seeds shortly.
    - If you don't have enough energy to fully fell a Tree, spend the energy mining Stone or chopping a stump.
-5. Chop weeds and grass until around 1:30 am. Don't stray too far from the Farmhouse.
+5. Chop Weeds and grass until around 1:30 am. Don't stray too far from the Farmhouse.
 6. Ship all items except for the following:
    - All [Wood](https://stardewvalleywiki.com/Wood)
    - All stone (one is needed for Spring 2)
