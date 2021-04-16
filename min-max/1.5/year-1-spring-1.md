@@ -53,9 +53,9 @@ Tips:
 
 Instructions:
 
-1. Head west past the [Traveling Cart](https://stardewvalleywiki.com/Traveling_Cart) area.
-2. Head south toward the [Abandoned House](https://stardewvalleywiki.com/Abandoned_House).
-3. Head east toward the area where [Spring Onions](https://stardewvalleywiki.com/Spring_Onion) spawn.
+1. Travel west past the [Traveling Cart](https://stardewvalleywiki.com/Traveling_Cart) area.
+2. Travel south toward the [Abandoned House](https://stardewvalleywiki.com/Abandoned_House).
+3. Travel east toward the area where [Spring Onions](https://stardewvalleywiki.com/Spring_Onion) spawn.
    - When foraging grouped items, stand in the center of a 3x3 box containing as many items as possible. Drag the right mouse button over all the items to rapidly collect them.
    - Spring Onions may sometimes spawn down the stairs near the drain.
 4. Speak to [Jas](https://stardewvalleywiki.com/Jas) as she leaves [Marnie's Ranch](https://stardewvalleywiki.com/Marnie%27s_Ranch) at approximately 11:20 am. She paths west after exiting the building.

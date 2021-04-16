@@ -30,21 +30,24 @@ Instructions:
 1. Empty all inventory into the Chest. Retrieve the Fiberglass Rod.
 2. If you have 80+ Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) from a fishing chest on Spring 2, craft a Chest and take it with you, then skip to the Cindersap Forest section below. Remember to divert from the guide and purchase more Bait from Willy tomorrow before going to The Mountain lake.
 3. Retrieve the Hoe from the Chest.
-4. Fish at the optimal spot south of Leah's house until 8:30 am or you run out of Bait, whichever comes first.
-5. Head to the Beach, checking the Garbage Cans below Jodi's and Haley's houses on the way.
-6. Check the Beach for forageables and Artifact Spots.
-7. Head to Willy's shop. Sell all fish and any Beach foraging items. Save the lowest-quality [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle).
-8. If you received a Copper Ore from a fishing chest on Spring 2, purchase as much Bait as possible; otherwise, save 75g so you can purchase a Copper Ore from Clint later.
-   - You should be able to purchase at least 400 bait, and usually you can expect to receive more from fishing chests. The Bait should last all Spring.
-   - Waiting to sell the fish until you have acquired the [Fisher](https://stardewvalleywiki.com/Fishing#Fishing_Skill) profession is not optimal.
-9. Empty the contents of the Chest and pick it up.
-   - To pick up a chest without a tool, select an empty slot in your inventory and hold down the left mouse button on the Chest. Your character will strike it repeatedly until it pops free.
+4. Travel to Cindersap Forest.
+5. Walk to the tile closest to the river and six tiles west of Leah's door.<br />![Cindersap Forest Chest](images/year-1-spring-3-cindersap-forest-chest.png)
+6. Fish so that your bobber lands on the row of tiles shared by the underwater stones tile. This tile is Fishing Zone 5. Casting beyond this tile has no benefit.<br />![Cindersap Forest Bobber](images/year-1-spring-3-cindersap-forest-bobber.png)
+7. Fish until 8:30 am or you run out of Bait, whichever comes first.
+8. Travel to the Beach, checking the Garbage Cans below Jodi's and Haley's houses on the way.
+9. Check the Beach for forageables and Artifact Spots.
+10. Travel to Willy's shop. Sell all fish and any Beach foraging items. Save the lowest-quality [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle).
+11. If you received a Copper Ore from a fishing chest on Spring 2, purchase as much Bait as possible; otherwise, save 75g so you can purchase a Copper Ore from Clint later.
+    - You should be able to purchase at least 400 bait, and usually you can expect to receive more from fishing chests. The Bait should last all Spring.
+    - Waiting to sell the fish until you have acquired the [Fisher](https://stardewvalleywiki.com/Fishing#Fishing_Skill) profession is not optimal.
+12. Empty the contents of the Chest and pick it up.
+    - To pick up a Chest without a tool, select an empty slot in your inventory and hold down the left mouse button on the Chest. Your character will strike it repeatedly until it pops free.
 
 ### [Furnaces](https://stardewvalleywiki.com/Furnace)
 
 1. If you saved 75g to purchase Copper Ore from Clint, go purchase it now. This ensures Clint appears at The Farm tomorrow and gives you plans to craft Furnaces.
    - You do not have to drop the Copper Ore on the ground or otherwise do anything special with it.
-2. Head to Cindersap Forest.
+2. Travel to Cindersap Forest.
 
 ### Cindersap Forest
 

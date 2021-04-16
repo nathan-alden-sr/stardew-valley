@@ -26,7 +26,7 @@
    - The Wood is for two more Chests and a Scarecrow.
 3. Craft a Chest and take it with you.
 4. Empty your inventory. Retrieve the Fiberglass Rod and the newly-crafted Chest.
-5. Head to The Mountain.
+5. Travel to The Mountain.
 
 ### Fishing
 
@@ -39,7 +39,7 @@
    - Coal
    - [Gems](https://stardewvalleywiki.com/Minerals#Gems)
    - The most expensive items (may be a mix of fish and other items)
-5. Head home.
+5. Travel to The Farm.
 6. Ship all sellable items except for the following:
    - Chubs for Energy
    - One of each fish that is used in Community Center Bundles
