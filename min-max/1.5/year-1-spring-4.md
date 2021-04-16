@@ -39,14 +39,14 @@
    - Coal
    - Gems
    - The most expensive items (may be a mix of fish and other items)
+   - Consider keeping Ore and especially Coal. Spring 5 is heavily RNG-dependent and you may find yourself struggling to find [Resources](https://stardewvalleywiki.com/Category:Resources) in The Mines. Your decision will depend on how much risk you wish to take and what tomorrow's Luck will be. If you do decide to keep Ore and/or Coal and it's not raining tomorrow, use the spreadsheet to track how many of each you have, then store them in The Mountain Chest.
+   - Consider keeping items that don't sell for much (e.g., Wood). Gathering Wood at this point is Energy-intensive and time-consuming and each Wood only sells for 2g.
+   - Consider keeping certain rare Artifacts like [Ancient Seed](https://stardewvalleywiki.com/Ancient_Seed) or other Artifacts that don't sell for much. They can be used later to complete your Museum collection.
 5. Travel to The Farm.
 6. Ship all sellable items except for the following:
    - Chubs for Energy
    - One of each fish that is used in Community Center Bundles
    - [Diamonds](https://stardewvalleywiki.com/Diamond), [Emeralds](https://stardewvalleywiki.com/Emerald), [Jade](https://stardewvalleywiki.com/Jade), and [Rubies](https://stardewvalleywiki.com/Ruby) for future [Skull Cavern](https://stardewvalleywiki.com/Skull_Cavern) trips
-   - Consider keeping Ore and especially Coal. Spring 5 is heavily RNG-dependent and you may find yourself struggling to find [Resources](https://stardewvalleywiki.com/Category:Resources). Your decision will depend on how much risk you wish to take and what tomorrow's Luck will be.
-   - Consider keeping items that don't sell for much (e.g., Wood). Gathering Wood at this point is Energy-intensive and time-consuming and each Wood only sells for 2g.
-   - Consider keeping certain rare Artifacts like [Ancient Seed](https://stardewvalleywiki.com/Ancient_Seed) or other Artifacts that don't sell for much. They can be used later to complete your Museum collection.
 7. If time allows, cut Weeds and Grass.
 8. Pass out.
 
