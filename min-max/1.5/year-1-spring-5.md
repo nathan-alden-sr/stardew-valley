@@ -10,7 +10,7 @@
 ## Goals
 
 - Smelt five [Copper Bars](https://stardewvalleywiki.com/Copper_Bar) as quickly as possible and travel to the Blacksmith before he closes at 4:00 pm
-- Plant a large crop of [Kale](https://stardewvalleywiki.com/Kale) and a few other crops
+- Plant a large crop of [Kale](https://stardewvalleywiki.com/Kale)
 - Fish at The Mountain
 
 ## Advice and warnings
