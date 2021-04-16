@@ -23,7 +23,7 @@
 
 Tips:
 
-- It always rains on Spring 3. When raining, the river in Cindersap Forest is the best place to fish due to the presence of Catfish, which yield a lot of experience and G.
+- It always [rains](https://stardewvalleywiki.com/Weather) on Spring 3. When raining, the river in Cindersap Forest is the best place to fish due to the presence of Catfish, which yield a lot of experience and G.
 
 Instructions:
 

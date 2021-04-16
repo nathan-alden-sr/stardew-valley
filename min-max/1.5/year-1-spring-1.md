@@ -160,7 +160,7 @@ Instructions:
 3. Plant and water Parsnip Seeds and Mixed Seeds.
 4. Fell Trees until you have around four to six [Energy](https://stardewvalleywiki.com/Energy). The remaining Energy will be useful if you gather more Mixed Seeds shortly.
    - If you don't have enough Energy to fully fell a Tree, spend the Energy mining Stone or chopping a stump.
-5. Chop Weeds and grass until around 1:30 am. Don't stray too far from the Farmhouse.
+5. Chop Weeds and [Grass](https://stardewvalleywiki.com/Grass) until around 1:30 am. Don't stray too far from the Farmhouse.
 6. Ship all items except for the following:
    - All [Wood](https://stardewvalleywiki.com/Wood)
    - All Stone (one is needed for Spring 2)
