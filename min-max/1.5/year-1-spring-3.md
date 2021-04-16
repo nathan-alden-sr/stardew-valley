@@ -19,7 +19,7 @@
 
 ## Instructions
 
-### Acquire Bait
+### Bait
 
 Tips:
 
@@ -40,7 +40,7 @@ Instructions:
 9. Empty the contents of the Chest and pick it up.
    - To pick up a chest without a tool, select an empty slot in your inventory and hold down the left mouse button on the Chest. Your character will strike it repeatedly until it pops free.
 
-### Acquire plans to craft [Furnaces](https://stardewvalleywiki.com/Furnace)
+### [Furnaces](https://stardewvalleywiki.com/Furnace)
 
 1. If you saved 75g to purchase Copper Ore from Clint, go purchase it now. This ensures Clint appears at The Farm tomorrow and gives you plans to craft Furnaces.
    - You do not have to drop the Copper Ore on the ground or otherwise do anything special with it.
