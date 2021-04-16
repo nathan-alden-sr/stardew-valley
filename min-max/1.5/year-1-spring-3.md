@@ -49,7 +49,7 @@ Instructions:
 ### Cindersap Forest
 
 1. Walk to the tile closest to the river and six tiles west of Leah's door. Place the Chest northeast by one tile.<br />![Cindersap Forest Chest](images/year-1-spring-3-cindersap-forest-chest.png)
-2. Fish so that your bobber lands on the row of tiles shared by the tile depicting small stones underwater. This tile is Fishing Zone 5. Casting beyond this tile has no benefit.<br />![Cindersap Forest Chest](images/year-1-spring-3-cindersap-forest-bobber.png)
+2. Fish so that your bobber lands on the row of tiles shared by the underwater stones tile. This tile is Fishing Zone 5. Casting beyond this tile has no benefit.<br />![Cindersap Forest Bobber](images/year-1-spring-3-cindersap-forest-bobber.png)
 3. Fish until 1:50 am.
 4. Fill your inventory with the following:
    - Fiberglass Rod
@@ -57,7 +57,7 @@ Instructions:
    - Coal
    - [Gems](https://stardewvalleywiki.com/Minerals#Gems)
    - The most expensive items (may be a mix of fish and other items)
-     - Consider taking [Chubs](https://stardewvalleywiki.com/Chub) with you if you are concerned about needing food for Spring 4.
+     - Consider taking [Chubs](https://stardewvalleywiki.com/Chub) with you if you are concerned about needing Energy for Spring 4.
 5. Pass out.
 
 ## Day's end

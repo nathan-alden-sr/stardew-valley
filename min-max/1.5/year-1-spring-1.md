@@ -48,7 +48,7 @@
 Tips:
 
 - While moving through areas that can spawn forageables, constantly scan the screen to be sure you spot them. Try and route your path efficiently. Stay on the "inside line" of any direction changes you take.
-- Use the Scythe to chop Weeds, but only if they are near your path. Try and time your swings such that the maximum number of Weeds are chopped per swing.
+- Use the Scythe to cut Weeds, but only if they are near your path. Try and time your swings such that the maximum number of Weeds are cut per swing.
 - Sometimes, forageables can be partially or completely hidden behind Trees and bushes. It's not worth the time it takes to check behind every Tree, however.
 
 Instructions:
@@ -59,7 +59,7 @@ Instructions:
    - When foraging grouped items, stand in the center of a 3x3 box containing as many items as possible. Drag the right mouse button over all the items to rapidly collect them.
    - Spring Onions may sometimes spawn down the stairs near the drain.
 4. Speak to [Jas](https://stardewvalleywiki.com/Jas) as she leaves [Marnie's Ranch](https://stardewvalleywiki.com/Marnie%27s_Ranch) at approximately 11:20 am. She paths west after exiting the building.
-5. Spend a few seconds chopping Weeds to the south of Marnie's Ranch. You want to time your arrival at [Emily's](https://stardewvalleywiki.com/Emily) bedroom door for 12:00 pm.
+5. Spend a few seconds cutting Weeds to the south of Marnie's Ranch. You want to time your arrival at [Emily's](https://stardewvalleywiki.com/Emily) bedroom door for 12:00 pm.
 6. Speak to [Haley](https://stardewvalleywiki.com/Haley) as she walks west toward [Leah](https://stardewvalleywiki.com/Leah)'s house.
 7. Walk east and transition to [Pelican Town](https://stardewvalleywiki.com/Pelican_Town).
 
@@ -109,7 +109,7 @@ Instructions:
 14. Walk west and speak to [Caroline](https://stardewvalleywiki.com/Caroline) and [Jodi](https://stardewvalleywiki.com/Jodi).
 15. Walk west and speak to [Vincent](https://stardewvalleywiki.com/Vincent).
 16. Walk north and speak to [Harvey](https://stardewvalleywiki.com/Harvey).
-17. Walk west and chop all Weeds next to the fence.
+17. Walk west and cut all Weeds next to the fence.
 18. Walk north and east and enter Pierre's General Store.
 19. Speak to Leah.
 20. Walk behind the counter and speak to [Pierre](https://stardewvalleywiki.com/Pierre).
@@ -128,7 +128,7 @@ Instructions:
 
 ### The [Backwoods](https://stardewvalleywiki.com/Backwoods)
 
-1. Clear a path to the Backwoods. Try and chop as many Weeds as possible to maximize the chance for Mixed Seeds.
+1. Clear a path to the Backwoods. Try and cut as many Weeds as possible to maximize the chance for Mixed Seeds.
 2. Transition to the Backwoods at 6:10 am.
 3. Walk north and east and transition to [The Mountain](https://stardewvalleywiki.com/The_Mountain).
 
@@ -145,7 +145,7 @@ Instructions:
 1. Go south, then west behind the [Community Center](https://stardewvalleywiki.com/Community_Center).
 2. Clear the fenced area of Weeds.
    - The tile blocking the fenced area will randomly be a Weed, a Stone, or a branch, so have the correct tool selected before you get to the tile.
-3. Walk west past the fountain and chop Weeds near the edge of the screen.
+3. Walk west past the fountain and cut Weeds near the edge of the screen.
 4. Walk south, then west, and transition to the Bus Stop.
 
 ### The Bus Stop: Second visit
@@ -160,7 +160,7 @@ Instructions:
 3. Plant and water Parsnip Seeds and Mixed Seeds.
 4. Fell Trees until you have around four to six [Energy](https://stardewvalleywiki.com/Energy). The remaining Energy will be useful if you gather more Mixed Seeds shortly.
    - If you don't have enough Energy to fully fell a Tree, spend the Energy mining Stone or chopping a stump.
-5. Chop Weeds and [Grass](https://stardewvalleywiki.com/Grass) until around 1:30 am. Don't stray too far from the Farmhouse.
+5. Cut Weeds and [Grass](https://stardewvalleywiki.com/Grass) until around 1:30 am. Don't stray too far from the Farmhouse.
 6. Ship all items except for the following:
    - All [Wood](https://stardewvalleywiki.com/Wood)
    - All Stone (one is needed for Spring 2)
