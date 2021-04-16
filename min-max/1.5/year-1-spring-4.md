@@ -35,9 +35,9 @@
 3. Fish until 1:00 am.
 4. Fill your inventory with the following:
    - Fiberglass Rod (when raining tomorrow)
-   - [Ore](https://stardewvalleywiki.com/Ore)
+   - Ore
    - Coal
-   - [Gems](https://stardewvalleywiki.com/Minerals#Gems)
+   - Gems
    - The most expensive items (may be a mix of fish and other items)
 5. Travel to The Farm.
 6. Ship all sellable items except for the following:

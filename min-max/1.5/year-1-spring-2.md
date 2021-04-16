@@ -13,7 +13,7 @@
 
 ## Advice and warnings
 
-- It is possible to not have enough money to purchase the Fiberglass Rod and bait before Willy leaves his shop counter. If this happens, create a new game and hope for better luck finding forageables.
+- It is possible to not have enough money to purchase the Fiberglass Rod and Bait before Willy leaves his shop counter. If this happens, create a new game and hope for better luck finding forageables.
 
 ## Instructions
 

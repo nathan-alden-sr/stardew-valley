@@ -38,7 +38,7 @@ Instructions:
 9. Check the Beach for forageables and Artifact Spots.
 10. Travel to Willy's shop. Sell all fish and any Beach foraging items. Save the lowest-quality [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle).
 11. If you received a Copper Ore from a fishing chest on Spring 2, purchase as much Bait as possible; otherwise, save 75g so you can purchase a Copper Ore from Clint later.
-    - You should be able to purchase at least 400 bait, and usually you can expect to receive more from fishing chests. The Bait should last all Spring.
+    - You should be able to purchase at least 400 Bait, and usually you can expect to receive more from fishing chests. The Bait should last all Spring.
     - Waiting to sell the fish until you have acquired the [Fisher](https://stardewvalleywiki.com/Fishing#Fishing_Skill) profession is not optimal.
 12. Empty the contents of the Chest and pick it up.
     - To pick up a Chest without a tool, select an empty slot in your inventory and hold down the left mouse button on the Chest. Your character will strike it repeatedly until it pops free.
