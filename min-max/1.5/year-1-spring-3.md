@@ -27,7 +27,7 @@ Tips:
 
 Instructions:
 
-1. Empty all inventory into the Chest. Retrieve the Fiberglass Rod.
+1. Empty your inventory into the Chest. Retrieve the Fiberglass Rod.
 2. If you have 80+ Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) from a fishing chest on Spring 2, craft a Chest and take it with you, then skip to the Cindersap Forest section below. Remember to divert from the guide and purchase more Bait from Willy tomorrow before going to The Mountain lake.
 3. Retrieve the Hoe from the Chest.
 4. Travel to Cindersap Forest.
@@ -36,7 +36,7 @@ Instructions:
 7. Fish until 8:30 am or you run out of Bait, whichever comes first.
 8. Travel to the Beach, checking the Garbage Cans below Jodi's and Haley's houses on the way.
 9. Check the Beach for forageables and Artifact Spots.
-10. Travel to Willy's shop. Sell all fish and any Beach foraging items. Save the lowest-quality [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle).
+10. Travel to the Fish Shop. Sell all fish and any Beach foraging items. Save the lowest-quality [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle).
 11. If you received a Copper Ore from a fishing chest on Spring 2, purchase as much Bait as possible; otherwise, save 75g so you can purchase a Copper Ore from Clint later.
     - You should be able to purchase at least 400 Bait, and usually you can expect to receive more from fishing chests. The Bait should last all Spring.
     - Waiting to sell the fish until you have acquired the [Fisher](https://stardewvalleywiki.com/Fishing#Fishing_Skill) profession is not optimal.
@@ -59,7 +59,7 @@ Instructions:
    - [Ore](https://stardewvalleywiki.com/Ore)
    - Coal
    - [Gems](https://stardewvalleywiki.com/Minerals#Gems)
-   - The most expensive items (may be a mix of fish and other items)
+   - The most profitable item stacks as calculated by the spreadsheet
      - Consider taking [Chubs](https://stardewvalleywiki.com/Chub) with you if you are concerned about needing Energy for Spring 4.
 5. Pass out.
 

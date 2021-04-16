@@ -16,8 +16,8 @@
 
 ## Advice and warnings
 
-- Play a female character. This awards you with extra money in the mail.
-- See [Parsnips crop planner](https://stardew.info/planner/32-heavy-rabbits-hugged-merrily) for a suggested [Parsnip](https://stardewvalleywiki.com/Parsnip) and [Scarecrow](https://stardewvalleywiki.com/Scarecrow) layout. [Mixed Seeds](https://stardewvalleywiki.com/Mixed_Seeds) are depicted by a generic crop icon.
+- Play a female character. This awards you with extra G in the mail.
+- See [Parsnips crop planner](https://stardew.info/planner/13-dark-ants-loitered-cordially) for a suggested [Parsnip](https://stardewvalleywiki.com/Parsnip) and [Scarecrow](https://stardewvalleywiki.com/Scarecrow) layout. [Mixed Seeds](https://stardewvalleywiki.com/Mixed_Seeds) are depicted by a generic crop icon.
 - You need to have collected enough forageables by the end of the day to have enough money to purchase the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) and enough [Bait](https://stardewvalleywiki.com/Bait_(item)) before [Willy](https://stardewvalleywiki.com/Willy) closes his shop on [Spring](https://stardewvalleywiki.com/Spring) 2.
 - You must mine and store at least one [Stone](https://stardewvalleywiki.com/Stone) at some point during the day for Spring 2.
 - Pause often! It's instantaneous, free, and allows you to think.
@@ -31,7 +31,7 @@
 3. Set game options. It is recommended to set Zoom Level to 75% in order to see more of the map.
 4. Unpause.
 5. Take the [Parsnip Seeds](https://stardewvalleywiki.com/Parsnip_Seeds).
-6. Fell a mix of nine [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree). Do not fell any [Oak Trees](https://stardewvalleywiki.com/Oak_Tree) as the [Acorns](https://stardewvalleywiki.com/Acorn) are needed for later and we can't get Acorns until reaching Foraging level 1.
+6. Fell a mix of nine [Maple Trees](https://stardewvalleywiki.com/Maple_Tree) and [Pine Trees](https://stardewvalleywiki.com/Pine_Tree). Do not fell any [Oak Trees](https://stardewvalleywiki.com/Oak_Tree) as the [Acorns](https://stardewvalleywiki.com/Acorn) are needed for later and you can't get Acorns until reaching Foraging level 1.
    - Do not gather any Tree Seeds embedded in the ground as they are destroyed at Foraging level 0.
    - Pick Trees that are close to one another to minimize extra walking.
    - At Foraging level 0, every tree takes ten chops to fell.
@@ -82,7 +82,7 @@ Instructions:
 
 Tips:
 
-- Do not forage any Beach forageables. We need the free inventory slots for other forageables. We will collect them on subsequent days.
+- Do not forage any Beach forageables. You need the free inventory slots for other forageables. You will collect them on subsequent days.
 
 Instructions:
 
@@ -92,7 +92,7 @@ Instructions:
 
 ### Pelican Town: Second visit
 
-1. Walk east toward the [Museum](https://stardewvalleywiki.com/Museum). If you hoed up an [Artifact](https://stardewvalleywiki.com/Artifacts) on the beach then donate it to the Museum and claim the 250g reward, then exit the Museum.
+1. Walk east toward the [Museum](https://stardewvalleywiki.com/Museum). If you hoed up an [Artifact](https://stardewvalleywiki.com/Artifacts) on the beach then donate it to the Museum and claim the 250g reward in your journal, then exit the Museum.
 2. Walk east and check the Museum's Garbage Can.
 3. Walk north and west, then check the [Blacksmith's](https://stardewvalleywiki.com/Blacksmith) Garbage Can.
 4. Enter the Blacksmith, walk behind the counter, and speak to [Clint](https://stardewvalleywiki.com/Clint).

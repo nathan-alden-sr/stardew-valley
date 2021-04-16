@@ -13,8 +13,9 @@
 
 ## Advice and warnings
 
-- Any time the weather is about to change from dry to raining or vice versa, read the next day's guide page to determine how you will change your plans to accommodate. For example, let's say today is dry and tomorrow is raining. You know you will be fishing in Cindersap Forest tomorrow, but what if tomorrow's guide page expects you to smelt Ore in a Furnace you placed on The Mountain? You'll have to remember to take the Furnace, Coal, Ore, and Bars with you at day's end so you can continue smelting in Cindersap Forest. Then, once a subsequent day turns dry, you'll have to remember to take the Furnace, Coal, and Ore with you at raining day's end so you can take them to The Mountain the next day. Because the days on which it will rain are unpredictable, forgetting these things will often end your run.
-- Walking to the mailbox via the Backwoods and vice versa is nearly 20 minutes faster than via Pelican Town.
+- Any time the weather is about to change from dry to raining or vice versa, read the next day's guide page to determine how you will change your plans to accommodate. For example, let's say today is dry and tomorrow is raining. You know you will be fishing in Cindersap Forest tomorrow, but what if tomorrow's guide page expects you to smelt Ore in a Furnace you placed on The Mountain? You'll have to remember to take the Furnace, Coal, Ore, and Bars with you at day's end so you can continue smelting in Cindersap Forest. Then, once a subsequent day turns dry, you'll have to remember to take the Furnace, Coal, and Ore with you at rainy day's end so you can take them to The Mountain the next day. Because the days on which it will rain are unpredictable, forgetting these things will often end your run.
+- For the sake of avoiding combinatorial explosion, the guide will assume it never rains (unless the day is a forced rainy day). It's up to you to remember to adjust certain decisions to account for changes in weather.
+- Walking to the mailbox via the Backwoods and vice versa is nearly 20 minutes faster than via Pelican Town. Likewise, walking to the mailbox from The Mines and vice versa via the Backwoods is faster.
 
 ## Instructions
 
@@ -25,7 +26,7 @@
 3. If you do not have 150 Wood, fell Trees in the same manner as before until you have 150 Wood. You can fell Oak Trees now that they will drop Acorns. Take your Scythe with you to clear Weeds and Grass.
    - The Wood is for two more Chests and a Scarecrow.
 4. Craft a Chest and take it with you.
-5. Empty your inventory. Retrieve the Fiberglass Rod and the newly-crafted Chest.
+5. Empty your inventory into The Farm Chest. Retrieve the Fiberglass Rod and the newly-crafted Chest.
 6. Travel to The Mountain.
 
 ### Fishing
@@ -38,8 +39,8 @@
    - Ore
    - Coal
    - Gems
-   - The most expensive items (may be a mix of fish and other items)
-   - Consider keeping Ore and especially Coal. Spring 5 is heavily [RNG](https://ggn00b.com/for-noobs/what-is-rng-explained)-dependent and you may find yourself struggling to find [Resources](https://stardewvalleywiki.com/Category:Resources) in The Mines. Your decision will depend on how much risk you wish to take and what tomorrow's Luck will be. If you do decide to keep Ore and/or Coal and it's not raining tomorrow, use the spreadsheet to track how many of each you have, then store them in The Mountain Chest.
+   - The most profitable item stacks as calculated by the spreadsheet
+   - Consider keeping Ore and especially Coal. Spring 5 is heavily [RNG](https://ggn00b.com/for-noobs/what-is-rng-explained)-dependent and you may find yourself struggling to find [Resources](https://stardewvalleywiki.com/Category:Resources) in [The Mines](https://stardewvalleywiki.com/The_Mines). Your decision will depend on how much risk you wish to take and what tomorrow's Luck will be.
    - Consider keeping items that don't sell for much (e.g., Wood). Gathering Wood at this point is Energy-intensive and time-consuming and each Wood only sells for 2g.
    - Consider keeping certain rare Artifacts like [Ancient Seed](https://stardewvalleywiki.com/Ancient_Seed) or other Artifacts that don't sell for much. They can be used later to complete your Museum collection.
 5. Travel to The Farm.
