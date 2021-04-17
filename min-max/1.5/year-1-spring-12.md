@@ -15,7 +15,7 @@
 
 ### The Farm
 
-1. If two days have elapsed since Demetrius' visit, check The Cave for Mushrooms.
+1. If two days have elapsed since the last time you checked The Cave, check it now for Mushrooms.
 2. Deposit your entire inventory into Chests. Withdraw the following:
    - Sources of Energy if you don't have them stored in the Chest in The Mines
    - Watering Can
