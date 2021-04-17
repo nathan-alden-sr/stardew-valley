@@ -30,8 +30,9 @@
 1. Withdraw the Gold Pickaxe from the Chest.
 2. Continue your descent while keeping the Furnaces smelting as often as reasonable.
    - You will need the required number of Copper Bars and Iron Bars before 12:00 am.
+   - Remember you need one extra Copper Bar and Iron Bar, and one Gold Bar for the Blacksmith's Bundle.
 3. Mine until 12:00 am.
-   - Prioritize Iron Ore and Gold Ore. Copper Ore is now only useful for tool upgrade and crafting more Furnaces later.
+   - Prioritize Iron Ore and Gold Ore once you have the required Copper Bars. Copper Ore is now only useful for tool upgrade and crafting more Furnaces later.
    - You may want to stop mining a bit earlier if you need to spend time breaking Cobblestone Paths before placing Sprinklers.
 4. Deposit your entire inventory into the Chest. Withdraw the following:
    - The required number of Copper Bars if you have them, plus one extra for the Blacksmith's Bundle
