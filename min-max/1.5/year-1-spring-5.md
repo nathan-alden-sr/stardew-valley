@@ -100,7 +100,7 @@
 4. Update the spreadsheet to account for any Gold Ore you acquired while fishing.
 5. Fill your inventory with the following:
    - The most profitable item stacks as calculated by the spreadsheet
-   - Do not take any Iron Ore, Iron Bars, Gold Ore, Gold Bars, and Coal
+   - Do not take any Iron Ore, Iron Bars, Gold Ore, Gold Bars, or Coal
 
 ### Day's end
 
