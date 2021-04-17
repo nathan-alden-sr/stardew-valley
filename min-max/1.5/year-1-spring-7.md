@@ -42,8 +42,10 @@
 
 ### The Mountain
 
-1. Fish until 2:00 am.
-2. Pass out.
+1. Fish until 1:50 am.
+2. Deposit your entire inventory into the Chest. Withdraw the following:
+   - The most profitable item stacks as calculated by the spreadsheet
+3. Pass out.
 
 ## Day's end
 

@@ -19,7 +19,7 @@
 
 ## Instructions
 
-### The Farm
+### The Farm (1)
 
 Tips:
 
@@ -48,7 +48,10 @@ Instructions:
    - The most profitable item stacks as calculated by the spreadsheet
    - Do not withdraw any Gold Ore, Gold Bars, or the rest of the Coal. You will be smelting Gold Bars tomorrow.
 3. Travel to The Farm.
-4. Ship enough items to reach the G target calculated by the spreadsheet
+
+### The Farm (2)
+
+1. Ship enough items to reach the G target calculated by the spreadsheet
    - You will need 5,000g for the Steel Axe upgrade and enough G to purchase the remaining Gold Ore you need to acquire 25 in total
-5. If time allows, cut Weeds and Grass.
-6. Pass out.
+2. If time allows, cut Weeds and Grass.
+3. Pass out.
