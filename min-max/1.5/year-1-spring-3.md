@@ -23,7 +23,7 @@
 ### The Farm
 
 1. Deposit your entire inventory into the Chest. Withdraw the Fiberglass Rod.
-2. If you have 80+ Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) from a fishing chest on Spring 2, craft a Chest and keep it in your inventory, then skip to the Cindersap Forest section below. Remember to divert from the guide and purchase more Bait from Willy tomorrow before going to The Mountain lake.
+2. If you have at least 80 Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) from a fishing chest on Spring 2, craft a Chest and keep it in your inventory, then skip to the [Cindersap Forest (1)](#cindersap-forest-1) section below. Remember to divert from the guide and purchase more Bait from Willy tomorrow before going to The Mountain lake.
 3. Withdraw the Hoe from the Chest.
 4. Travel to Cindersap Forest.
 
