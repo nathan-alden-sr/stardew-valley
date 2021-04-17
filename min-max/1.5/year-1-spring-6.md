@@ -30,7 +30,10 @@
 8. Fish until 1:00 am.
 9. Deposit your entire inventory into the Chest. Withdraw the following:
    - Five Iron Bars
-   - The items you wish to sell according to the spreadsheet
-     - You will need 5,000g for the Steel Axe upgrade and enough G to buy the remaining Gold Ore you need to reach 25
-10. If time allows, cut Weeds and Grass.
-11. Pass out.
+   - The most profitable item stacks as calculated by the spreadsheet
+   - Do not withdraw any Gold Ore, Gold Bars, or the rest of the Coal. You will be smelting Gold Bars tomorrow.
+10. Travel to The Farm.
+11. Ship enough items to reach the G target calculated by the spreadsheet
+    - You will need 5,000g for the Steel Axe upgrade and enough G to purchase the remaining Gold Ore you need to acquire 25 in total
+12. If time allows, cut Weeds and Grass.
+13. Pass out.
