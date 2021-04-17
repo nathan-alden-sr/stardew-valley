@@ -23,11 +23,12 @@
 
 1. Check the Television and learn the [Stir Fry](https://stardewvalleywiki.com/Stir_Fry) recipe from the Queen of Sauce.
 2. Check the mail until you receive the Wizard's letter.
-3. Water crops.
-4. Deposit your entire inventory into Chests. Withdraw the following:
+3. Withdraw the Watering Can from a Chest.
+4. Water crops.
+5. Deposit your entire inventory into Chests. Withdraw the following:
    - Fiberglass Rod
    - Five Iron Bars
-5. Travel to Cindersap Forest.
+6. Travel to Cindersap Forest.
 
 ### Cindersap Forest
 
@@ -44,8 +45,7 @@
 ### The Mountain
 
 1. Fish until 1:50 am. Continuously smelt Gold Bars but stop once you've acquired five.
-2. Deposit your entire inventory into the Chest. Withdraw the following:
-   - The most profitable item stacks as calculated by the spreadsheet
+2. Deposit your entire inventory into the Chest. Withdraw the most profitable item stacks as calculated by the spreadsheet.
 3. Pass out.
 
 ## Day's end

@@ -20,27 +20,27 @@
 
 ### The Farm
 
-1. Water crops.
-2. Fell Trees until 8:00 am.
-3. Deposit your entire inventory into Chests. Withdraw the following:
+1. Withdraw the following from Chests:
+   - Axe
+   - Watering Can
+2. Water crops.
+3. Fell Trees until 8:00 am.
+4. Deposit your entire inventory into Chests. Withdraw the following:
+   - Five Gold Bars
    - Fiberglass Rod
-4. Travel to the Blacksmith.
+5. Travel to the Blacksmith.
 
-### Blacksmith
+### Pelican Town
 
 1. Upgrade the Steel Pickaxe to the Gold Pickaxe for 10,000g.
 2. Travel to Pierre's General Store.
-
-### Pierre's General Store
-
-1. Purchase the Backpack upgrade for 2,000g.
-2. Travel to The Mountain fishing spot.
+3. Purchase the Backpack upgrade for 2,000g.
+4. Travel to The Mountain fishing spot.
 
 ### The Mountain
 
 1. Fish until 1:50 am.
-2. Deposit your entire inventory into the Chest. Withdraw the following:
-   - The most profitable item stacks as calculated by the spreadsheet
+2. Deposit your entire inventory into the Chest. Withdraw the most profitable item stacks as calculated by the spreadsheet.
 3. Pass out.
 
 ## Day's end

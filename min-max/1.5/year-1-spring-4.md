@@ -15,25 +15,26 @@
 
 - Any time the weather is about to change from dry to raining or vice versa, read the next day's guide page to determine how you will change your plans to accommodate. For example, let's say today is dry and tomorrow is raining. You know you will be fishing in Cindersap Forest tomorrow, but what if tomorrow's guide page expects you to smelt Ore in a Furnace you placed on The Mountain? You'll have to remember to take the Furnace, Coal, Ore, and Bars with you at day's end so you can continue smelting in Cindersap Forest. Then, once a subsequent day turns dry, you'll have to remember to take the Furnace, Coal, and Ore with you at rainy day's end so you can take them to The Mountain the next day. Because the days on which it will rain are unpredictable, forgetting these things will often end your run.
 - For the sake of avoiding combinatorial explosion, the guide will assume it never rains (unless the day is a forced rainy day). It's up to you to remember to adjust certain decisions to account for changes in weather. The most common change is to take the Fiberglass Rod with you before passing out instead of leaving it in a Chest.
-- Walking to the mailbox via the Backwoods and vice versa is nearly 20 minutes faster than via Pelican Town. Likewise, walking to the mailbox from The Mines and vice versa via the Backwoods is faster.
+- Traveling to the mailbox via the Backwoods and vice versa is nearly 20 minutes faster than via Pelican Town. Likewise, traveling to the mailbox from The Mines and vice versa via the Backwoods is faster.
 
 ## Instructions
 
 ### The Farm (1)
 
 1. From now on, check the Television at the start of every day to reveal tomorrow's [Weather](https://stardewvalleywiki.com/Weather).
-2. Water crops.
-3. If you do not have 150 Wood, fell Trees in the same manner as before until you have 150 Wood. You can fell Oak Trees now that they will drop Acorns. Take your Scythe with you to clear Weeds and Grass.
+2. Withdraw the Watering Can from the Chest.
+3. Water crops.
+4. If you do not have 150 Wood, fell Trees in the same manner as before until you have 150 Wood. You can fell Oak Trees now that they will drop Acorns. Take your Scythe with you to clear Weeds and Grass.
    - The Wood is for two more Chests and a [Scarecrow](https://stardewvalleywiki.com/Scarecrow).
-4. Craft a Chest and keep it in your inventory.
-5. Deposit your entire inventory into The Farm Chest. Withdraw the following:
+5. Craft a Chest and keep it in your inventory.
+6. Deposit your entire inventory into The Farm Chest. Withdraw the following:
    - Fiberglass Rod
    - The newly-crafted Chest
-6. Travel to The Mountain.
+7. Travel to The Mountain.
 
 ### The Mountain
 
-1. Walk to the fence at the bottom of the screen and continue walking east from there. Place the Chest on the east-most tile on the row of tiles just above the south-most row of tiles.<br />![The Mountain Chest](images/year-1-sprint-4-the-mountain-chest.png)
+1. Travel to the fence at the bottom of the screen and continue traveling east from there. Place the Chest on the east-most tile on the row of tiles just above the south-most row of tiles.<br />![The Mountain Chest](images/year-1-sprint-4-the-mountain-chest.png)
 2. Fish so that your bobber lands one tile southeast of the underwater stone. This tile is Fishing Zone 5. Casting beyond this tile has no benefit.<br />![The Mountain Bobber](images/year-1-sprint-4-the-mountain-bobber.png)
 3. Fish until 1:00 am.
 4. Deposit your entire inventory into the Chest. Withdraw the following:

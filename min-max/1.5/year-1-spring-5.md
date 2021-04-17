@@ -24,7 +24,7 @@
   - Monster density
   - Room layouts
   - [Infested Floors](https://stardewvalleywiki.com/The_Mines#Infested_Floors)
-- See the [first Kale crop planner](https://stardew.info/planner/5-strong-oysters-married-easily) for a suggested plan. Mixed Seeds are depicted by a generic crop icon. This plan takes into account the need to place several [Sprinklers](https://stardewvalleywiki.com/Sprinkler) later in the run.
+- See the [first Kale crop planner](https://stardew.info/planner/20-safe-dragonflies-played-merrily) for a suggested plan. Mixed Seeds are depicted by a generic crop icon. This plan takes into account the need to place several Sprinklers later in the run.
 - At least one [Bean Starter](https://stardewvalleywiki.com/Bean_Starter) must be planted by this day, watered every single day, and not eaten by Crows in order to successfully complete the Spring Crops Bundle on Spring 15.
 
 ## Instructions
@@ -83,7 +83,7 @@ Instructions:
      - If you need to purchase a [Potato Seed](https://stardewvalleywiki.com/Potato_Seeds), leave one inventory slot empty. You will need a total of three empty inventory slots after selling Gems to Clint and upgrading the Pickaxe. Upgrading the Pickaxe will free up two slots. If you are also selling at least one Gem stack, you do not need to free any inventory slots.
 8. Travel to the Blacksmith.
 
-### Blacksmith
+### Pelican Town (1)
 
 1. Sell all Gems.
 2. Using the spreadsheet, calculate how much G you will need to purchase the Seeds necessary to reach [Farming](https://stardewvalleywiki.com/Farming) level 2 on Spring 11.
@@ -91,27 +91,28 @@ Instructions:
    - You will almost certainly not have enough G to acquire all 25 Gold Ore; this is expected. You will acquire the remainder on subsequent days.
 4. Upgrade your Pickaxe to the Copper Pickaxe for 2,000g.
 5. Travel to Pierre's General Store.
-
-### Pelican Town
-
-1. Purchase the following:
+6. Purchase the following:
    - One Bean Starter
    - One [Potato Seed](https://stardewvalleywiki.com/Potato_Seeds) if you did not get one from a Mixed Seed
    - [Kale Seeds](https://stardewvalleywiki.com/Kale_Seeds) with the remainder of your G (you must purchase at least the calculated minimum)
-     - In rare cases, you will have far more G on this day than you should spend on Kale Seeds (e.g., if you sold a [Treasure Chest](https://stardewvalleywiki.com/Treasure_Chest) that you acquired from a fishing chest). In these cases, use your judgment about how many Kale Seeds are reasonable to plant and water. Be sure to account for the extra seeds in your crop planner.
-2. Travel to The Farm.
+     - In rare cases, you will have far more G on this day than you should spend on Kale Seeds (e.g., if you sold a [Treasure Chest](https://stardewvalleywiki.com/Treasure_Chest) that you acquired from a fishing chest). In these cases, use your judgment about how many Kale Seeds are reasonable to plant and water. Be sure to account for the extra Seeds in your crop planner.
+7. Travel to The Farm.
 
 ### The Farm (2)
 
-1. Hoe, plant the Seeds you purchased, and water crops.
-2. Deposit your entire inventory into the Chest. Withdraw the following:
+1. Deposit your entire inventory into the Chest. Withdraw the following:
+   - Hoe
+   - Purchased Seeds
+   - Watering Can
+2. Till, plant, and water crops
+3. Deposit your entire inventory into the Chest. Withdraw the following:
    - Fiberglass Rod
    - Furnace
    - Iron Ore
    - Gold Ore
    - Coal
    - Chubs
-3. Travel to The Mountain fishing spot.
+4. Travel to The Mountain fishing spot.
 
 ### The Mountain
 

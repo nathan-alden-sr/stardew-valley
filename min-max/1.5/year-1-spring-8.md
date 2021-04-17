@@ -20,13 +20,15 @@
 
 ### The Farm (1)
 
-1. Water crops.
-2. Ship enough items to reach the G target calculated by the spreadsheet
-   - You will need 10,000g for the Gold Pickaxe upgrade and 2,000g for the [Backpack](https://stardewvalleywiki.com/Tools#Other_Tools) upgrade.
-   - If you can't reach the G target right now, you will have to return to The Farm tonight to ship the remainder.
-3. Deposit your entire inventory into Chests. Withdraw the following:
-   - Fiberglass Rod
-4. Travel to The Mountain fishing spot.
+1. Deposit your entire inventory into chests. Withdraw the following:
+   - Enough items to ship to reach the G target calculated by the spreadsheet
+     - You will need 10,000g for the Gold Pickaxe upgrade and 2,000g for the [Backpack](https://stardewvalleywiki.com/Tools#Other_Tools) upgrade.
+     - If you can't reach the G target right now, you will have to return to The Farm tonight to ship the remainder.
+   - Watering Can
+2. Ship items.
+3. Water crops.
+4. Deposit your entire inventory into Chests. Withdraw the Fiberglass Rod.
+5. Travel to The Mountain fishing spot.
 
 ### The Mountain
 

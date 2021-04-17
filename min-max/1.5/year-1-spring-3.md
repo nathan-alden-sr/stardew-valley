@@ -22,14 +22,14 @@
 
 ### The Farm
 
-1. Deposit your entire inventory into the Chest. Retrieve the Fiberglass Rod.
+1. Deposit your entire inventory into the Chest. Withdraw the Fiberglass Rod.
 2. If you have 80+ Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) from a fishing chest on Spring 2, craft a Chest and keep it in your inventory, then skip to the Cindersap Forest section below. Remember to divert from the guide and purchase more Bait from Willy tomorrow before going to The Mountain lake.
-3. Retrieve the Hoe from the Chest.
+3. Withdraw the Hoe from the Chest.
 4. Travel to Cindersap Forest.
 
 ### Cindersap Forest (1)
 
-1. Walk to the tile closest to the river and six tiles west of Leah's door.<br />![Cindersap Forest Chest](images/year-1-spring-3-cindersap-forest-chest.png)
+1. Travel to the tile closest to the river and six tiles west of Leah's door.<br />![Cindersap Forest Chest](images/year-1-spring-3-cindersap-forest-chest.png)
 2. Fish so that your bobber lands on the row of tiles shared by the underwater stones tile. This tile is Fishing Zone 5. Casting beyond this tile has no benefit.<br />![Cindersap Forest Bobber](images/year-1-spring-3-cindersap-forest-bobber.png)
 3. Fish until 8:30 am or you run out of Bait, whichever comes first.
 4. Travel to the Beach, checking the Garbage Cans below Jodi's and Haley's houses on the way.
@@ -49,7 +49,7 @@
 
 ### Cindersap Forest (2)
 
-1. Walk to the tile closest to the river and six tiles west of Leah's door. Place the Chest northeast by one tile.<br />![Cindersap Forest Chest](images/year-1-spring-3-cindersap-forest-chest.png)
+1. Travel to the tile closest to the river and six tiles west of Leah's door. Place the Chest northeast by one tile.<br />![Cindersap Forest Chest](images/year-1-spring-3-cindersap-forest-chest.png)
 2. Fish so that your bobber lands on the row of tiles shared by the underwater stones tile. This tile is Fishing Zone 5. Casting beyond this tile has no benefit.<br />![Cindersap Forest Bobber](images/year-1-spring-3-cindersap-forest-bobber.png)
 3. Fish until 1:50 am.
 4. Deposit your entire inventory into the Chest. Withdraw the following:

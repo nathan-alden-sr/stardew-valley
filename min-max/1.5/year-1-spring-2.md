@@ -25,7 +25,10 @@
    - Similar to foraging, stand in the center of a 3x3 box containing as many crops as possible. Drag the left mouse button over each crop to eliminate all wasted time between each watering.
 3. Craft a Chest and keep it in your inventory.
    - If you did not have enough Energy on Spring 1 to chop 50 Wood, chop enough now to craft the Chest. This may not leave you with enough time to acquire the Bamboo Pole and Bait before the [Fish Shop](https://stardewvalleywiki.com/Fish_Shop) closes, however.
-4. Deposit your entire inventory into the Farmhouse Chest. Retrieve the Hoe and one Stone to go with your newly-crafted Chest.
+4. Deposit your entire inventory into the Farmhouse Chest. Withdraw the following:
+   - Hoe
+   - One Stone
+   - The newly-crafted Chest
 5. Travel to Pelican Town.
 
 ### Pelican Town
@@ -58,7 +61,7 @@ Instructions:
 5. Speak to Willy when he's behind the shop counter. Sell him all Beach forageables and fish. Purchase the [Training Rod](https://stardewvalleywiki.com/Training_Rod) for 25g.
    - The Training Rod allows for easier perfect catches. Perfect catches increase [Experience](https://stardewvalleywiki.com/Skills) gained from fishing, which is more important than the income acquired from higher-quality fish.
 6. Exit the Fish Shop, then fish below Willy's door using minimum casts.
-   - Since fish quality doesn't matter with the Training Rod, there is no reason to waste time walking to the eastern end of the pier.
+   - Since fish quality doesn't matter with the Training Rod, there is no reason to waste time traveling to the eastern end of the pier.
    - Monitor your inventory using the [spreadsheet](spreadsheet.md).
 7. As soon as you have 1,800g in inventory and fish value and are Fishing level 2, destroy the Training Rod, sell all the fish, and purchase the Fiberglass Rod from Willy. Purchase as much Bait as possible and equip the Bait on the Fiberglass Rod.
    - It's now more difficult to perfect catch due to only being Fishing level 2, but the Bait's reduction of bobber time combined with catching fish of silver or higher quality more than makes up for it.
