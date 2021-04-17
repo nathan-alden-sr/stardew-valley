@@ -9,22 +9,24 @@
 
 ## Goals
 
+- Mine and smelt
+
 ## Instructions
 
 ### The Farm
 
-1. Deposit your entire inventory into Chests.
-2. If two days have elapsed since Demetrius' visit, check The Cave for Mushrooms.
+1. If two days have elapsed since Demetrius' visit, check The Cave for Mushrooms.
+2. Deposit your entire inventory into Chests. Withdraw sources of Energy if you don't have them stored in the Chest in The Mines.
 3. Travel to The Mines.
 
 ### The Mines
 
 1. Withdraw the Gold Pickaxe from the Chest.
-2. Continue your descent while keeping the furnace smelting as often as reasonable.
+2. Continue your descent while keeping the Furnaces smelting as often as reasonable.
 3. Mine until 1:50 am.
 4. Deposit your entire inventory into the Chest. Withdraw the following:
    - The most profitable item stacks as calculated by the spreadsheet
-   - Do not withdraw any Ore, Coal, or Chubs.
+   - Do not withdraw any Ore or Coal.
 5. Pass out.
 
 ### Day's end
