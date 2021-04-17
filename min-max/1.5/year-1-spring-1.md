@@ -150,7 +150,7 @@ Instructions:
 
 ### The Bus Stop: Second visit
 
-1. Pick up the forageables you dropped. Occasionally, you may not have room for all the items. If this occurs, eat all the Spring Onions you gathered. If you still don't have room, transition to The Farm, deposit everything but your tools into the Chest, then transition to the Bus Stop to collect any remaining forageables.
+1. Pick up the forageables you dropped. Occasionally, you may not have room for all the items. If this occurs, eat all the Spring Onions you gathered. If you still don't have room, transition to The Farm, deposit everything except your tools into the Chest, then transition to the Bus Stop to collect any remaining forageables.
 2. Transition to The Farm.
 
 ### Planting crops

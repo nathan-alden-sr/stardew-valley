@@ -27,7 +27,7 @@ Tips:
 
 Instructions:
 
-1. Empty your inventory into the Chest. Retrieve the Fiberglass Rod.
+1. Deposit your entire inventory into the Chest. Retrieve the Fiberglass Rod.
 2. If you have 80+ Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) from a fishing chest on Spring 2, craft a Chest and keep it in your inventory, then skip to the Cindersap Forest section below. Remember to divert from the guide and purchase more Bait from Willy tomorrow before going to The Mountain lake.
 3. Retrieve the Hoe from the Chest.
 4. Travel to Cindersap Forest.
@@ -40,8 +40,8 @@ Instructions:
 11. If you received a Copper Ore from a fishing chest on Spring 2, purchase as much Bait as possible; otherwise, save 75g so you can purchase a Copper Ore from Clint later.
     - You should be able to purchase at least 400 Bait, and usually you can expect to receive more from fishing chests. The Bait should last all Spring.
     - Waiting to sell the fish until you have acquired the [Fisher](https://stardewvalleywiki.com/Fishing#Fishing_Skill) profession is not optimal.
-12. Empty the contents of the Chest and pick it up.
-    - To pick up a Chest without a tool, select an empty slot in your inventory and hold down the left mouse button on the Chest. Your character will strike it repeatedly until it pops free.
+12. Withdraw the contents of the Chest, break it, and pick it up.
+    - To break a Chest without a tool, select an empty slot in your inventory and hold down the left mouse button on the Chest. Your character will strike it repeatedly until it pops free.
 
 ### [Furnaces](https://stardewvalleywiki.com/Furnace)
 
@@ -56,9 +56,9 @@ Instructions:
 3. Fish until 1:50 am.
 4. Fill your inventory with the following:
    - Fiberglass Rod
-   - [Ore](https://stardewvalleywiki.com/Ore)
-   - Coal
-   - [Gems](https://stardewvalleywiki.com/Minerals#Gems)
+   - All [Ore](https://stardewvalleywiki.com/Ore)
+   - All Coal
+   - All [Gems](https://stardewvalleywiki.com/Minerals#Gems)
    - The most profitable item stacks as calculated by the spreadsheet
      - Consider taking [Chubs](https://stardewvalleywiki.com/Chub) with you if you are concerned about needing Energy for Spring 4.
 5. Pass out.

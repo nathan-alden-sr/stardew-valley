@@ -39,18 +39,20 @@
 6. Do not water any crops until the guide instructs.
 7. Craft a Chest and keep it in your inventory.
 8. Use the spreadsheet to track how many [Iron Ore](https://stardewvalleywiki.com/Iron_Ore) and [Gold Ore](https://stardewvalleywiki.com/Gold_Ore) you have (they are sometimes acquired from fishing chests). The count will be used in purchasing calculations later.
-9. Empty your inventory into The Farm Chest. Retrieve the following:
+9. Deposit your entire inventory into The Farm Chest. Retrieve the following:
    - Pickaxe
-   - Gems
-   - Stone
-   - Copper Ore
-   - Coal
+   - All Copper Ore
+   - All Iron Ore
+   - All Gold Ore
+   - All Coal
+   - All Gems
+   - All Stone
    - All but three Parsnips
      - You need one for the Spring Crops Bundle, optionally one to ship, and optionally one for Pam.
-   - Do not take any Diamonds, Emeralds, Jade, or Rubies as you need them for Skull Cavern trips.
+   - Do not withdraw any Diamonds, Emeralds, Jade, or Rubies as you need them for Skull Cavern trips.
 10. Travel to The Mines.
 11. Place the Chest just to the left of the elevator.
-    - You may choose to empty your inventory into the Chest at this time, but keep Copper Ore, Coal, and Stone with you so you can easily track the counts.
+    - You may choose to deposit your inventory into the Chest at this time, but keep Copper Ore, Coal, and Stone with you so you can easily track the counts.
 12. Begin descending into The Mines with the goal of reaching floor 10 as quickly as possible. See the [General Mines Strategy](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#general-mines-strategy) section in Zamiell's guide.
     - Pay extra attention to acquiring the required 16 Coal.
     - Eat Parsnips for Energy.
@@ -63,11 +65,14 @@
 16. Continue following instructions only after you've acquired five Copper Bars or 3:00 pm arrives (whichever comes first).
 17. Deposit the [Rusty Sword](https://stardewvalleywiki.com/Rusty_Sword) and Parsnips into the Chest. Retrieve the following:
     - The Furnace
+    - All Iron Ore
+    - All Gold Ore
+    - All Coal
     - All Gems
     - Any other items you wish to take back to The Farm (e.g., Fiber, Mixed Seeds, etc.)
-    - Be sure you will have four empty inventory slots after selling smelting Copper Ore and selling Gems to Clint.
+      - Be sure you will have four empty inventory slots after selling smelting Copper Ore and selling Gems to Clint.
 18. Travel to the Blacksmith.
-19. Sell Gems.
+19. Sell all Gems.
 20. Using the spreadsheet, calculate how much G you will need to purchase the Seeds necessary to reach [Farming](https://stardewvalleywiki.com/Farming) level 2 on Spring 11.
 21. Purchase enough Iron Ore and Gold Ore (purchase Iron Ore first, then Gold Ore) to have acquired 25 of each, including the Ore counts you tracked earlier. Be sure you save at least the amount of G you just calculated.
     - You will almost certainly not have enough G to acquire all 25 Gold Ore; this is expected. You will acquire the remainder on subsequent days.
@@ -83,7 +88,7 @@
      - In rare cases, you will have far more G on this day than you should spend on Kale Seeds (e.g., if you sold a [Treasure Chest](https://stardewvalleywiki.com/Treasure_Chest) that you acquired from a fishing chest). In these cases, use your judgment about how many Kale Seeds are reasonable to plant and water. Be sure to account for the extra seeds in your crop planner.
 2. Travel to The Farm.
 3. Hoe, plant the Seeds you purchased, and water.
-4. Empty your inventory into the Chest. Retrieve the following:
+4. Deposit your entire inventory into the Chest. Retrieve the following:
    - Fiberglass Rod
    - Furnace
    - Iron Ore
@@ -99,8 +104,9 @@
 3. Fish until 1:50 am.
 4. Update the spreadsheet to account for any Gold Ore you acquired while fishing.
 5. Fill your inventory with the following:
+   - One Coal
    - The most profitable item stacks as calculated by the spreadsheet
-   - Do not take any Iron Ore, Iron Bars, Gold Ore, Gold Bars, or Coal
+   - Do not withdraw any Iron Ore, Iron Bars, Gold Ore, Gold Bars, or the rest of the Coal
 
 ### Day's end
 
