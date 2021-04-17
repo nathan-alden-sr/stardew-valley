@@ -82,7 +82,7 @@ Instructions:
      - If you need to buy a [Potato Seed](https://stardewvalleywiki.com/Potato_Seeds), leave one inventory slot empty. You will need a total of three empty inventory slots after selling Gems to Clint and upgrading the Pickaxe. Upgrading the Pickaxe will free up two slots. If you are also selling at least one Gem stack, you do not need to free any inventory slots.
 8. Travel to the Blacksmith.
 
-### The Blacksmith
+### Blacksmith
 
 1. Sell all Gems.
 2. Using the spreadsheet, calculate how much G you will need to purchase the Seeds necessary to reach [Farming](https://stardewvalleywiki.com/Farming) level 2 on Spring 11.
