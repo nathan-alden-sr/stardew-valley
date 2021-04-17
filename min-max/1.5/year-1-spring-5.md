@@ -114,9 +114,8 @@ Instructions:
 
 ### The Mountain
 
-1. Place the Furnace to the left of the Chest. Smelt Iron Bars while you fish.
-   - Do not smelt Gold Bars until you have acquired five Iron Bars.
-2. Fish until 1:50 am.
+1. Place the Furnace to the left of the Chest.
+2. Fish until 1:50 am. Continuously smelt Iron Bars but stop once you've acquired five. If you've acquired five, begin smelting Gold Bars.
 3. Update the spreadsheet to account for any Gold Ore you acquired while fishing.
 4. Deposit your entire inventory into the Chest. Withdraw the following:
    - One Coal
