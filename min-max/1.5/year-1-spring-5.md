@@ -51,7 +51,9 @@
 10. Travel to The Mines.
 11. Place the Chest just to the left of the elevator.
     - You may choose to empty your inventory into the Chest at this time, but keep Copper Ore, Coal, and Stone with you so you can easily track the counts.
-12. Begin descending into The Mines with the goal of reaching floor 10 as quickly as possible. Pay extra attention to acquiring the required 16 Coal. Eat Parsnips for Energy. See the [General Mines Strategy](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#general-mines-strategy) section in Zamiell's guide.
+12. Begin descending into The Mines with the goal of reaching floor 10 as quickly as possible. See the [General Mines Strategy](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#general-mines-strategy) section in Zamiell's guide.
+    - Pay extra attention to acquiring the required 16 Coal.
+    - Eat Parsnips for Energy.
 13. As soon as you acquire 25 Copper Ore and 25 Stone, return to the top floor via the ladder or elevator, craft and place a Furnace near the elevator, and begin smelting a Copper Bar.
     - The time at this point should be anywhere from 10:00 am to 12:30 pm. Any later than 12:30 pm and it can become very difficult to acquire enough Resources to make it to the Blacksmith on time.
 14. Resume your descent.
