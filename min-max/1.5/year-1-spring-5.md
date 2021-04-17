@@ -108,7 +108,7 @@
    - The most profitable item stacks as calculated by the spreadsheet
    - Do not withdraw any Iron Ore, Iron Bars, Gold Ore, Gold Bars, or the rest of the Coal
 
-### Day's end
+## Day's end
 
 - Farming level 0 ⟶ 1
 - Mining level 0 ⟶ 1
