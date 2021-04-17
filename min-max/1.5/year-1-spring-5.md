@@ -9,9 +9,9 @@
 
 ## Goals
 
-- Smelt five [Copper Bars](https://stardewvalleywiki.com/Copper_Bar) as quickly as possible and travel to the Blacksmith before he closes at 4:00 pm
+- Mine and smelt in The Mines
 - Upgrade the Pickaxe to the Copper Pickaxe
-- Plant a large crop of [Kale](https://stardewvalleywiki.com/Kale)
+- Plant a [Kale](https://stardewvalleywiki.com/Kale) crop
 - Fish at The Mountain
 
 ## Advice and warnings
@@ -34,7 +34,7 @@
 1. From now on, check the Television at the start of every day to reveal today's [Luck](https://stardewvalleywiki.com/Luck).
 2. Choose to accept or decline the pet. See the [Dog/Cat Mechanics](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#dogcat-mechanics) section in Zamiell's guide.
 3. Harvest the Parsnips and use the spreadsheet to track how many you harvested. The count will be used in Experience calculations later.
-4. If you followed the [Parsnip](https://stardewvalleywiki.com/Parsnip) crop planner then your Mixed Seeds were kept separate from your 15 Parsnips. Compare the crop's appearance with images on the Stardew Wiki to see if the crop is a Cauliflower or a [Potato](https://stardewvalleywiki.com/Potato). If you do not have a Cauliflower then you will not be able to complete the Spring Crops Bundle on Spring 15 as it is too late to plant a Cauliflower and have it mature by that day.
+4. If you followed the Parsnip crop planner then your Mixed Seeds were kept separate from your 15 Parsnips. Compare the crop's appearance with images on the Stardew Wiki to see if the crop is a Cauliflower or a [Potato](https://stardewvalleywiki.com/Potato). If you do not have a Cauliflower then you will not be able to complete the Spring Crops Bundle on Spring 15 as it is too late to plant a Cauliflower and have it mature by that day.
 5. Claim the Parsnip harvesting reward of 100g in your journal.
 6. Do not water any crops until the guide instructs you to.
 7. Craft a Chest and keep it in your inventory.

@@ -9,7 +9,8 @@
 
 ## Goals
 
-- Fish at The Mountain
+- Plant a Kale crop
+- Mine and smelt in The Mines
 
 ## Advice and warnings
 
