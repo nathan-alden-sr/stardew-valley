@@ -13,6 +13,7 @@
 
 ## Advice and warnings
 
+- When you earn 25,000g in total, Demetrius will visit The Farm. He will give you a choice between mushrooms and fruit bats. Choose mushrooms. See the [Other Notes](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#other-notes) section in Zamiell's guide.
 - It is possible, although unlikely, to reach Fishing level 10 today if you are very skilled and lucky. If you reach it today, choose the [Angler](https://stardewvalleywiki.com/Fishing#Fishing_Skill) profession.
 
 ## Instructions
