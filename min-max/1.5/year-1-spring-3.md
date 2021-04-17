@@ -34,7 +34,7 @@
 3. Fish until 8:30 am or you run out of Bait, whichever comes first.
 4. Travel to the Beach, checking the Garbage Cans below Jodi's and Haley's houses on the way.
 
-### The Beach
+### Beach
 
 1. Check the sand for forageables and Artifact Spots.
 2. Enter the Fish Shop and sell all fish and any Beach foraging items. Save the lowest-quality [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle).

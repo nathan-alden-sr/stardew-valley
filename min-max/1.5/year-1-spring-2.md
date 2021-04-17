@@ -35,7 +35,7 @@
 3. Check the Garbage Can next to Lewis' house.
 4. Travel to the Beach. You will acquire the Bamboo Pole after the cutscene with Willy.
 
-### The Beach
+### Beach
 
 Tips:
 

@@ -78,7 +78,7 @@ Instructions:
 4. Walk north and speak to [Marnie](https://stardewvalleywiki.com/Marnie) as she walks south from [Pierre's General Store](https://stardewvalleywiki.com/Pierre%27s_General_Store).
 5. Walk south to the [Beach](https://stardewvalleywiki.com/Pierre%27s_General_Store).
 
-### The Beach
+### Beach
 
 Tips:
 
