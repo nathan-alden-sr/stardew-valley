@@ -11,6 +11,10 @@
 
 - Fish at The Mountain
 
+## Advice and warnings
+
+- When you reach Mining level 5, choose the [Miner](https://stardewvalleywiki.com/Mining/Skill) profession.
+
 ## Instructions
 
 ### The Farm (1)
