@@ -42,6 +42,8 @@
    - An Earth Crystal for the Geologist's Bundle
    - A Frozen Tear for the Geologist's Bundle
    - A Fire Quartz for the Geologist's Bundle
+   - Ten Bat Wings for the Adventurer's Bundle
+   - One Solar Essence or Void Essence for the Adventurer's Bundle
    - The most profitable item stacks as calculated by the spreadsheet
    - Do not withdraw any Ore or Coal.
 5. Travel to The Farm.

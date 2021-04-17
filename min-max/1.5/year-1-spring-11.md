@@ -24,6 +24,12 @@
   - [Earth Crystal](https://stardewvalleywiki.com/Earth_Crystal)
   - [Frozen Tear](https://stardewvalleywiki.com/Frozen_Tear)
   - [Fire Quartz](https://stardewvalleywiki.com/Fire_Quartz)
+- While mining, try and acquire two of the four items required for the [Adventurer's Bundle](https://stardewvalleywiki.com/Bundles#Adventurers_Bundle):
+  - 99 [Slime](https://stardewvalleywiki.com/Slime)
+  - Ten [Bat Wing](https://stardewvalleywiki.com/Bat_Wing)
+  - One [Solar Essence](https://stardewvalleywiki.com/Solar_Essence)
+  - One [Void Essence](https://stardewvalleywiki.com/Void_Essence)
+  - It's probably easiest to go for ten Bat Wings and one Solar Essence because the monsters that drop them appear earlier during your descent.
 - If it rains today or over the next couple of days you will have to decide whether you can afford to take time off from mining to fish in Cindersap Forest.
 
 ## Instructions
