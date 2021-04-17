@@ -52,6 +52,6 @@ Instructions:
 ### The Farm (2)
 
 1. Ship enough items to reach the G target calculated by the spreadsheet
-   - You will need 5,000g for the Steel Pickaxe upgrade and enough G to purchase the remaining Gold Ore you need to acquire 25 in total
+   - You will need 5,000g for the Steel Pickaxe upgrade and enough G to purchase the remaining Gold Ore you need to acquire 25 in total.
 2. If time allows, cut Weeds and Grass.
 3. Pass out.
