@@ -71,7 +71,7 @@
 2. Continue your descent while keeping the Furnaces smelting as often as reasonable.
    - As you acquire more Copper Ore and Stone, craft and place three more Furnaces.
    - You need the required number of Copper Bars and Iron Bars by Spring 14. Prioritize smelting Iron Bars since they take longer than Copper Bars.
-   - You need one extra Copper Bar, Iron Bar, and Gold Bar by Spring 15 for the Blacksmith's Bundle.
+   - You need one extra Copper Bar and Iron Bar, and one Gold Bar by Spring 15 for the Blacksmith's Bundle.
    - Return to the top of The Mines to smelt more Bars every time you reach a new elevator.
 3. Mine until 1:50 am.
 4. Deposit your entire inventory into the Chest. Withdraw the following:
