@@ -15,6 +15,7 @@
 ## Advice and warnings
 
 - If your Bean Starter or your last Cauliflower was eaten by a Crow then you will not be able to complete the Spring Crops Bundle on Spring 15.
+- Your only Farm Chest may be getting full by this point. If so, chop Trees for an additional 50 Wood and craft a second Chest. Place it next to the first Chest.
 
 ## Instructions
 
