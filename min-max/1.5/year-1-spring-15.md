@@ -11,7 +11,7 @@
 
 - Complete Community Center Bundles
 - Mine and smelt
-- Unlock the [Minecart](https://stardewvalleywiki.com/Minecart)
+- Repair the [Minecart](https://stardewvalleywiki.com/Minecart)
 
 ## Advice and warnings
 
@@ -21,10 +21,14 @@
 
 ### The Farm (1)
 
-1. Deposit your entire inventory into Chests. Withdraw the Watering Can.
+1. Deposit your entire inventory into Chests. Withdraw the following:
+   - Copper Bars required to make any remaining Sprinklers
+   - Iron Bars required to make any remaining Sprinklers
+   - Watering Can
 2. Water crops that were not watered by Sprinklers.
 3. Harvest Cauliflower and [Green Beans](https://stardewvalleywiki.com/Green_Bean).
-4. Deposit your entire inventory into a Chest. Withdraw the following:
+4. Craft and place any remaining Sprinklers.
+5. Deposit your entire inventory into a Chest. Withdraw the following:
    - One each of four Spring Foraging Bundle items:
      - Wild Horseradish
      - Daffodil
@@ -44,12 +48,12 @@
      - Earth Crystal
      - Frozen Tear
      - Fire Quartz
-5. Travel to the Community Center.
+6. Travel to the Community Center.
 
 ### Pelican Town
 
 1. Complete the Bundles mentioned above.
-   - Exit out of the golden scroll screen every time you complete a [Boiler Room] Bundle to avoid triggering a bug.
+   - Close the golden scroll screen every time you complete a [Boiler Room](https://stardewvalleywiki.com/Bundles#Boiler_Room) Bundle to avoid triggering a bug.
    - Remember to skip the 10,000g Bundle in the [Vault](https://stardewvalleywiki.com/Bundles#Vault) if you were unable to reach 42,500g.
 2. Travel to The Farm.
 
