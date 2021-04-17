@@ -68,8 +68,8 @@
 1. Withdraw the Gold Pickaxe from the Chest.
 2. Resume your descent.
    - If you still need more Sprinklers, farm floors 21 for Copper Ore and 41 for Iron Ore first.
-3. Mine until 1:50 am.
    - If you find missing Geologist's Bundle or Adventurer's Bundle items before day's end, you can return to the Community Center and complete the Bundle.
+3. Mine until 1:50 am.
 4. Deposit your entire inventory into a Chest. Withdraw the following:
    - Copper Bars required to craft Sprinklers
    - Iron Bars required to craft Sprinklers
