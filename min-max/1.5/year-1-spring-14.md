@@ -54,7 +54,7 @@
 2. Remove any Cobblestone Floors from Sprinkler tiles.
 3. Craft and place as many Sprinklers as possible with your remaining bars. Any missing Sprinklers can be crafted and placed on subsequent days.
 4. If you have 42,500g worth of items, ship them now to reach that target; otherwise, ship 32,500g worth of items.
-   - If you are only able to ship 32,500g worth of items, do not complete the [10,000g Bundle](https://stardewvalleywiki.com/Bundles#Vault) tomorrow. You will likely need to allocate a day between Spring 15 and Spring 17 to fish for the required 10,000g. Try and wait for a rainy day.
+   - If you are only able to ship 32,500g worth of items, do not complete the [10,000g Bundle](https://stardewvalleywiki.com/Bundles#Vault) tomorrow. You will likely need to allocate a day between Spring 15 and Spring 17 to fish for the required 10,000g. Try and wait for a rainy day. Use the *Y1-Sp 10,000g Bundle* tab in the spreadsheet to track your progress.
 5. If time allows, cut Weeds and Grass.
 6. Pass out.
 
