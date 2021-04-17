@@ -63,21 +63,24 @@
 15. Once you reach floor 10, stop your descent and farm floor 10 repeatedly until you have enough Copper Ore to smelt continuously. You must have four or five Copper Bars smelted before 3:00 pm.
     - If you've only crafted four Copper Bars by 3:00 pm, you can place the Furnace inside the Blacksmith's shop and craft the last Copper Bar there. However, this may not leave you enough time to make it to Pierre's General Store.
 16. Continue following instructions only after you've acquired five Copper Bars or 3:00 pm arrives (whichever comes first).
-17. Deposit the [Rusty Sword](https://stardewvalleywiki.com/Rusty_Sword) and Parsnips into the Chest. Retrieve the following:
+17. Deposit your entire inventory into the chest. Retrieve the following:
     - The Furnace
-    - All Iron Ore
-    - All Gold Ore
-    - All Coal
+    - 25 Iron Ore
+    - Up to 25 Gold Ore
+    - 11 Coal
     - All Gems
     - Any other items you wish to take back to The Farm (e.g., Fiber, Mixed Seeds, etc.)
-      - Be sure you will have four empty inventory slots after selling smelting Copper Ore and selling Gems to Clint.
-18. Travel to the Blacksmith.
-19. Sell all Gems.
-20. Using the spreadsheet, calculate how much G you will need to purchase the Seeds necessary to reach [Farming](https://stardewvalleywiki.com/Farming) level 2 on Spring 11.
-21. Purchase enough Iron Ore and Gold Ore (purchase Iron Ore first, then Gold Ore) to have acquired 25 of each, including the Ore counts you tracked earlier. Be sure you save at least the amount of G you just calculated.
-    - You will almost certainly not have enough G to acquire all 25 Gold Ore; this is expected. You will acquire the remainder on subsequent days.
-22. Upgrade your Pickaxe to the Copper Pickaxe for 2,000g.
-23. Exit the Blacksmith.
+      - If you need to buy a [Potato Seed](https://stardewvalleywiki.com/Potato_Seeds), leave one inventory slot empty. You will need a total of three empty inventory slots after selling Gems to Clint and upgrading the Pickaxe. Upgrading the Pickaxe will free up two slots. If you are also selling at least one Gem stack, you do not need to free any inventory slots.
+
+### The Blacksmith
+
+1. Travel to the Blacksmith.
+2. Sell all Gems.
+3. Using the spreadsheet, calculate how much G you will need to purchase the Seeds necessary to reach [Farming](https://stardewvalleywiki.com/Farming) level 2 on Spring 11.
+4. Purchase enough Iron Ore and Gold Ore (purchase Iron Ore first, then Gold Ore) to have acquired 25 of each, including the Ore counts you tracked earlier. Be sure you save at least the amount of G you just calculated.
+   - You will almost certainly not have enough G to acquire all 25 Gold Ore; this is expected. You will acquire the remainder on subsequent days.
+5. Upgrade your Pickaxe to the Copper Pickaxe for 2,000g.
+6. Exit the Blacksmith.
 
 ### Farming
 
