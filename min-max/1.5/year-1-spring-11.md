@@ -61,13 +61,13 @@
    - All Iron Ore
    - All Gold Ore
    - All Coal
-   - Chubs
+   - Source of Energy, usually Common Mushrooms or Chubs
 3. Travel to The Mines.
 
 ### The Mines
 
 1. Place the Furnace to the right of the elevator again.
-2. Continue your descent while keeping the furnace smelting as often as reasonable.
+2. Continue your descent while keeping the Furnaces smelting as often as reasonable.
    - As you acquire more Copper Ore and Stone, craft and place three more Furnaces.
    - You need the required number of Copper Bars and Iron Bars by Spring 14. Prioritize smelting Iron Bars since they take longer than Copper Bars.
    - Return to the top of The Mines to smelt more Bars every time you reach a new elevator.

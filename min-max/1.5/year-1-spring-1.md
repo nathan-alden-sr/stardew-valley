@@ -21,6 +21,7 @@
 - You must mine and store at least one [Stone](https://stardewvalleywiki.com/Stone) at some point during the day for Spring 2.
 - Pause often! It's instantaneous, free, and allows you to think.
 - Throughout your travels you will almost certainly come across [Rice Shoots](https://stardewvalleywiki.com/Rice_Shoot). These should be planted as soon as you are able. See the [Rice Shoots crop planner](https://stardew.info/planner/7-careful-ants-snuggled-easily) for a suggested plan. Certain tiles should strategically be left alone for future [Sprinkler](https://stardewvalleywiki.com/Sprinkler) use.
+- Any time you acquire a new item, check the spreadsheet to see if it is used in a Bundle. If it is, be sure to keep one of the item.
 
 ## Instructions
 

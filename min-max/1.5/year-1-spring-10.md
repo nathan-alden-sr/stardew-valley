@@ -18,6 +18,7 @@
 1. Deposit your entire inventory into Chests. Withdraw the Watering Can.
 2. Water crops.
 3. If two days have elapsed since Demetrius' visit, check The Cave for Mushrooms.
+   - Common Mushrooms are a good source of Energy. Use them to supplement your supply of Chubs.
 4. Use the spreadsheet to calculate how many additional Kale you need to reach Farming level 6.
    - The Kale will be planted in two batches. Planting in two batches cuts the number of Sprinklers needed--and thus Iron Bars needed--in half, leaving more Iron Bars for [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler) later.
    - If you need an odd number of Kale then the spreadsheet will show a fractional number. In this case, it is your choice whether to plant the extra Kale Seed in this first batch or wait until the second batch.
