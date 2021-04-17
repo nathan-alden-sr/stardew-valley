@@ -35,8 +35,8 @@
    - Prioritize Iron Ore and Gold Ore once you have the required Copper Bars. Copper Ore is now only useful for tool upgrade and crafting more Furnaces later.
    - You may want to stop mining a bit earlier if you need to spend time breaking Cobblestone Paths before placing Sprinklers.
 4. Deposit your entire inventory into the Chest. Withdraw the following:
-   - The required number of Copper Bars if you have them, plus one extra for the Blacksmith's Bundle
-   - The required number of Iron Bars if you have them, plus one extra for the Blacksmith's Bundle
+   - The required number of Copper Bars for Sprinklers, if you have them, plus one extra for the Blacksmith's Bundle
+   - The required number of Iron Bars for Sprinklers, if you have them, plus one extra for the Blacksmith's Bundle
    - A Gold Bar for the Blacksmith's Bundle
    - The most profitable item stacks as calculated by the spreadsheet
    - Do not withdraw any Ore or Coal.
