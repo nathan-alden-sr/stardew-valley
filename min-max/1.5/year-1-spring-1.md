@@ -175,6 +175,7 @@ Instructions:
    - You can work past zero Energy, but not too much, otherwise the game will force you to pass out and you will wake up on Spring 2 with half Energy. If you do become Exhausted, be sure you have enough time to make it into the Farmhouse.
 8. Enter the Farmhouse at 1:50 am.
 9. Pick up the [Single Bed](https://stardewvalleywiki.com/Single_Bed) (optionally trash it with the Trash Can). This forces the game to spawn you one pixel from the doorway every morning, thus reducing walking time.
+   - Optionally, don't trash the Single Bed but place it on days like Spring 8 where you are at The Farm but won't level up a skill at day's end. Using a Bed on these days saves having to consume Energy-granting items the next day.
 10. Pick up and move the [House Plant](https://stardewvalleywiki.com/House_Plant) (optionally trash it).
 11. Pick up the [Television](https://stardewvalleywiki.com/Television) and move it as close to the doorway on the left side as you can. When waking every morning, you can right-click the Television's stand to interact with it.
 12. Pass out.
