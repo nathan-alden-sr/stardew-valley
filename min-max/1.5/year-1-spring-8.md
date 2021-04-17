@@ -24,7 +24,9 @@
 2. Ship enough items to reach the G target calculated by the spreadsheet
    - You will need 10,000g for the Gold Axe upgrade and 2,000g for the [Backpack](https://stardewvalleywiki.com/Tools#Other_Tools) upgrade.
    - If you can't reach the G target right now, you will have to return to The Farm tonight to ship the remainder.
-3. Travel to The Mountain fishing spot.
+3. Deposit your entire inventory into Chests. Withdraw the following:
+   - Fiberglass Rod
+4. Travel to The Mountain fishing spot.
 
 ### The Mountain
 

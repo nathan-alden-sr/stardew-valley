@@ -26,7 +26,9 @@
 3. If you do not have 150 Wood, fell Trees in the same manner as before until you have 150 Wood. You can fell Oak Trees now that they will drop Acorns. Take your Scythe with you to clear Weeds and Grass.
    - The Wood is for two more Chests and a Scarecrow.
 4. Craft a Chest and keep it in your inventory.
-5. Deposit your entire inventory into The Farm Chest. Retrieve the Fiberglass Rod and the newly-crafted Chest.
+5. Deposit your entire inventory into The Farm Chest. Withdraw the following:
+   - Fiberglass Rod
+   - The newly-crafted Chest
 6. Travel to The Mountain.
 
 ### The Mountain

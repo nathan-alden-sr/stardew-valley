@@ -30,7 +30,7 @@ Instructions:
 1. Water crops.
 2. Craft a Scarecrow and place it on the spot indicated on the crop planner.
 3. Fell Trees until 7:40 am.
-4. Deposit your entire inventory into the Chest. Retrieve the following:
+4. Deposit your entire inventory into Chests. Withdraw the following:
    - Fiberglass Rod
 5. Travel to Pelican Town via the Bus Stop. When you transition to Pelican Town, the Community Center cutscene will trigger.
    - Do not skip the cutscene. If you skip it the game will place you at the entrance to Pelican Town instead of the Community Center door.

@@ -39,7 +39,7 @@
 6. Do not water any crops until the guide instructs.
 7. Craft a Chest and keep it in your inventory.
 8. Use the spreadsheet to track how many [Iron Ore](https://stardewvalleywiki.com/Iron_Ore) and [Gold Ore](https://stardewvalleywiki.com/Gold_Ore) you have (they are sometimes acquired from fishing chests). The count will be used in purchasing calculations later.
-9. Deposit your entire inventory into The Farm Chest. Retrieve the following:
+9. Deposit your entire inventory into The Farm Chest. Withdraw the following:
    - Pickaxe
    - All Copper Ore
    - All Iron Ore
@@ -72,7 +72,7 @@ Instructions:
 5. Once you reach floor 10, stop your descent and farm floor 10 repeatedly until you have enough Copper Ore to smelt continuously. You must have four or five Copper Bars smelted before 3:00 pm.
    - If you've only crafted four Copper Bars by 3:00 pm, you can place the Furnace inside the Blacksmith's shop and craft the last Copper Bar there. However, this may not leave you enough time to make it to Pierre's General Store.
 6. Continue following instructions only after you've acquired five Copper Bars or 3:00 pm arrives (whichever comes first).
-7. Deposit your entire inventory into the chest. Retrieve the following:
+7. Deposit your entire inventory into the chest. Withdraw the following:
    - The Furnace
    - Up to 25 Iron Ore
    - Up to 25 Gold Ore
@@ -103,7 +103,7 @@ Instructions:
 ### The Farm (2)
 
 1. Hoe, plant the Seeds you purchased, and water.
-2. Deposit your entire inventory into the Chest. Retrieve the following:
+2. Deposit your entire inventory into the Chest. Withdraw the following:
    - Fiberglass Rod
    - Furnace
    - Iron Ore

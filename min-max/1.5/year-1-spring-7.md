@@ -24,7 +24,8 @@
 1. Check the Television and learn the [Stir Fry](https://stardewvalleywiki.com/Stir_Fry) recipe from the Queen of Sauce.
 2. Check the mail until you receive the Wizard's letter.
 3. Water crops.
-4. Deposit your entire inventory into the Chest. Retrieve the following:
+4. Deposit your entire inventory into Chests. Withdraw the following:
+   - Fiberglass Rod
    - Five Iron Bars
 5. Travel to Cindersap Forest.
 
