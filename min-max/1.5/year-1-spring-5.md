@@ -57,6 +57,7 @@
 Tips:
 
 - At least 16 Coal must be acquired, including any previously acquired, in order to smelt the required number of bars and craft a Scarecrow.
+- You may acquire Mixed Seeds by cutting Weeds in The Mines. You may plant these on The Farm if you wish.
 
 Instructions:
 
