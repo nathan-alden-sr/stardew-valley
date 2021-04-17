@@ -171,14 +171,16 @@ Instructions:
 ### The Farm (3)
 
 1. Eat any remaining Spring Onions.
-2. Withdraw the following from the Chest:
+2. Deposit your entire inventory into the Chest. Withdraw the following:
    - Scythe
    - Axe
    - Pickaxe
    - Hoe
    - [Watering Can](https://stardewvalleywiki.com/Watering_Cans)
+   - Parsnip Seeds
+   - [Mixed Seeds](https://stardewvalleywiki.com/Mixed_Seeds)
 3. Clear enough ground to plant 15 Parsnip Seeds and whatever Mixed Seeds you carry, plus a few more spots for Mixed Seeds in case you gather more shortly.
-   - See the [Parsnips crop planner](https://stardew.info/planner/34-light-hawks-floundered-cordially) for a suggested plan. [Mixed Seeds](https://stardewvalleywiki.com/Mixed_Seeds) are depicted by a generic crop icon.
+   - See the [Parsnips crop planner](https://stardew.info/planner/34-light-hawks-floundered-cordially) for a suggested plan. Mixed Seeds are depicted by a generic crop icon.
 4. Plant and water Parsnip Seeds and Mixed Seeds.
 5. Fell Trees until you have around four to six [Energy](https://stardewvalleywiki.com/Energy). The remaining Energy will be useful if you gather more Mixed Seeds shortly.
    - If you don't have enough Energy to fully fell a Tree, spend the Energy mining Stone or chopping a stump.
