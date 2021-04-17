@@ -42,7 +42,7 @@ Instructions:
 
 ### The Mountain
 
-1. Fish until 1:00 am. Continuously smelt Iron Bars but stop once you've acquired five. If you've acquired five, begin smelting Gold Bars.
+1. Fish until 1:00 am. Continuously smelt Iron Bars but stop once you've acquired five. Once you've acquired five, begin smelting Gold Bars.
 2. Deposit your entire inventory into the Chest. Withdraw the following:
    - Five Iron Bars
    - The most profitable item stacks as calculated by the spreadsheet
