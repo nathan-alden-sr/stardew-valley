@@ -19,7 +19,7 @@
 
 ## Instructions
 
-### Farming
+### The Farm
 
 Tips:
 
@@ -32,23 +32,23 @@ Instructions:
 3. Fell Trees until 7:40 am.
 4. Deposit your entire inventory into the Chest. Retrieve the following:
    - Fiberglass Rod
-
-### Community Center
-
-1. Travel to Pelican Town via the Bus Stop. When you transition to Pelican Town, the Community Center cutscene will trigger.
+5. Travel to Pelican Town via the Bus Stop. When you transition to Pelican Town, the Community Center cutscene will trigger.
    - Do not skip the cutscene. If you skip it the game will place you at the entrance to Pelican Town instead of the Community Center door.
-2. Enter the Community Center and interact with the golden scroll in the lower left room. This interaction triggers the Wizard entry in your journal tomorrow.
 
-### Fishing
+### Pelican Town
 
-1. Travel to The Mountain fishing spot.
-2. Fish until 1:00 am.
-3. Deposit your entire inventory into the Chest. Withdraw the following:
+1. Enter the Community Center and interact with the golden scroll in the lower left room. This interaction triggers the Wizard entry in your journal tomorrow.
+2. Travel to The Mountain fishing spot.
+
+### The Mountain
+
+1. Fish until 1:00 am.
+2. Deposit your entire inventory into the Chest. Withdraw the following:
    - Five Iron Bars
    - The most profitable item stacks as calculated by the spreadsheet
    - Do not withdraw any Gold Ore, Gold Bars, or the rest of the Coal. You will be smelting Gold Bars tomorrow.
-4. Travel to The Farm.
-5. Ship enough items to reach the G target calculated by the spreadsheet
+3. Travel to The Farm.
+4. Ship enough items to reach the G target calculated by the spreadsheet
    - You will need 5,000g for the Steel Axe upgrade and enough G to purchase the remaining Gold Ore you need to acquire 25 in total
-6. If time allows, cut Weeds and Grass.
-7. Pass out.
+5. If time allows, cut Weeds and Grass.
+6. Pass out.

@@ -24,7 +24,7 @@
 
 ## Instructions
 
-### Foraging level 1
+### The Farm (1)
 
 1. Pause.
 2. Reorganize your [hotbar](https://stardewvalleywiki.com/Inventory) as desired.
@@ -61,9 +61,9 @@ Instructions:
 4. Speak to [Jas](https://stardewvalleywiki.com/Jas) as she leaves [Marnie's Ranch](https://stardewvalleywiki.com/Marnie%27s_Ranch) at approximately 11:20 am. She paths west after exiting the building.
 5. Spend a few seconds cutting Weeds to the south of Marnie's Ranch. You want to time your arrival at [Emily's](https://stardewvalleywiki.com/Emily) bedroom door for 12:00 pm.
 6. Speak to [Haley](https://stardewvalleywiki.com/Haley) as she walks west toward [Leah](https://stardewvalleywiki.com/Leah)'s house.
-7. Walk east and transition to [Pelican Town](https://stardewvalleywiki.com/Pelican_Town).
+7. Walk east to [Pelican Town](https://stardewvalleywiki.com/Pelican_Town).
 
-### Pelican Town: First visit
+### Pelican Town (1)
 
 Tips:
 
@@ -76,7 +76,7 @@ Instructions:
 2. Speak to Emily inside her house. If you timed it correctly, you should meet her just as she opens her bedroom door.
 3. Exit Emily's house, walk east, and speak to [Penny](https://stardewvalleywiki.com/Penny) to the west of the [Graveyard](https://stardewvalleywiki.com/Graveyard).
 4. Walk north and speak to [Marnie](https://stardewvalleywiki.com/Marnie) as she walks south from [Pierre's General Store](https://stardewvalleywiki.com/Pierre%27s_General_Store).
-5. Walk south and transition to the [Beach](https://stardewvalleywiki.com/Pierre%27s_General_Store).
+5. Walk south to the [Beach](https://stardewvalleywiki.com/Pierre%27s_General_Store).
 
 ### The Beach
 
@@ -88,9 +88,9 @@ Instructions:
 
 1. Walk southeast and speak to [Elliott](https://stardewvalleywiki.com/Elliott).
 2. Check for [Artifact Spots](https://stardewvalleywiki.com/Artifact_Spot) and hoe them up.
-3. Walk north and transition to Pelican Town.
+3. Walk north to Pelican Town.
 
-### Pelican Town: Second visit
+### Pelican Town (2)
 
 1. Walk east toward the [Museum](https://stardewvalleywiki.com/Museum). If you hoed up an [Artifact](https://stardewvalleywiki.com/Artifacts) on the beach then donate it to the Museum and claim the 250g reward in your journal, then exit the Museum.
 2. Walk east and check the Museum's Garbage Can.
@@ -120,17 +120,21 @@ Instructions:
 25. Check the Garbage Can outside of George's house.
 26. Enter George's house, walk into the east room, and speak to George.
 27. Speak to [Alex](https://stardewvalleywiki.com/The_Stardrop_Saloon) as he exits his bedroom at 4:00 pm.
-28. Exit George's house, walk west, and transition to the [Bus Stop](https://stardewvalleywiki.com/Bus_Stop).
+28. Exit George's house and walk west to the [Bus Stop](https://stardewvalleywiki.com/Bus_Stop).
 
-### The Bus Stop: First visit
+### The Bus Stop (1)
 
 1. Walk west. Just before you transition to The Farm, turn your character east, stand near the south side of the path, and drop all forageables on the ground. It may take several attempts to drop them as the game seems to choose random distances when throwing items.
+2. Walk west to The Farm.
 
-### The [Backwoods](https://stardewvalleywiki.com/Backwoods)
+### The Farm (2)
 
-1. Clear a path to the Backwoods. Try and cut as many Weeds as possible to maximize the chance for Mixed Seeds.
-2. Transition to the Backwoods at 6:10 am.
-3. Walk north and east and transition to [The Mountain](https://stardewvalleywiki.com/The_Mountain).
+1. Clear a path to the [Backwoods](https://stardewvalleywiki.com/Backwoods). Try and cut as many Weeds as possible to maximize the chance for Mixed Seeds.
+2. Walk north to the Backwoods at 6:10 am.
+
+### The Backwoods
+
+1. Walk north and east to [The Mountain](https://stardewvalleywiki.com/The_Mountain).
 
 ### The Mountain
 
@@ -138,22 +142,22 @@ Instructions:
 2. Walk south, southeast, then west and speak to [Demetrius](https://stardewvalleywiki.com/Demetrius).
    - You do not need to speak to Robin as the game already considers you as having met her.
 3. If [Sebastian](https://stardewvalleywiki.com/Sebastian) is outside his house, speak to him. If he's inside his house, walk inside and speak to him there, then exit the house.
-4. Walk south and transition to Pelican Town.
+4. Walk south to Pelican Town.
 
-### Pelican Town: Third visit
+### Pelican Town (3)
 
 1. Go south, then west behind the [Community Center](https://stardewvalleywiki.com/Community_Center).
 2. Clear the fenced area of Weeds.
    - The tile blocking the fenced area will randomly be a Weed, a Stone, or a branch, so have the correct tool selected before you get to the tile.
 3. Walk west past the fountain and cut Weeds near the edge of the screen.
-4. Walk south, then west, and transition to the Bus Stop.
+4. Walk south, then west to the Bus Stop.
 
-### The Bus Stop: Second visit
+### The Bus Stop (2)
 
-1. Pick up the forageables you dropped. Occasionally, you may not have room for all the items. If this occurs, eat all the Spring Onions you gathered. If you still don't have room, transition to The Farm, deposit everything except your tools into the Chest, then transition to the Bus Stop to collect any remaining forageables.
-2. Transition to The Farm.
+1. Pick up the forageables you dropped. Occasionally, you may not have room for all the items. If this occurs, eat all the Spring Onions you gathered. If you still don't have room, walk west to The Farm, deposit everything except your tools into the Chest, then walk east to the Bus Stop to collect any remaining forageables.
+2. Walk west to The Farm.
 
-### Planting crops
+### The Farm (3)
 
 1. Eat any remaining Spring Onions.
 2. Clear enough ground to plant 15 Parsnip Seeds and whatever Mixed Seeds you carry, plus a few more spots for Mixed Seeds in case you gather more shortly.

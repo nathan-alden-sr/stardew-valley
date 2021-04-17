@@ -29,13 +29,7 @@
 
 ## Instructions
 
-### Mining and smelting
-
-Tips:
-
-- At least 16 Coal must be acquired, including any previously acquired, in order to smelt the required number of bars and craft a Scarecrow.
-
-Instructions:
+### The Farm (1)
 
 1. From now on, check the Television at the start of every day to reveal today's [Luck](https://stardewvalleywiki.com/Luck).
 2. Choose to accept or decline the pet. See the [Dot/Cat Mechanics](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#dogcat-mechanics) section in Zamiell's guide.
@@ -57,65 +51,78 @@ Instructions:
      - You need one for the Spring Crops Bundle, optionally one to ship, and optionally one for Pam.
    - Do not withdraw any Diamonds, Emeralds, Jade, or Rubies as you need them for Skull Cavern trips.
 10. Travel to The Mines.
-11. Place the Chest just to the left of the elevator.
-    - You may choose to deposit your inventory into the Chest at this time, but keep Copper Ore, Coal, and Stone with you so you can easily track the counts.
-12. Begin descending into The Mines with the goal of reaching floor 10 as quickly as possible. See the [General Mines Strategy](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#general-mines-strategy) section in Zamiell's guide.
-    - Pay extra attention to acquiring the required 16 Coal.
-    - Eat Parsnips for Energy.
-13. As soon as you acquire 25 Copper Ore and 25 Stone, return to the top floor via the ladder or elevator, craft and place a Furnace near the elevator, and begin smelting a Copper Bar.
-    - The time at this point should be anywhere from 10:00 am to 12:30 pm. Any later than 12:30 pm and it can become very difficult to acquire enough Resources to make it to the Blacksmith on time.
-14. Resume your descent.
-    - If your ladder luck is poor, you may need to return to the top floor before reaching the next elevator to begin smelting another Copper Bar.
-15. Once you reach floor 10, stop your descent and farm floor 10 repeatedly until you have enough Copper Ore to smelt continuously. You must have four or five Copper Bars smelted before 3:00 pm.
-    - If you've only crafted four Copper Bars by 3:00 pm, you can place the Furnace inside the Blacksmith's shop and craft the last Copper Bar there. However, this may not leave you enough time to make it to Pierre's General Store.
-16. Continue following instructions only after you've acquired five Copper Bars or 3:00 pm arrives (whichever comes first).
-17. Deposit your entire inventory into the chest. Retrieve the following:
-    - The Furnace
-    - Up to 25 Iron Ore
-    - Up to 25 Gold Ore
-    - 11 Coal
-    - All Gems
-    - Any other items you wish to take back to The Farm (e.g., Fiber, Mixed Seeds, etc.)
-      - If you need to buy a [Potato Seed](https://stardewvalleywiki.com/Potato_Seeds), leave one inventory slot empty. You will need a total of three empty inventory slots after selling Gems to Clint and upgrading the Pickaxe. Upgrading the Pickaxe will free up two slots. If you are also selling at least one Gem stack, you do not need to free any inventory slots.
+
+### The Mines
+
+Tips:
+
+- At least 16 Coal must be acquired, including any previously acquired, in order to smelt the required number of bars and craft a Scarecrow.
+
+Instructions:
+
+1. Place the Chest just to the left of the elevator.
+   - You may choose to deposit your inventory into the Chest at this time, but keep Copper Ore, Coal, and Stone with you so you can easily track the counts.
+2. Begin descending into The Mines with the goal of reaching floor 10 as quickly as possible. See the [General Mines Strategy](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#general-mines-strategy) section in Zamiell's guide.
+   - Pay extra attention to acquiring the required 16 Coal.
+   - Eat Parsnips for Energy.
+3. As soon as you acquire 25 Copper Ore and 25 Stone, return to the top floor via the ladder or elevator, craft and place a Furnace near the elevator, and begin smelting a Copper Bar.
+   - The time at this point should be anywhere from 10:00 am to 12:30 pm. Any later than 12:30 pm and it can become very difficult to acquire enough Resources to make it to the Blacksmith on time.
+4. Resume your descent.
+   - If your ladder luck is poor, you may need to return to the top floor before reaching the next elevator to begin smelting another Copper Bar.
+5. Once you reach floor 10, stop your descent and farm floor 10 repeatedly until you have enough Copper Ore to smelt continuously. You must have four or five Copper Bars smelted before 3:00 pm.
+   - If you've only crafted four Copper Bars by 3:00 pm, you can place the Furnace inside the Blacksmith's shop and craft the last Copper Bar there. However, this may not leave you enough time to make it to Pierre's General Store.
+6. Continue following instructions only after you've acquired five Copper Bars or 3:00 pm arrives (whichever comes first).
+7. Deposit your entire inventory into the chest. Retrieve the following:
+   - The Furnace
+   - Up to 25 Iron Ore
+   - Up to 25 Gold Ore
+   - 11 Coal
+   - All Gems
+   - Any other items you wish to take back to The Farm (e.g., Fiber, Mixed Seeds, etc.)
+     - If you need to buy a [Potato Seed](https://stardewvalleywiki.com/Potato_Seeds), leave one inventory slot empty. You will need a total of three empty inventory slots after selling Gems to Clint and upgrading the Pickaxe. Upgrading the Pickaxe will free up two slots. If you are also selling at least one Gem stack, you do not need to free any inventory slots.
+8. Travel to the Blacksmith.
 
 ### The Blacksmith
 
-1. Travel to the Blacksmith.
-2. Sell all Gems.
-3. Using the spreadsheet, calculate how much G you will need to purchase the Seeds necessary to reach [Farming](https://stardewvalleywiki.com/Farming) level 2 on Spring 11.
-4. Purchase enough Iron Ore and Gold Ore (purchase Iron Ore first, then Gold Ore) to have acquired 25 of each, including the Ore counts you tracked earlier. Be sure you save at least the amount of G you just calculated.
+1. Sell all Gems.
+2. Using the spreadsheet, calculate how much G you will need to purchase the Seeds necessary to reach [Farming](https://stardewvalleywiki.com/Farming) level 2 on Spring 11.
+3. Purchase enough Iron Ore and Gold Ore (purchase Iron Ore first, then Gold Ore) to have acquired 25 of each, including the Ore counts you tracked earlier. Be sure you save at least the amount of G you just calculated.
    - You will almost certainly not have enough G to acquire all 25 Gold Ore; this is expected. You will acquire the remainder on subsequent days.
-5. Upgrade your Pickaxe to the Copper Pickaxe for 2,000g.
-6. Exit the Blacksmith.
+4. Upgrade your Pickaxe to the Copper Pickaxe for 2,000g.
+5. Travel to Pierre's General Store.
 
-### Farming
+### Pelican Town
 
-1. Travel to Pierre's General Store and purchase the following:
+1. Purchase the following:
    - One Bean Starter
    - One [Potato Seed](https://stardewvalleywiki.com/Potato_Seeds) if you did not get one from a Mixed Seed
    - [Kale Seeds](https://stardewvalleywiki.com/Kale_Seeds) with the remainder of your G (you must purchase at least the calculated minimum)
      - In rare cases, you will have far more G on this day than you should spend on Kale Seeds (e.g., if you sold a [Treasure Chest](https://stardewvalleywiki.com/Treasure_Chest) that you acquired from a fishing chest). In these cases, use your judgment about how many Kale Seeds are reasonable to plant and water. Be sure to account for the extra seeds in your crop planner.
 2. Travel to The Farm.
-3. Hoe, plant the Seeds you purchased, and water.
-4. Deposit your entire inventory into the Chest. Retrieve the following:
+
+### The Farm (2)
+
+1. Hoe, plant the Seeds you purchased, and water.
+2. Deposit your entire inventory into the Chest. Retrieve the following:
    - Fiberglass Rod
    - Furnace
    - Iron Ore
    - Gold Ore
    - Coal
    - Chubs
+3. Travel to The Mountain fishing spot.
 
-### Fishing
+### The Mountain
 
-1. Travel to The Mountain fishing spot.
-2. Place the Furnace to the left of the Chest. Smelt Iron Bars while you fish.
+1. Place the Furnace to the left of the Chest. Smelt Iron Bars while you fish.
    - Do not smelt Gold Bars until you have acquired five Iron Bars.
-3. Fish until 1:50 am.
-4. Update the spreadsheet to account for any Gold Ore you acquired while fishing.
-5. Deposit your entire inventory into the Chest. Withdraw the following:
+2. Fish until 1:50 am.
+3. Update the spreadsheet to account for any Gold Ore you acquired while fishing.
+4. Deposit your entire inventory into the Chest. Withdraw the following:
    - One Coal
    - The most profitable item stacks as calculated by the spreadsheet
    - Do not withdraw any Iron Ore, Iron Bars, Gold Ore, Gold Bars, or the rest of the Coal
+5. Pass out.
 
 ## Day's end
 

@@ -19,7 +19,7 @@
 
 ## Instructions
 
-### Farming
+### The Farm (1)
 
 1. From now on, check the Television at the start of every day to reveal tomorrow's [Weather](https://stardewvalleywiki.com/Weather).
 2. Water crops.
@@ -29,7 +29,7 @@
 5. Deposit your entire inventory into The Farm Chest. Retrieve the Fiberglass Rod and the newly-crafted Chest.
 6. Travel to The Mountain.
 
-### Fishing
+### The Mountain
 
 1. Walk to the fence at the bottom of the screen and continue walking east from there. Place the Chest on the east-most tile on the row of tiles just above the south-most row of tiles.<br />![The Mountain Chest](images/year-1-sprint-4-the-mountain-chest.png)
 2. Fish so that your bobber lands one tile southeast of the underwater stone. This tile is Fishing Zone 5. Casting beyond this tile has no benefit.<br />![The Mountain Bobber](images/year-1-sprint-4-the-mountain-bobber.png)
@@ -43,12 +43,15 @@
    - Consider keeping items that don't sell for much (e.g., Wood). Gathering Wood at this point is Energy-intensive and time-consuming and each Wood only sells for 2g.
    - Consider keeping certain rare Artifacts like [Ancient Seed](https://stardewvalleywiki.com/Ancient_Seed) or other Artifacts that don't sell for much. They can be used later to complete your Museum collection.
 5. Travel to The Farm.
-6. Ship all sellable items except for the following:
+
+### The Farm (2)
+
+1. Ship all sellable items except for the following:
    - All Chubs (you'll be eating them for Energy)
    - One of each fish that is used in Community Center Bundles
    - [Diamonds](https://stardewvalleywiki.com/Diamond), [Emeralds](https://stardewvalleywiki.com/Emerald), [Jade](https://stardewvalleywiki.com/Jade), and [Rubies](https://stardewvalleywiki.com/Ruby) for future [Skull Cavern](https://stardewvalleywiki.com/Skull_Cavern) trips
-7. If time allows, cut Weeds and Grass.
-8. Pass out.
+2. If time allows, cut Weeds and Grass.
+3. Pass out.
 
 ## Day's end
 
