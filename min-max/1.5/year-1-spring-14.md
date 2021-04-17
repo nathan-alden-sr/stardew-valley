@@ -16,13 +16,14 @@
 
 ### The Farm (1)
 
-1. If two days have elapsed since the last time you checked The Cave, check it now for Mushrooms.
-2. Deposit your entire inventory into Chests. Withdraw the following:
+1. Check the Television and learn the [Coleslaw](https://stardewvalleywiki.com/Coleslaw) recipe from the Queen of Sauce.
+2. If two days have elapsed since the last time you checked The Cave, check it now for Mushrooms.
+3. Deposit your entire inventory into Chests. Withdraw the following:
    - Sources of Energy if you don't have them stored in the Chest in The Mines
    - Watering Can
-3. Water Mixed Seed crops.
-4. Deposit the Watering Can in a Chest.
-5. Travel to The Mines.
+4. Water Mixed Seed crops.
+5. Deposit the Watering Can in a Chest.
+6. Travel to The Mines.
 
 ### The Mines
 
