@@ -63,7 +63,7 @@
 16. Continue following instructions only after you've acquired five Copper Bars or 3:00 pm arrives (whichever comes first).
 17. Deposit the [Rusty Sword](https://stardewvalleywiki.com/Rusty_Sword) and Parsnips into the Chest. Retrieve the following:
     - The Furnace
-    - Any Gems
+    - All Gems
     - Any other items you wish to take back to The Farm (e.g., Fiber, Mixed Seeds, etc.)
     - Be sure you will have four empty inventory slots after selling smelting Copper Ore and selling Gems to Clint.
 18. Travel to the Blacksmith.
