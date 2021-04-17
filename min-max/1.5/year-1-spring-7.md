@@ -21,7 +21,7 @@
 
 ### The Farm
 
-1. Check the Television and learn the [Stir Fry](https://stardewvalleywiki.com/Stir_Fry) recipe from the Queen of Sauce.
+1. Check the Television and learn the [Stir Fry](https://stardewvalleywiki.com/Stir_Fry) recipe from [The Queen of Sauce](https://stardewvalleywiki.com/The_Queen_of_Sauce).
 2. Check the mail until you receive the Wizard's letter.
 3. Withdraw the Watering Can from a Chest.
 4. Water crops.

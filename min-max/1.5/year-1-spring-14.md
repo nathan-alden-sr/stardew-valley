@@ -16,7 +16,7 @@
 
 ### The Farm (1)
 
-1. Check the Television and learn the [Coleslaw](https://stardewvalleywiki.com/Coleslaw) recipe from the Queen of Sauce.
+1. Check the Television and learn the [Coleslaw](https://stardewvalleywiki.com/Coleslaw) recipe from The Queen of Sauce.
 2. If two days have elapsed since the last time you checked The Cave, check it now for Mushrooms.
 3. Deposit your entire inventory into Chests. Withdraw the following:
    - Sources of Energy if you don't have them stored in the Chest in The Mines
