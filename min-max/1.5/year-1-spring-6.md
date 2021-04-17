@@ -19,6 +19,8 @@
 
 ## Instructions
 
+### Farming
+
 Tips:
 
 - Your only Farm Chest may be getting full by this point. If so, fell Trees for an additional 50 Wood and craft a second Chest. Place it next to the first Chest.
@@ -30,17 +32,23 @@ Instructions:
 3. Fell Trees until 7:40 am.
 4. Deposit your entire inventory into the Chest. Retrieve the following:
    - Fiberglass Rod
-5. Travel to Pelican Town via the Bus Stop. When you transition to Pelican Town, the Community Center cutscene will trigger.
+
+### Community Center
+
+1. Travel to Pelican Town via the Bus Stop. When you transition to Pelican Town, the Community Center cutscene will trigger.
    - Do not skip the cutscene. If you skip it the game will place you at the entrance to Pelican Town instead of the Community Center door.
-6. Enter the Community Center and interact with the golden scroll in the lower left room. This interaction triggers the Wizard entry in your journal tomorrow.
-7. Travel to The Mountain fishing spot.
-8. Fish until 1:00 am.
-9. Deposit your entire inventory into the Chest. Withdraw the following:
+2. Enter the Community Center and interact with the golden scroll in the lower left room. This interaction triggers the Wizard entry in your journal tomorrow.
+
+### Fishing
+
+1. Travel to The Mountain fishing spot.
+2. Fish until 1:00 am.
+3. Deposit your entire inventory into the Chest. Withdraw the following:
    - Five Iron Bars
    - The most profitable item stacks as calculated by the spreadsheet
    - Do not withdraw any Gold Ore, Gold Bars, or the rest of the Coal. You will be smelting Gold Bars tomorrow.
-10. Travel to The Farm.
-11. Ship enough items to reach the G target calculated by the spreadsheet
-    - You will need 5,000g for the Steel Axe upgrade and enough G to purchase the remaining Gold Ore you need to acquire 25 in total
-12. If time allows, cut Weeds and Grass.
-13. Pass out.
+4. Travel to The Farm.
+5. Ship enough items to reach the G target calculated by the spreadsheet
+   - You will need 5,000g for the Steel Axe upgrade and enough G to purchase the remaining Gold Ore you need to acquire 25 in total
+6. If time allows, cut Weeds and Grass.
+7. Pass out.
