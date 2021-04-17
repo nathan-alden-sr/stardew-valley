@@ -34,8 +34,7 @@
 1. Walk to the fence at the bottom of the screen and continue walking east from there. Place the Chest on the east-most tile on the row of tiles just above the south-most row of tiles.<br />![The Mountain Chest](images/year-1-sprint-4-the-mountain-chest.png)
 2. Fish so that your bobber lands one tile southeast of the underwater stone. This tile is Fishing Zone 5. Casting beyond this tile has no benefit.<br />![The Mountain Bobber](images/year-1-sprint-4-the-mountain-bobber.png)
 3. Fish until 1:00 am.
-4. Fill your inventory with the following:
-   - Fiberglass Rod (when raining tomorrow)
+4. Deposit your entire inventory into the Chest. Withdraw the following:
    - All Ore
    - All Coal
    - All Gems

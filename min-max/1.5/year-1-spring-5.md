@@ -103,7 +103,7 @@
    - Do not smelt Gold Bars until you have acquired five Iron Bars.
 3. Fish until 1:50 am.
 4. Update the spreadsheet to account for any Gold Ore you acquired while fishing.
-5. Fill your inventory with the following:
+5. Deposit your entire inventory into the Chest. Withdraw the following:
    - One Coal
    - The most profitable item stacks as calculated by the spreadsheet
    - Do not withdraw any Iron Ore, Iron Bars, Gold Ore, Gold Bars, or the rest of the Coal

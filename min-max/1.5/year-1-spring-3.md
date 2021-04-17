@@ -54,7 +54,7 @@ Instructions:
 1. Walk to the tile closest to the river and six tiles west of Leah's door. Place the Chest northeast by one tile.<br />![Cindersap Forest Chest](images/year-1-spring-3-cindersap-forest-chest.png)
 2. Fish so that your bobber lands on the row of tiles shared by the underwater stones tile. This tile is Fishing Zone 5. Casting beyond this tile has no benefit.<br />![Cindersap Forest Bobber](images/year-1-spring-3-cindersap-forest-bobber.png)
 3. Fish until 1:50 am.
-4. Fill your inventory with the following:
+4. Deposit your entire inventory into the Chest. Withdraw the following:
    - Fiberglass Rod
    - All [Ore](https://stardewvalleywiki.com/Ore)
    - All Coal
