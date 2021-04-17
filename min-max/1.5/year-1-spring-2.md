@@ -48,7 +48,7 @@ Tips:
   - [Joja Cola](https://stardewvalleywiki.com/Joja_Cola)
   - Highest-quality [Anchovy](https://stardewvalleywiki.com/Anchovy)
   - Highest-quality [Herring](https://stardewvalleywiki.com/Herring)
-- You need to be skilled in Fishing in order to reach Fishing level 4 by the end of the day.
+- You need to be skilled in Fishing in order to reach Fishing level 4 by day's end.
 - Once your Fishing level is high enough, it becomes no longer necessary to fish with maximum casts. Just be sure the bobber always lands on a tile with [Fishing Zone](https://stardewvalleywiki.com/Fishing#Fishing_Zone) 5.
 
 Instructions:
