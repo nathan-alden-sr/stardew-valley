@@ -14,6 +14,10 @@
 ## Advice and warnings
 
 - When you reach Mining level 5, choose the [Miner](https://stardewvalleywiki.com/Mining/Skill) profession.
+- You will eventually reach floor 120. When you do, farm the following floors for the types of Ore you need:
+  - Floor 21 for Copper Ore
+  - Floor 41 for Iron Ore
+  - Floor 81 for Gold Ore
 
 ## Instructions
 
@@ -64,7 +68,7 @@
 1. Place the Furnace to the right of the elevator again.
 2. Continue your descent while keeping the furnace smelting as often as reasonable.
    - As you acquire more Copper Ore and Stone, craft and place three more Furnaces.
-   - You need the required number of Iron Bars and Gold Bars by Spring 14. Prioritize smelting Gold Bars since they take significantly longer than Iron Bars. It is unlikley you will find much Gold Ore today, however.
+   - You need the required number of Copper Bars and Iron Bars by Spring 14. Prioritize smelting Iron Bars since they take longer than Copper Bars.
    - Return to the top of The Mines to smelt more Bars every time you reach a new elevator.
 3. Mine until 1:50 am.
 4. Deposit your entire inventory into the Chest. Withdraw the following:
@@ -75,3 +79,4 @@
 ## Day's end
 
 - Farming level 1 ⟶ 2
+- Mining level increases may occur
