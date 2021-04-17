@@ -11,6 +11,10 @@
 
 - Mine and smelt
 
+## Advice and warnings
+
+- This is the last day you can craft the remaining required Sprinklers. Any later than today and the second Kale crop will not mature in time.
+
 ## Instructions
 
 ### The Farm (1)
