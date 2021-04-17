@@ -24,7 +24,7 @@
   - Monster density
   - Room layouts
   - [Infested Floors](https://stardewvalleywiki.com/The_Mines#Infested_Floors)
-- See [Kale crop planner](https://stardew.info/planner/33-dirty-gerbils-fought-easily) for a suggested Kale and Scarecrow layout. Mixed Seeds are depicted by a generic crop icon. This plan takes into account the need to place several [Sprinklers](https://stardewvalleywiki.com/Sprinkler) later in the run.
+- See the [first Kale crop planner](https://stardew.info/planner/5-strong-oysters-married-easily) for a suggested plan. Mixed Seeds are depicted by a generic crop icon. This plan takes into account the need to place several [Sprinklers](https://stardewvalleywiki.com/Sprinkler) later in the run.
 - At least one [Bean Starter](https://stardewvalleywiki.com/Bean_Starter) must be planted by this day, watered every single day, and not eaten by Crows in order to successfully complete the Spring Crops Bundle on Spring 15.
 
 ## Instructions
@@ -34,7 +34,7 @@
 1. From now on, check the Television at the start of every day to reveal today's [Luck](https://stardewvalleywiki.com/Luck).
 2. Choose to accept or decline the pet. See the [Dog/Cat Mechanics](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#dogcat-mechanics) section in Zamiell's guide.
 3. Harvest the Parsnips and use the spreadsheet to track how many you harvested. The count will be used in Experience calculations later.
-4. If you followed the Parsnip crop planner then your Mixed Seeds were kept separate from your 15 Parsnips. Compare the crop's appearance with images on the Stardew Wiki to see if the crop is a Cauliflower or a [Potato](https://stardewvalleywiki.com/Potato). If you do not have a Cauliflower then you will not be able to complete the Spring Crops Bundle on Spring 15 as it is too late to plant a Cauliflower and have it mature by that day.
+4. If you followed the [Parsnip](https://stardewvalleywiki.com/Parsnip) crop planner then your Mixed Seeds were kept separate from your 15 Parsnips. Compare the crop's appearance with images on the Stardew Wiki to see if the crop is a Cauliflower or a [Potato](https://stardewvalleywiki.com/Potato). If you do not have a Cauliflower then you will not be able to complete the Spring Crops Bundle on Spring 15 as it is too late to plant a Cauliflower and have it mature by that day.
 5. Claim the Parsnip harvesting reward of 100g in your journal.
 6. Do not water any crops until the guide instructs you to.
 7. Craft a Chest and keep it in your inventory.

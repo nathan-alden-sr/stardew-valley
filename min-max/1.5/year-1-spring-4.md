@@ -24,7 +24,7 @@
 1. From now on, check the Television at the start of every day to reveal tomorrow's [Weather](https://stardewvalleywiki.com/Weather).
 2. Water crops.
 3. If you do not have 150 Wood, fell Trees in the same manner as before until you have 150 Wood. You can fell Oak Trees now that they will drop Acorns. Take your Scythe with you to clear Weeds and Grass.
-   - The Wood is for two more Chests and a Scarecrow.
+   - The Wood is for two more Chests and a [Scarecrow](https://stardewvalleywiki.com/Scarecrow).
 4. Craft a Chest and keep it in your inventory.
 5. Deposit your entire inventory into The Farm Chest. Withdraw the following:
    - Fiberglass Rod
