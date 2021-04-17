@@ -37,7 +37,7 @@
 4. If you followed the Parsnip crop planner then your Mixed Seeds were kept separate from your 15 Parsnips. Compare the crop's appearance with images on the Stardew Wiki to see if the crop is a Cauliflower or a [Potato](https://stardewvalleywiki.com/Potato). If you do not have a Cauliflower then you will not be able to complete the Spring Crops Bundle on Spring 15 as it is too late to plant a Cauliflower and have it mature by that day.
 5. Claim the Parsnip harvesting reward of 100g in your journal.
 6. Do not water any crops until the guide instructs.
-7. Craft a Chest and take it with you.
+7. Craft a Chest and keep it in your inventory.
 8. Use the spreadsheet to track how many [Iron Ore](https://stardewvalleywiki.com/Iron_Ore) and [Gold Ore](https://stardewvalleywiki.com/Gold_Ore) you have (they are sometimes acquired from fishing chests). The count will be used in purchasing calculations later.
 9. Empty your inventory into The Farm Chest. Retrieve the following:
    - Pickaxe

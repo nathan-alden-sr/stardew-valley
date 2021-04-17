@@ -28,7 +28,7 @@ Tips:
 Instructions:
 
 1. Empty your inventory into the Chest. Retrieve the Fiberglass Rod.
-2. If you have 80+ Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) from a fishing chest on Spring 2, craft a Chest and take it with you, then skip to the Cindersap Forest section below. Remember to divert from the guide and purchase more Bait from Willy tomorrow before going to The Mountain lake.
+2. If you have 80+ Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) from a fishing chest on Spring 2, craft a Chest and keep it in your inventory, then skip to the Cindersap Forest section below. Remember to divert from the guide and purchase more Bait from Willy tomorrow before going to The Mountain lake.
 3. Retrieve the Hoe from the Chest.
 4. Travel to Cindersap Forest.
 5. Walk to the tile closest to the river and six tiles west of Leah's door.<br />![Cindersap Forest Chest](images/year-1-spring-3-cindersap-forest-chest.png)

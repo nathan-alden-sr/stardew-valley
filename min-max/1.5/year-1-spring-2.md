@@ -23,7 +23,7 @@
    - You need to read Willy's letter to be given the [Bamboo Pole](https://stardewvalleywiki.com/Bamboo_Pole).
 2. Water crops.
    - Similar to foraging, stand in the center of a 3x3 box containing as many crops as possible. Drag the left mouse button over each crop to eliminate all wasted time between each watering.
-3. Craft a Chest and take it with you.
+3. Craft a Chest and keep it in your inventory.
    - If you did not have enough Energy on Spring 1 to chop 50 Wood, chop enough now to craft the Chest. This may not leave you with enough time to acquire the Bamboo Pole and Bait before the [Fish Shop](https://stardewvalleywiki.com/Fish_Shop) closes, however.
 4. Deposit all inventory into the Farmhouse Chest. Retrieve the Hoe and one Stone to go with your newly-crafted Chest.
 
