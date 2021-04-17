@@ -37,7 +37,7 @@ Instructions:
 
 ### Pelican Town
 
-1. Enter the Community Center and interact with the golden scroll in the lower left room. This interaction triggers the Wizard entry in your journal tomorrow.
+1. Enter the Community Center and interact with the golden scroll in the lower left room. This interaction triggers the [Wizard](https://stardewvalleywiki.com/Wizard) entry in your journal tomorrow.
 2. Travel to The Mountain fishing spot.
 
 ### The Mountain
