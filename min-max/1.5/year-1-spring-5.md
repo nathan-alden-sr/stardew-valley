@@ -79,7 +79,7 @@ Instructions:
    - 11 Coal
    - All Gems
    - Any other items you wish to take back to The Farm (e.g., Fiber, Mixed Seeds, etc.)
-     - If you need to buy a [Potato Seed](https://stardewvalleywiki.com/Potato_Seeds), leave one inventory slot empty. You will need a total of three empty inventory slots after selling Gems to Clint and upgrading the Pickaxe. Upgrading the Pickaxe will free up two slots. If you are also selling at least one Gem stack, you do not need to free any inventory slots.
+     - If you need to purchase a [Potato Seed](https://stardewvalleywiki.com/Potato_Seeds), leave one inventory slot empty. You will need a total of three empty inventory slots after selling Gems to Clint and upgrading the Pickaxe. Upgrading the Pickaxe will free up two slots. If you are also selling at least one Gem stack, you do not need to free any inventory slots.
 8. Travel to the Blacksmith.
 
 ### Blacksmith
