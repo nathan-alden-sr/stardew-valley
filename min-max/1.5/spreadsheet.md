@@ -75,6 +75,10 @@ When a *Remaining G* value goes negative, it means you will have shipped more th
 
 Note that *Inventory G* columns are not merely numbers but are formulas. It is your responsibility to modify the formula to account for passing out or not.
 
+### G in Inventory
+
+Often, you will need to provide the amount of G in your inventory. On days where this number is used to calculate the next day's G total, be sure to account for the 10% penalty for passing out. Use the formula `=1234*0.9`, for example, to indicate you have 1,234g at the end of the current day but plan on passing out.
+
 ### Search
 
 ![Search](images/search.png)
