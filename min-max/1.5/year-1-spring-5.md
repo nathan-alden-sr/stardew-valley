@@ -26,11 +26,16 @@
   - [Infested Floors](https://stardewvalleywiki.com/The_Mines#Infested_Floors)
 - See [Kale crop planner](https://stardew.info/planner/33-dirty-gerbils-fought-easily) for a suggested Kale and Scarecrow layout. Mixed Seeds are depicted by a generic crop icon. This plan takes into account the need to place several [Sprinklers](https://stardewvalleywiki.com/Sprinkler) later in the run.
 - At least one [Bean Starter](https://stardewvalleywiki.com/Bean_Starter) must be planted by this day, watered every single day, and not eaten by Crows in order to successfully complete the Spring Crops Bundle on Spring 15.
-- At least 16 Coal must be acquired, including any previously acquired, in order to smelt the required number of bars and craft a Scarecrow.
 
 ## Instructions
 
 ### Mining and smelting
+
+Tips:
+
+- At least 16 Coal must be acquired, including any previously acquired, in order to smelt the required number of bars and craft a Scarecrow.
+
+Instructions:
 
 1. From now on, check the Television at the start of every day to reveal today's [Luck](https://stardewvalleywiki.com/Luck).
 2. Choose to accept or decline the pet. See the [Dot/Cat Mechanics](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#dogcat-mechanics) section in Zamiell's guide.
