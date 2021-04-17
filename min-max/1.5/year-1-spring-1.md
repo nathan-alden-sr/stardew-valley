@@ -22,6 +22,11 @@
 - Pause often! It's instantaneous, free, and allows you to think.
 - Throughout your travels you will almost certainly come across [Rice Shoots](https://stardewvalleywiki.com/Rice_Shoot). These should be planted as soon as you are able. See the [Rice Shoots crop planner](https://stardew.info/planner/7-careful-ants-snuggled-easily) for a suggested plan. Certain tiles should strategically be left alone for future [Sprinkler](https://stardewvalleywiki.com/Sprinkler) use.
 - Any time you acquire a new item, check the spreadsheet to see if it is used in a Bundle. If it is, be sure to keep one of the item.
+- While traveling over the course of the next two weeks, be on the lookout for one of each of four forageables required for the [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) on Spring 15:
+  - [Wild Horseradish](https://stardewvalleywiki.com/Wild_Horseradish)
+  - [Daffodil](https://stardewvalleywiki.com/Daffodil)
+  - [Leek](https://stardewvalleywiki.com/Leek)
+  - [Dandelion](https://stardewvalleywiki.com/Dandelion)
 
 ## Instructions
 
@@ -183,7 +188,7 @@ Instructions:
    - All Stone (one is needed for Spring 2)
    - All [Coal](https://stardewvalleywiki.com/Coal)
    - 20 Fiber
-   - One of each Spring forageable you collected (you may not have all four types): [Wild Horseradish](https://stardewvalleywiki.com/Wild_Horseradish), [Daffodil](https://stardewvalleywiki.com/Daffodil), [Leek](https://stardewvalleywiki.com/Leek), and [Dandelion](https://stardewvalleywiki.com/Dandelion). These will be used for the [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) later.
+   - One of each Spring forageable needed to complete the Spring Foraging Bundle
 8. Plant and water Mixed Seeds.
    - You can work past zero Energy, but not too much, otherwise the game will force you to pass out and you will wake up on Spring 2 with half Energy. If you do become [Exhausted](https://stardewvalleywiki.com/Energy), be sure you have enough time to make it into the Farmhouse.
 9. Enter the Farmhouse at 1:50 am.
