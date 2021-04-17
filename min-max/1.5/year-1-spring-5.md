@@ -74,6 +74,7 @@ Instructions:
 6. Continue following instructions only after you've acquired five Copper Bars or 3:00 pm arrives (whichever comes first).
 7. Deposit your entire inventory into the chest. Withdraw the following:
    - The Furnace
+   - Five Copper Bars
    - Up to 25 Iron Ore
    - Up to 25 Gold Ore
    - 11 Coal
