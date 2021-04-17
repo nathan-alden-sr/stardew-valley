@@ -15,7 +15,7 @@
 ## Advice and warnings
 
 - If your Bean Starter or your last Cauliflower was eaten by a Crow then you will not be able to complete the Spring Crops Bundle on Spring 15.
-- When playing a female character, it's possible that you will receive a letter from [Dad](https://stardewvalleywiki.com/Mom_and_Dad) tomorrow containing 500g as a reward for earning 5,000g. If you are diligent about tracking how much you've earned, you can reduce the spreadsheet's G target by 500g at the end of the day.
+- When playing a female character, it's possible that you will receive a letter from [Dad](https://stardewvalleywiki.com/Mom_and_Dad) tomorrow containing 500g as a reward for earning 5,000g. If you are diligent about tracking how much you've earned and you will reach the threshold by tomorrow, you can reduce the spreadsheet's G target by 500g at the end of the day.
 
 ## Instructions
 
