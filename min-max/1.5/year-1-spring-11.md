@@ -19,6 +19,7 @@
   - Floor 21 for Copper Ore
   - Floor 41 for Iron Ore
   - Floor 81 for Gold Ore
+- If it rains today or over the next couple of days you will have to decide whether you can afford to take time off from mining to fish in Cindersap Forest.
 
 ## Instructions
 
