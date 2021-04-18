@@ -47,7 +47,9 @@
 ### The Mountain
 
 1. Fish until 1:50 am. Continuously smelt Gold Bars.
-2. Deposit your entire inventory into the Chest. Withdraw the most profitable item stacks as calculated by the spreadsheet.
+2. Deposit your entire inventory into the Chest. Withdraw the following:
+   - The Axe or Scythe if you had to use them to clear a path to Cindersap Forest
+   - The most profitable item stacks as calculated by the spreadsheet
 3. Pass out.
 
 ## Day's end
