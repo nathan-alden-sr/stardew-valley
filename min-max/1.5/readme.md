@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This guide is based on [Zamiell's excellent guide](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md), which itself is based on several other sources. However, I was not happy with how the guide is laid out, the presentation of each day's tasks, and the overall thoroughness. After running Year 1 Spring over and over again, making many mistakes, and taking voluminous notes, I decided to write my own daily guide. My hope is that you will avoid many of the mistakes I made and thus have a more enjoyable experience.
+This guide is based on [Zamiell's guide](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md), which itself is based on several other sources. However, I was not happy with how the guide is laid out, the presentation of each day's tasks, and the overall thoroughness. After running Year 1 Spring over and over again, making many mistakes, and taking voluminous notes, I decided to write my own daily guide. My hope is that you will avoid many of the mistakes I made and thus have a more enjoyable experience.
 
 You may refer to the general strategies in Zamiell's guide as I do not cover those here.
 

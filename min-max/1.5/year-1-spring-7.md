@@ -29,6 +29,7 @@
    - Fiberglass Rod
    - Five Iron Bars
 6. Travel to Cindersap Forest.
+   - Weeds and branches may be blocking the path you previously cleared.<br />![Path Clear on Spring 3](images/year-1-spring-7-path-clear.png)<br />![Path Blocked on Spring 7](images/year-1-spring-7-path-blocked.png)
 
 ### Cindersap Forest
 
