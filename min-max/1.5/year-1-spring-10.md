@@ -21,7 +21,7 @@
    - Common Mushrooms are a good source of Energy. Use them to supplement your supply of Chubs.
 4. Use the spreadsheet to calculate how many additional Kale you need to reach Farming level 6.
    - The Kale will be planted in two batches. Planting in two batches cuts the number of Sprinklers needed--and thus Iron Bars needed--in half, leaving more Iron Bars for [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler) later.
-   - If you need an odd number of Kale then the spreadsheet will show a fractional number. In this case, it is your choice whether to plant the extra Kale Seed in this first batch or wait until the second batch.
+   - If you need an odd number of Kale then the spreadsheet will round up. In this case, plant one fewer Kale Seed for the second crop.
 5. Deposit your entire inventory into Chests. Withdraw the following:
    - If you have Fishing level 10, enough fish to purchase half of the Kale Seeds
    - If you have less than 100 Bait on the Fiberglass Rod, use the spreadsheet to calculate how many Bait you need to purchase and the cost of the Bait. Withdraw enough fish to sell to Willy in order to purchase the minimum required Bait.
