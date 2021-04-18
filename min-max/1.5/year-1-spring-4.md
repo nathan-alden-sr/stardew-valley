@@ -51,9 +51,9 @@
 1. Ship all sellable items except for the following:
    - All Chubs (you'll be eating them for Energy)
    - One of each fish that is used in Community Center Bundles
-   - Ore
-   - Coal
-   - [Diamonds](https://stardewvalleywiki.com/Diamond), [Emeralds](https://stardewvalleywiki.com/Emerald), [Jade](https://stardewvalleywiki.com/Jade), and [Rubies](https://stardewvalleywiki.com/Ruby) for future [Skull Cavern](https://stardewvalleywiki.com/Skull_Cavern) trips
+   - All Ore
+   - All Coal
+   - All [Diamonds](https://stardewvalleywiki.com/Diamond), [Emeralds](https://stardewvalleywiki.com/Emerald), [Jade](https://stardewvalleywiki.com/Jade), and [Rubies](https://stardewvalleywiki.com/Ruby) for future [Skull Cavern](https://stardewvalleywiki.com/Skull_Cavern) trips
    - Consider keeping items that don't sell for much (e.g., Wood). Gathering Wood at this point is Energy-intensive and time-consuming and each Wood only sells for 2g.
    - Consider keeping certain rare Artifacts like [Ancient Seed](https://stardewvalleywiki.com/Ancient_Seed) or other Artifacts that don't sell for much. They can be used later to complete your Museum collection.
 2. If time allows, cut Weeds and Grass.
