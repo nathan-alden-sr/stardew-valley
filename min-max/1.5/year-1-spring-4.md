@@ -31,6 +31,7 @@
 7. Deposit your entire inventory into The Farm Chest. Withdraw the following:
    - Fiberglass Rod
    - The newly-crafted Chest
+   - Chubs for eating if you took them with you yesterday
 8. Travel to The Mountain.
 
 ### The Mountain

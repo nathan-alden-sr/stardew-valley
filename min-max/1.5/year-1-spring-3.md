@@ -58,7 +58,7 @@
    - All Coal
    - All [Gems](https://stardewvalleywiki.com/Minerals#Gems)
    - The most profitable item stacks as calculated by the spreadsheet
-     - Consider taking [Chubs](https://stardewvalleywiki.com/Chub) with you if you are concerned about needing Energy for Spring 4.
+     - Consider taking [Chubs](https://stardewvalleywiki.com/Chub) with you if you are concerned about needing Energy for Spring 4. You need to potentially fell several Trees tomorrow so your Energy may be low before fishing.
 5. Pass out.
 
 ## Day's end
