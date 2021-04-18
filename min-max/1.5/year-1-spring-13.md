@@ -28,7 +28,7 @@
 
 ### The Mines
 
-1. Withdraw the Gold Pickaxe from the Chest.
+1. Withdraw items from the Chest that you need for your descent.
 2. Continue your descent while keeping the Furnaces smelting as often as reasonable.
 3. Mine until 1:50 am.
 4. Deposit your entire inventory into the Chest. Withdraw the following:

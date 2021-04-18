@@ -32,7 +32,7 @@
 
 ### The Mines
 
-1. Withdraw the Gold Pickaxe from the Chest.
+1. Withdraw items from the Chest that you need for your descent.
 2. Resume your descent.
    - If you still need more Sprinklers, farm floors 21 for Copper Ore and 41 for Iron Ore first.
    - If you find missing Geologist's Bundle or Adventurer's Bundle items before day's end, you can return to the Community Center and complete the Bundle.

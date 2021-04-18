@@ -27,7 +27,7 @@
 
 ### The Mines
 
-1. Withdraw the Gold Pickaxe from the Chest.
+1. Withdraw items from the Chest that you need for your descent.
 2. Continue your descent while keeping the Furnaces smelting as often as reasonable.
    - You will need the required number of Copper Bars and Iron Bars before 12:00 am.
    - Remember you need one extra Copper Bar and Iron Bar, and one Gold Bar for the Blacksmith's Bundle.
