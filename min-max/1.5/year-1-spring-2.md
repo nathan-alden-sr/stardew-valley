@@ -56,14 +56,14 @@ Instructions:
 1. Gift the Stone to Willy and claim the 100g reward in your journal.
 2. Place the Chest on the east-most tile on the south-most row of tiles on the pier. You will be fishing from the east-most tile on the middle row.<br />![Ocean Chest](images/year-1-spring-2-ocean-chest.png)
 3. Fish facing east from the east-most tile using maximum casts.
-4. At 8:40 am, destroy the Bamboo Pole, then travel to the sand to check for forageables and Artifact Spots.
+4. At 8:40 am, trash the Bamboo Pole, then travel to the sand to check for forageables and Artifact Spots.
    - If you acquire an Artifact now, donate it to the Museum and claim the 250g reward in your journal, then return to the Beach.
 5. Speak to Willy when he's behind the shop counter. Sell him all Beach forageables and fish. Purchase the [Training Rod](https://stardewvalleywiki.com/Training_Rod) for 25g.
    - The Training Rod allows for easier perfect catches. Perfect catches increase [Experience](https://stardewvalleywiki.com/Skills) gained from fishing, which is more important than the income acquired from higher-quality fish.
 6. Exit the Fish Shop, then fish below Willy's door using minimum casts.
    - Since fish quality doesn't matter with the Training Rod, there is no reason to waste time traveling to the eastern end of the pier.
    - Monitor your inventory using the [spreadsheet](spreadsheet.md).
-7. As soon as you have 1,800g in inventory and fish value and are Fishing level 2, destroy the Training Rod, sell all the fish, and purchase the Fiberglass Rod from Willy. Purchase as much Bait as possible and equip the Bait on the Fiberglass Rod.
+7. As soon as you have 1,800g in inventory and fish value and are Fishing level 2, trash the Training Rod, sell all the fish, and purchase the Fiberglass Rod from Willy. Purchase as much Bait as possible and equip the Bait on the Fiberglass Rod.
    - It's now more difficult to perfect catch due to only being Fishing level 2, but the Bait's reduction of bobber time combined with catching fish of silver or higher quality more than makes up for it.
    - Now that you have the Fiberglass Rod, Fishing Zone consideration applies.
 8. Fish from the east-most tile of the pier using maximum casts to start.
