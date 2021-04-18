@@ -22,15 +22,16 @@
 ### The Farm (1)
 
 1. From now on, check the Television at the start of every day to reveal tomorrow's [Weather](https://stardewvalleywiki.com/Weather).
-2. Withdraw the Watering Can from the Chest.
-3. Water crops.
-4. If you do not have 150 Wood, fell Trees in the same manner as before until you have 150 Wood. You can fell Oak Trees now that they will drop Acorns. Take your Scythe with you to clear Weeds and Grass.
+2. Clint should appear and give you the plans for crafting Furnaces.
+3. Withdraw the Watering Can from the Chest.
+4. Water crops.
+5. If you do not have 150 Wood, fell Trees in the same manner as before until you have 150 Wood. You can fell Oak Trees now that they will drop Acorns. Take your Scythe with you to clear Weeds and Grass.
    - The Wood is for two more Chests and a [Scarecrow](https://stardewvalleywiki.com/Scarecrow).
-5. Craft a Chest and keep it in your inventory.
-6. Deposit your entire inventory into The Farm Chest. Withdraw the following:
+6. Craft a Chest and keep it in your inventory.
+7. Deposit your entire inventory into The Farm Chest. Withdraw the following:
    - Fiberglass Rod
    - The newly-crafted Chest
-7. Travel to The Mountain.
+8. Travel to The Mountain.
 
 ### The Mountain
 
