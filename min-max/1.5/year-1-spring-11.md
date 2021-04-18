@@ -42,7 +42,7 @@
    - Hoe
    - Watering Can
    - If you did not ship any fish yesterday, enough fish to purchase half the Kale Seeds
-2. Water Mixed Seed crops.
+2. Water the Bean Starter and Mixed Seed crops.
 3. Harvest the Kale.
    - You should reach Farming level 2.
 4. Start tilling Kale Seed planting spots in an interlocked Sprinkler pattern. Check the spreadsheet to see how many Sprinklers are necessary for the number of Kale Seeds you need to plant. See the [second Kale crop planner](https://stardew.info/planner/32-low-gerbils-kissed-easily) for a suggested plan. Mixed Seeds are depicted by a generic crop icon.
@@ -74,6 +74,7 @@
    - All Gold Ore
    - All Coal
    - Source of Energy, usually Common Mushrooms or Chubs
+   - Your best [Weapon](https://stardewvalleywiki.com/Weapons) if you fished one up
 3. Travel to The Mines.
 
 ### The Mines

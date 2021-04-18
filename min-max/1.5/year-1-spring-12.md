@@ -19,7 +19,7 @@
 2. Deposit your entire inventory into Chests. Withdraw the following:
    - Sources of Energy if you don't have them stored in the Chest in The Mines
    - Watering Can
-3. Water Mixed Seed crops.
+3. Water the Bean Starter and Mixed Seed crops.
 4. Deposit the Watering Can in a Chest.
 5. Travel to The Mines.
 
