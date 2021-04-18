@@ -28,8 +28,9 @@
 5. Deposit your entire inventory into Chests. Withdraw the following:
    - Fiberglass Rod
    - Five Iron Bars
+   - Weeds, Stones, and branches may be blocking the path you previously cleared.<br />Spring 3:<br />![Path Clear on Spring 3](images/year-1-spring-7-path-clear.png)<br />Spring 7:<br />![Path Blocked on Spring 7](images/year-1-spring-7-path-blocked.png)
+   Withdrawing the Axe or Scythe may be required.
 6. Travel to Cindersap Forest.
-   - Weeds, Stones, and branches may be blocking the path you previously cleared.<br />![Path Clear on Spring 3](images/year-1-spring-7-path-clear.png)<br />![Path Blocked on Spring 7](images/year-1-spring-7-path-blocked.png)
 
 ### Cindersap Forest
 
