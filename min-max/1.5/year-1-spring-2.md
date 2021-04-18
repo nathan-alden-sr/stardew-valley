@@ -75,3 +75,7 @@ Instructions:
 ## Day's end
 
 - Foraging level 0 ⟶ 4
+
+| Yesterday                                 | Today                 | Tomorrow                                    |
+| ----------------------------------------- | --------------------- | ------------------------------------------- |
+[⟵ Year 1, Spring 1](year-1-spring-1.md)   | **Year 1, Spring 2**  | [Year 1, Spring 3 ⟶](year-1-spring-3.md)   |

@@ -46,3 +46,7 @@
 ## Day's end
 
 - (Likely) Fishing level 9 ⟶ 10 (choose the Angler profession)
+
+| Yesterday                                 | Today                 | Tomorrow                                    |
+| ----------------------------------------- | --------------------- | ------------------------------------------- |
+[⟵ Year 1, Spring 8](year-1-spring-8.md)   | **Year 1, Spring 9**  | [Year 1, Spring 10 ⟶](year-1-spring-10.md) |

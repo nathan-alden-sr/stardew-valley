@@ -25,3 +25,7 @@
   - Farming Ore and Coal on floors 21, 41, and 81
   - Felling Trees to acquire Wood to craft more Chests
 - Quality Sprinklers require one Iron Bar, one Gold Bar, and one [Refined Quartz](https://stardewvalleywiki.com/Refined_Quartz) to craft. Smelt Bars and Refined Quartz evenly such that the total number of each you acquire is the same for all three types. This also helps inform you of what types of Resources you need to farm. Use the *Y1-Sp Quality Sprinklers* tab in the spreadsheet to track Ore, Quartz, and Coal requirements.
+
+| Yesterday                                 | Today                 | Tomorrow                                    |
+| ----------------------------------------- | --------------------- | ------------------------------------------- |
+[⟵ Year 1, Spring 16](year-1-spring-16.md) | **Year 1, Spring 17** |                                             |

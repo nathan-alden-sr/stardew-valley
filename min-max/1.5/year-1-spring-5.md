@@ -131,3 +131,7 @@ Instructions:
 - Farming level 0 ⟶ 1
 - Mining level 0 ⟶ 1
 - Fishing level 7 ⟶ 8
+
+| Yesterday                                 | Today                 | Tomorrow                                    |
+| ----------------------------------------- | --------------------- | ------------------------------------------- |
+[⟵ Year 1, Spring 4](year-1-spring-4.md)   | **Year 1, Spring 5**  | [Year 1, Spring 6 ⟶](year-1-spring-6.md)   |

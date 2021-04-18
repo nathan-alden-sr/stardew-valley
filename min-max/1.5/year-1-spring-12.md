@@ -38,3 +38,7 @@
 - Farming level 1 ⟶ 2
 - Mining level increases may occur
   - If you reach Mining level 5, choose the [Miner](https://stardewvalleywiki.com/Mining/Skill) profession.
+
+| Yesterday                                 | Today                 | Tomorrow                                    |
+| ----------------------------------------- | --------------------- | ------------------------------------------- |
+[⟵ Year 1, Spring 11](year-1-spring-11.md) | **Year 1, Spring 12** | [Year 1, Spring 13 ⟶](year-1-spring-13.md) |

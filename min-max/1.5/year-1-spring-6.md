@@ -59,3 +59,7 @@ Instructions:
    - You will need 5,000g for the Steel Pickaxe upgrade and enough G to purchase the remaining Gold Ore you need to acquire 25 in total.
 2. If time allows, cut Weeds and Grass.
 3. Pass out.
+
+| Yesterday                                 | Today                 | Tomorrow                                    |
+| ----------------------------------------- | --------------------- | ------------------------------------------- |
+[⟵ Year 1, Spring 5](year-1-spring-5.md)   | **Year 1, Spring 6**  | [Year 1, Spring 7 ⟶](year-1-spring-7.md)   |
