@@ -143,4 +143,4 @@ Instructions:
 
 | Yesterday                                 | Today                 | Tomorrow                                    |
 | ----------------------------------------- | --------------------- | ------------------------------------------- |
-[⟵ Year 1, Spring 4](year-1-spring-4.md)   | **Year 1, Spring 5**  | [Year 1, Spring 6 ⟶](year-1-spring-6.md)   |
+| [⟵ Year 1, Spring 4](year-1-spring-4.md) | **Year 1, Spring 5**  | [Year 1, Spring 6 ⟶](year-1-spring-6.md)   |

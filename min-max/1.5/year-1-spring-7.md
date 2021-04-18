@@ -54,4 +54,4 @@
 
 | Yesterday                                 | Today                 | Tomorrow                                    |
 | ----------------------------------------- | --------------------- | ------------------------------------------- |
-[⟵ Year 1, Spring 6](year-1-spring-6.md)   | **Year 1, Spring 7**  | [Year 1, Spring 8 ⟶](year-1-spring-8.md)   |
+| [⟵ Year 1, Spring 6](year-1-spring-6.md) | **Year 1, Spring 7**  | [Year 1, Spring 8 ⟶](year-1-spring-8.md)   |

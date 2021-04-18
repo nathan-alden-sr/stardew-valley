@@ -63,6 +63,6 @@
 - Mining level increases may occur
   - If you reach Mining level 5, choose the [Miner](https://stardewvalleywiki.com/Mining/Skill) profession.
 
-| Yesterday                                 | Today                 | Tomorrow                                    |
-| ----------------------------------------- | --------------------- | ------------------------------------------- |
-[⟵ Year 1, Spring 13](year-1-spring-13.md) | **Year 1, Spring 14** | [Year 1, Spring 15 ⟶](year-1-spring-15.md) |
+| Yesterday                                   | Today                 | Tomorrow                                    |
+| ------------------------------------------- | --------------------- | ------------------------------------------- |
+| [⟵ Year 1, Spring 13](year-1-spring-13.md) | **Year 1, Spring 14** | [Year 1, Spring 15 ⟶](year-1-spring-15.md) |
