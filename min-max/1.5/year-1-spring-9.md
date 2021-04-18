@@ -20,7 +20,7 @@
 
 ### The Farm
 
-1. Withdraw the following from Chests:
+1. Deposit your entire inventory into Chests. Withdraw the following:
    - Axe
    - Watering Can
 2. Water crops.
