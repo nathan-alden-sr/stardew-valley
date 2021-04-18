@@ -33,13 +33,13 @@
 ### The Mountain
 
 - If you shipped 12,000g worth of items:
-  1. Fish until 2:00 am. Continuously smelt Gold Bars but stop once you've acquired five.
+  1. Fish until 2:00 am. Continuously smelt Gold Bars.
   2. Deposit your entire inventory into the Chest. Withdraw the following:
      - Five Gold Bars
      - The most profitable item stacks as calculated by the spreadsheet
   3. Pass out.
 - If you did not ship 12,000g worth of items:
-  1. Fish until 1:00 am. Continuously smelt Gold Bars but stop once you've acquired five.
+  1. Fish until 1:00 am. Continuously smelt Gold Bars.
   2. Deposit your entire inventory into the Chest. Withdraw the following:
      - Five Gold Bars
      - The most profitable item stacks as calculated by the spreadsheet
