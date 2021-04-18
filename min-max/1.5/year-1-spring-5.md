@@ -120,7 +120,7 @@ Instructions:
    - Furnace
    - 25 Iron Ore
    - Up to 25 Gold Ore
-   - Ten Coal
+   - 11 Coal
    - Chubs
 4. Travel to The Mountain fishing spot.
 
