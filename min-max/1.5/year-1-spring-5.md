@@ -56,7 +56,7 @@
 
 Tips:
 
-- At least 16 Coal must be acquired, including any previously acquired, in order to smelt the required number of bars and craft a Scarecrow. Floor 11 seems to always spawn a long horizontal hallway that ends in a Coal minecart or Coal bag if you are running low on Coal.
+- At least 16 Coal must be acquired, including any previously acquired, in order to smelt the required number of bars and craft a Scarecrow. Floor 12 seems to always be a long horizontal hallway that ends in a Coal minecart or Coal bag if you are running low on Coal.
 - You may acquire Mixed Seeds by cutting Weeds in The Mines. You may plant these on The Farm if you wish.
 
 Instructions:
@@ -118,9 +118,9 @@ Instructions:
 3. Deposit your entire inventory into the Chest. Withdraw the following:
    - Fiberglass Rod
    - Furnace
-   - Iron Ore
-   - Gold Ore
-   - Coal
+   - 25 Iron Ore
+   - Up to 25 Gold Ore
+   - Ten Coal
    - Chubs
 4. Travel to The Mountain fishing spot.
 
@@ -130,7 +130,7 @@ Instructions:
 2. Fish until 1:50 am. Continuously smelt Iron Bars but stop once you've acquired five. If you've acquired five, begin smelting Gold Bars.
 3. Update the spreadsheet to account for any Gold Ore you acquired while fishing.
 4. Deposit your entire inventory into the Chest. Withdraw the following:
-   - One Coal
+   - One Coal if you do not have one in The Farm Chest
    - The most profitable item stacks as calculated by the spreadsheet
    - Do not withdraw any Iron Ore, Iron Bars, Gold Ore, Gold Bars, or the rest of the Coal
 5. Pass out.
