@@ -29,7 +29,7 @@
   - Ten [Bat Wing](https://stardewvalleywiki.com/Bat_Wing)
   - One [Solar Essence](https://stardewvalleywiki.com/Solar_Essence)
   - One [Void Essence](https://stardewvalleywiki.com/Void_Essence)
-  - It's probably easiest to go for ten Bat Wings and one Solar Essence because the monsters that drop them appear earlier during your descent.
+  - It's probably easiest to acquire one Solar Essence and one Void Essence, but you will likely also acquire many more than ten Bat Wings.
 - If it rains today or over the next couple of days you will have to decide whether you can afford to take time off from mining to fish in Cindersap Forest.
 
 ## Instructions

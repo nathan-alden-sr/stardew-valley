@@ -29,25 +29,30 @@
 3. Harvest Cauliflower and [Green Beans](https://stardewvalleywiki.com/Green_Bean).
 4. Craft and place any remaining Sprinklers.
 5. Deposit your entire inventory into a Chest. Withdraw the following:
-   - One each of four Spring Foraging Bundle items:
-     - Wild Horseradish
-     - Daffodil
-     - Leek
-     - Dandelion
-   - One each of four Spring Crops Bundle items:
-     - Parsnip
-     - Green Bean
-     - Cauliflower
-     - Potato
-   - One each of three Blacksmith's Bundle items:
-     - Copper Bar
-     - Iron Bar
-     - Gold Bar
-   - One each of four Geologist's Bundle items:
-     - Quartz
-     - Earth Crystal
-     - Frozen Tear
-     - Fire Quartz
+   - Four Spring Foraging Bundle items:
+     - One Wild Horseradish
+     - One Daffodil
+     - One Leek
+     - One Dandelion
+   - Four Spring Crops Bundle items:
+     - One Parsnip
+     - One Green Bean
+     - One Cauliflower
+     - One Potato
+   - Four Blacksmith's Bundle items:
+     - One Copper Bar
+     - One Iron Bar
+     - One Gold Bar
+   - Four Geologist's Bundle items:
+     - One Quartz
+     - One Earth Crystal
+     - One Frozen Tear
+     - One Fire Quartz
+   - Two Adventurer's Bundle items:
+     - 99 Slime
+     - 10 Bat Wings
+     - One Solar Essence
+     - One Void Essence
 6. Travel to the Community Center.
 
 ### Pelican Town
