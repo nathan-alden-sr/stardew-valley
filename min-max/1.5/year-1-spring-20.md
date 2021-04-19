@@ -1,4 +1,4 @@
-# Year 1, Spring 18
+# Year 1, Spring 20
 
 | M                          | Tu                        | W                         | Th                        | F                         | Sa                        | Su                        |
 | -------------------------- | ------------------------- | ------------------------- | ------------------------- |-------------------------- | ------------------------- | ------------------------- |
@@ -9,8 +9,7 @@
 
 ## Instructions
 
-1. Harvest the first Kale crop and plant the second crop.
-2. Ship enough items to reach 5,000g for the Steel Axe upgrade.
+1. Ship enough items to reach 5,000g for the Steel Axe upgrade.
 
 | Yesterday                                   | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
