@@ -45,7 +45,11 @@
    - Ten Bat Wings for the Adventurer's Bundle
    - One Solar Essence or Void Essence for the Adventurer's Bundle
    - The most profitable item stacks as calculated by the spreadsheet
-   - Do not withdraw any Ore or Coal.
+   - Do not withdraw any of the following:
+     - Ore
+     - Coal
+     - Stone
+     - Your Weapon
 5. Travel to The Farm.
 
 ### The Farm (2)

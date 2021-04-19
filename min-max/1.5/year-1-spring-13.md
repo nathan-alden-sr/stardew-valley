@@ -33,7 +33,12 @@
 3. Mine until 1:50 am.
 4. Deposit your entire inventory into the Chest. Withdraw the following:
    - The most profitable item stacks as calculated by the spreadsheet
-   - Do not withdraw any Ore or Coal.
+   - Do not withdraw any of the following:
+     - Ore
+     - Bars
+     - Coal
+     - Stone
+     - Your Weapon
 5. Pass out.
 
 ### Day's end
