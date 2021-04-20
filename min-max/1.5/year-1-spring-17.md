@@ -28,4 +28,4 @@
 
 | Yesterday                                   | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
-| [⟵ Year 1, Spring 16](year-1-spring-16.md) | **Year 1, Spring 17** |                                             |
+| [⟵ Year 1, Spring 16](year-1-spring-16.md) | **Year 1, Spring 17** | [⟵ Year 1, Spring 18](year-1-spring-18.md) |
