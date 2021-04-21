@@ -39,27 +39,25 @@ Prices are automatically calculated using precise formulas that include proper d
 
 Different combinations of base price and tiered prices are present based on whether a particular item benefits from professions, special effects (e.g., [Bear's Knowledge](https://stardewvalleywiki.com/Bear%27s_Knowledge)), both, or neither.
 
-## Daily tabs
+## *Generic Item Table* tab
 
-Daily tabs contain many different data depending on the needs of the day. However, there are several designs that are useful for many days.
+![Item Tables](images/generic-item-table-tab.png)
 
-### Item tables
+The *Generic Item Table* tab presents a table where you can enter the names of items and their qualities along with a quantity. The table keeps a running sum of all the items. You can sort these tables any way you wish.
 
-![Item Tables](images/item-tables.png)
+The spreadsheet automatically looks up an item by its name after you type it in. If the item supports a quality, append `<space>S` for *Silver*, `<space>G` for *Gold*, or `<space>I` for *Iridium* to the item name and the correct quality's sell price will be used.
 
-Item tables appear in various forms on many daily tabs. The spreadsheet will automatically look up an item by its name after you type it in. If the item supports a quality, append `<space>S` for *Silver*, `<space>G` for *Gold*, or `<space>I` for *Iridium* to the item name and the correct quality's sell price will be used.
+Note the hidden *B* and *C* columns. Be sure that when creating new rows you highlight a selection of cells between `A` and `I`, then copy the cells below the existing rows. Avoid using the drag handle as it does not copy hidden cells. The tab has been pre-populated with 50 pre-filled rows for your convenience.
 
-Note the hidden *B* and *C* columns. Be sure that when creating new rows you highlight an existing row and copy the entire row, not just the *A* and *D* columns. These hidden columns are used in the formulas that calculate qualities.
+Many daily tabs contain copies of the generic item table for convenience.
 
-You can sort these tables any way you wish.
+### Determining the most valuable item stacks with which to fill your inventory
 
-#### Determining the most valuable item stacks with which to fill your inventory
-
-Sometimes, the guide requires that you fill your inventory with the most valuable items to ship. To accomplish this, fill out the table, then select the entire *Total G* column, then sort descending.
+The guide often requires that you fill your inventory with the most valuable item stacks to ship. To accomplish this, fill out the table, then select the entire *Total G* column, then sort descending.
 
 ![Sorting Item Tables](images/sorting-item-tables.png)
 
-#### Determining exactly what items must be shipped to reach a daily target G
+### Determining exactly what items must be shipped to reach a daily target G
 
 Sometimes, the guide requires that you ship enough items to reach a certain target G for the following day. The principle is that by keeping G as close to zero as possible, a minimum amount of G will be lost due to the 10% penalty for passing out.
 
@@ -71,22 +69,20 @@ The *Modified Qty* column is the quantity of the item you actually plan on selli
 
 The *Sum G* column keeps a running total of the sum of all items shipped. This data is primarily used in formulas.
 
-When a *Remaining G* value goes negative, it means you will have shipped more than is necessary. Usually, this is unavoidable but careful selection of the items you ship can minimize the extra income.
+The *G in Inventory* cell tracks how much G you have in your inventory at that point.
 
-Note that *Inventory G* columns are not merely numbers but are formulas. It is your responsibility to modify the formula to account for passing out or not.
+The *Passing Out?* choice will apply a passing out penalty of 10% to the G in Inventory if you choose *Yes*. The final amount is represented by the *G at Day's End* cell.
 
-### G in Inventory
+*G Needed* indicates what the target G for the following day is.
 
-Often, you will need to provide the amount of G in your inventory. On days where this number is used to calculate the next day's G total, be sure to account for the 10% penalty for passing out. Use the formula `=1234*0.9`, for example, to indicate you have 1,234g at the end of the current day but plan on passing out.
+*G Remaining* indicates how much more G you need to ship to reach the target. When the value is negative, it means you will have shipped more than is necessary. Usually, this is unavoidable but careful selection of the items you ship can minimize the extra income.
 
-### Search
+## Daily tabs
+
+Daily tabs contain many different configurations depending on the needs of the day.
+
+## Search
 
 ![Search](images/search.png)
 
-Nearly all daily tabs include a search feature. Simply type in an item name and optionally a quality (using the syntax described above) and its prices will be displayed. This helps avoid the need to change tabs to the *Items and Professions* tab.
-
-### Other calculations
-
-There are many one-off calculations for various days. These are defined on an as-needed basis depending on what the guide requires. For example, these calculations help you know exactly how many Ore and Quartz to farm to make a precise number of Quality Sprinklers.
-
-![Other Calculations](images/other-calculations.png)
+Many tabs include a search feature. Simply type in an item name and optionally a quality (using the syntax described above) and its prices will be displayed. This helps avoid the need to change tabs to the *Items and Professions* tab.
