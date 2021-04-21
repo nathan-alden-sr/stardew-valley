@@ -61,6 +61,7 @@ Instructions:
      - [Seaweed](https://stardewvalleywiki.com/Seaweed) (0.65 EPG)
      - [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) (0.52 EPG)
      - Highest-quality [Anchovy](https://stardewvalleywiki.com/Anchovy) or [Herring](https://stardewvalleywiki.com/Herring) (0.55 EPG for Iridium quality to 0.43 EPG for normal quality)
+     - Do not eat fish that provide more Energy than you need. Ending the day with extra Energy is effectively throwing away G.
    - Monitor your inventory using the [spreadsheet](spreadsheet.md).
    - If you feel very confident in your perfect catch ability, use the Bamboo Pole instead of the Training Rod. You can catch better quality fish that way and earn more money for Bait.
 7. As soon as you have 1,800g in inventory and fish value and are Fishing level 2, trash the Training Rod, sell all the fish, and purchase the Fiberglass Rod from Willy. Purchase as much Bait as possible and equip the Bait on the Fiberglass Rod.
