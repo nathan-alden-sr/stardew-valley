@@ -43,7 +43,7 @@
 Tips:
 
 - See the [General Fishing Strategy](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#general-fishing-strategy) section in Zamiell's guide.
-- You need to be skilled in Fishing in order to reach Fishing level 4 by day's end.
+- You need to be skilled in fishing in order to reach Fishing level 4 by day's end.
 - Once your Fishing level is high enough, it becomes no longer necessary to fish with maximum casts. Just be sure the bobber always lands on a tile with [Fishing Zone](https://stardewvalleywiki.com/Fishing#Fishing_Zone) 5.
 
 Instructions:
@@ -63,6 +63,7 @@ Instructions:
      - Highest-quality [Anchovy](https://stardewvalleywiki.com/Anchovy)
      - Highest-quality [Herring](https://stardewvalleywiki.com/Herring)
    - Monitor your inventory using the [spreadsheet](spreadsheet.md).
+   - If you feel very confident in your perfect catch ability, use the Bamboo Pole instead of the Training Rod. You can catch better quality fish that way and earn more money for Bait.
 7. As soon as you have 1,800g in inventory and fish value and are Fishing level 2, trash the Training Rod, sell all the fish, and purchase the Fiberglass Rod from Willy. Purchase as much Bait as possible and equip the Bait on the Fiberglass Rod.
    - It's now more difficult to perfect catch due to only being Fishing level 2, but the Bait's reduction of bobber time combined with catching fish of silver or higher quality more than makes up for it.
    - Now that you have the Fiberglass Rod, Fishing Zone consideration applies.
