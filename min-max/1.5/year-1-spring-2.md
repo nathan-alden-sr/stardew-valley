@@ -57,7 +57,7 @@ Instructions:
    - The Training Rod allows for easier perfect catches. Perfect catches increase [Experience](https://stardewvalleywiki.com/Skills) gained from fishing, which is more important than the income acquired from higher-quality fish.
 6. Exit the Fish Shop, then fish below Willy's door using minimum casts.
    - Since fish quality doesn't matter with the Training Rod, there is no reason to waste time traveling to the eastern end of the pier.
-   - When running low on Energy during fishing, eat items in this order (the higher the Energy per Gold ratio, or EPG, the better):
+   - When running low on Energy during fishing, eat items in this order (the higher the Energy per G ratio, or EPG, the better):
 
       | Item | Quality | EPG |
       | ---- | ------- | --- |
