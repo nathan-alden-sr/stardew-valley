@@ -1,6 +1,6 @@
 # Spreadsheet
 
-A min-max run requires precise calculations, including selling items to earn an exact amount of G, mining and smelting Ore in exact amounts, etc. Over the course of several Year 1 Spring 1 runs, I created a [spreadsheet](min-max.ods) in [LibreOffice Calc](https://www.libreoffice.org/download/download) to track daily information, bundle fulfillment, items and professions, and more.
+A min-max run requires precise calculations, including selling items to earn an exact amount of G, mining and smelting Ore in exact amounts, etc. Over the course of many runs, I created a [spreadsheet](min-max.ods) in [LibreOffice Calc](https://www.libreoffice.org/download/download) to track daily information, bundle fulfillment, items and professions, and more.
 
 Note that the spreadsheet's daily tabs are not completed yet. I will update them as I complete runs. The tabs that are present likely contain data from my actual runs until I complete enough of them to be sure of the spreadsheet's robustness.
 
