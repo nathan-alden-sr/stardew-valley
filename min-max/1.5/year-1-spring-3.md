@@ -42,7 +42,7 @@
      - To break a Chest without a tool, select an empty slot in your inventory and hold down the left mouse button on the Chest. Your character will strike it repeatedly until it pops free.
 3. If you received a Copper Ore from a fishing chest on Spring 2, purchase as much Bait as possible; otherwise, save 75g so you can purchase a Copper Ore from Clint later.
    - You should be able to purchase at least 400 Bait, and usually you can expect to receive more from fishing chests. The Bait should last all Spring.
-   - You may choose to purchase one or two [Trout Soups](https://stardewvalleywiki.com/Trout_Soup). They will raise your Fishing level when eaten, but they have a lower EPG (0.4) than Iridium-quality [Chub](https://stardewvalleywiki.com/Chub) (0.65 EPG).
+   - You may choose to purchase one or two [Trout Soups](https://stardewvalleywiki.com/Trout_Soup) to assist with catching Catfish. They will raise your Fishing level when eaten, but they have a lower EPG (0.4) than Iridium-quality [Chub](https://stardewvalleywiki.com/Chub) (0.65 EPG).
    - Waiting to sell the fish until you have acquired the [Fisher](https://stardewvalleywiki.com/Fishing#Fishing_Skill) profession is not optimal.
 4. If you saved 75g to purchase Copper Ore from Clint, go purchase it now. This ensures Clint appears at The Farm tomorrow and gives you plans to craft [Furnaces](https://stardewvalleywiki.com/Furnace).
    - You do not have to drop the Copper Ore on the ground or otherwise do anything special with it.
