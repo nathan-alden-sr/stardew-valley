@@ -57,11 +57,10 @@ Instructions:
    - The Training Rod allows for easier perfect catches. Perfect catches increase [Experience](https://stardewvalleywiki.com/Skills) gained from fishing, which is more important than the income acquired from higher-quality fish.
 6. Exit the Fish Shop, then fish below Willy's door using minimum casts.
    - Since fish quality doesn't matter with the Training Rod, there is no reason to waste time traveling to the eastern end of the pier.
-   - When running low on Energy during fishing, eat items in this order:
-     - [Seaweed](https://stardewvalleywiki.com/Seaweed)
-     - [Joja Cola](https://stardewvalleywiki.com/Joja_Cola)
-     - Highest-quality [Anchovy](https://stardewvalleywiki.com/Anchovy)
-     - Highest-quality [Herring](https://stardewvalleywiki.com/Herring)
+   - When running low on Energy during fishing, eat items in this order (the higher the Energy per Gold ratio, or EPG, the better):
+     - [Seaweed](https://stardewvalleywiki.com/Seaweed) (0.65 EPG)
+     - [Joja Cola](https://stardewvalleywiki.com/Joja_Cola) (0.52 EPG)
+     - Highest-quality [Anchovy](https://stardewvalleywiki.com/Anchovy) or [Herring](https://stardewvalleywiki.com/Herring) (0.55 EPG for Iridium quality to 0.43 EPG for normal quality)
    - Monitor your inventory using the [spreadsheet](spreadsheet.md).
    - If you feel very confident in your perfect catch ability, use the Bamboo Pole instead of the Training Rod. You can catch better quality fish that way and earn more money for Bait.
 7. As soon as you have 1,800g in inventory and fish value and are Fishing level 2, trash the Training Rod, sell all the fish, and purchase the Fiberglass Rod from Willy. Purchase as much Bait as possible and equip the Bait on the Fiberglass Rod.
