@@ -16,7 +16,7 @@
 - You need to reach Mining level 10 and choose the [Blacksmith profession](https://stardewvalleywiki.com/Mining#Mining_Skill) by no later than day's end of Spring 23. This will ensure you make maximum profit selling [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar) on Spring 24.
 - Use the spreadsheet's *Y1-Sp Starfruit First Batch* and *Y1-Sp Starfruit Second Batch* tabs to track all necessary items for those activities.
 - Coal in particular is a bottleneck for this part of the run. Avoid smelting Bars or crafting [Bombs](https://stardewvalleywiki.com/Bomb) or [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo) unnecessarily.
-- You need to begin preparing The Farm for Summer. The timing of when to do this depends on your preferences, how efficient you are, and when the second Kale crop matures. The earliest the crop can mature is Spring 26, which leaves slightly less than three days to prepare The Farm. It is recommended that you wait until the end of Spring because you need to use the time before Spring 24 to earn as much income as possible for your first Starfruit Seeds purchase on Spring 25. See the [Starfruit crop planner](https://stardew.info/planner/29-great-horses-played-cordially) for a suggested plan. Acorn locations are depicted by a stump.
+- You need to begin preparing The Farm for Summer. The timing of when to do this depends on your preferences, how efficient you are, and when the second Kale crop matures. The earliest the crop can mature is Spring 26, which leaves slightly less than three days to prepare The Farm. It is recommended that you wait until the end of Spring because you need to use the time before Spring 24 to earn as much income as possible for your first Starfruit Seeds purchase on Spring 25. See the [Starfruit crop planner](https://stardew.info/planner/25-thick-hawks-felt-cordially) for a suggested plan. Acorn locations are depicted by a stump.
 
   Farm activities you need to perform:
   - Clearing Weeds, Grass, Stones, and branches where your Quality Sprinklers, Starfruit Seeds, and Scarecrows will go
@@ -26,7 +26,7 @@
   - Plating Acorns to build up a large supply of Oak Trees
   - Farming Ore and Coal on floors 21, 41, and 81
   - Felling Trees to acquire Wood to craft more Chests
-- Quality Sprinklers require one Iron Bar, one Gold Bar, and one [Refined Quartz](https://stardewvalleywiki.com/Refined_Quartz) to craft. Smelt Bars and Refined Quartz evenly such that the total number of each you acquire is the same for all three types. This also helps inform you of what types of Resources you need to farm. Use the *Y1-Sp Quality Sprinklers* tab in the spreadsheet to track Ore, Quartz, and Coal requirements.
+- Quality Sprinklers require one Iron Bar, one Gold Bar, and one [Refined Quartz](https://stardewvalleywiki.com/Refined_Quartz) to craft. Smelt Bars and Refined Quartz evenly such that the total number of each you acquire is the same for all three types. This also helps inform you of what types of Resources you need to farm.
 
 | Yesterday                                   | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
