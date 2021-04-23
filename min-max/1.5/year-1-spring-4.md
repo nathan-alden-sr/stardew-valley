@@ -22,7 +22,7 @@
 ### The Farm (1)
 
 1. From now on, check the Television at the start of every day to reveal tomorrow's [Weather](https://stardewvalleywiki.com/Weather).
-2. Clint should appear and give you the plans for crafting Furnaces.
+2. If he didn't appear yesterday, Clint will appear and give you the plans for crafting Furnaces.
 3. Deposit your entire inventory into the Chest. Withdraw the Watering Can.
 4. Water crops.
 5. If you do not have 150 Wood, withdraw the Axe and Scythe from the Chest and fell Trees in the same manner as before until you have 150 Wood. You can fell Oak Trees now that they will drop Acorns.
