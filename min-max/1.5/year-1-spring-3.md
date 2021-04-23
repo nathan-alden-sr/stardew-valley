@@ -55,6 +55,7 @@
 3. Fish until 1:50 am.
 4. Deposit your entire inventory into the Chest. Withdraw the following:
    - Fiberglass Rod
+   - Hoe
    - All [Ore](https://stardewvalleywiki.com/Ore)
    - All Coal
    - All [Gems](https://stardewvalleywiki.com/Minerals#Gems)
