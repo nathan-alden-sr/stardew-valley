@@ -22,7 +22,7 @@
 
 1. Deposit your entire inventory into chests. Withdraw the following:
    - Enough items to ship to reach the G target calculated by the spreadsheet
-     - You will need 10,000g for the Gold Pickaxe upgrade and 2,000g for the [Backpack](https://stardewvalleywiki.com/Tools#Other_Tools) upgrade.
+     - You will need 10,000g for the Gold Pickaxe upgrade and 2,000g for the Backpack upgrade.
      - If you can't reach the G target right now, you will have to return to The Farm tonight to ship the remainder.
    - Watering Can
 2. Ship items.
