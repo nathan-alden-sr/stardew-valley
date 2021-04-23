@@ -83,7 +83,7 @@ Instructions:
    - It's now more difficult to perfect catch due to only being Fishing level 2, but the Bait's reduction of bobber time combined with catching fish of silver or higher quality more than makes up for it.
    - Now that you have the Fiberglass Rod, Fishing Zone consideration applies.
 8. Fish from the east-most tile of the pier using maximum casts to start.
-   - If you do not have at least 35 Bait on the rod at 4:30 pm, purchase more Bait from Willy. This ensures you have enough Bait for the rest of the day and for tomorrow morning.
+   - If you do not have at least 35 Bait on the rod at 4:30 pm, sell enough fish and purchase more Bait to total 35. This ensures you have enough Bait for the rest of the day and for tomorrow morning.
 9. Fish until 1:50 am.
 10. Deposit all of your fish into the Chest so you can sell them to Willy tomorrow. Keep other items in your inventory.
 11. Pass out.
