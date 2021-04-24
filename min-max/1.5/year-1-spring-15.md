@@ -28,7 +28,8 @@
 2. Water crops that were not watered by Sprinklers.
 3. Harvest Cauliflower and [Green Beans](https://stardewvalleywiki.com/Green_Bean).
 4. Craft and place any remaining Sprinklers.
-5. Deposit your entire inventory into a Chest. Withdraw the following:
+5. If you are completing the Vault Bundles today and want to start Skull Cavern runs tomorrow, ship enough items to reach 500g for a Bus ticket.
+6. Deposit your entire inventory into a Chest. Withdraw the following:
    - Four Spring Foraging Bundle items:
      - One Wild Horseradish
      - One Daffodil
@@ -53,7 +54,7 @@
      - 10 Bat Wings
      - One Solar Essence
      - One Void Essence
-6. Travel to the Community Center.
+7. Travel to the Community Center.
 
 ### Pelican Town
 
