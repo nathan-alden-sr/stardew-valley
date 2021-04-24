@@ -73,6 +73,7 @@
    - All Iron Ore
    - All Gold Ore
    - All Coal
+   - All Stone
    - Source of Energy, usually Common Mushrooms or Chubs
    - Your best [Weapon](https://stardewvalleywiki.com/Weapons) if you fished one up
 3. Travel to The Mines.
