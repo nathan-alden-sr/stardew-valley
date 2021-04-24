@@ -33,7 +33,6 @@
    - Remember you need one extra Copper Bar and Iron Bar, and one Gold Bar for the Blacksmith's Bundle.
 3. Mine until 12:00 am.
    - Prioritize Iron Ore and Gold Ore once you have the required Copper Bars. Copper Ore is now only useful for tool upgrade and crafting more Furnaces later.
-   - You may want to stop mining a bit earlier if you need to spend time breaking Cobblestone Paths before placing Sprinklers.
 4. Deposit your entire inventory into the Chest. Withdraw the following:
    - All Copper Bars
    - All Iron Bars
@@ -55,12 +54,11 @@
 ### The Farm (2)
 
 1. Deposit one Copper Bar, one Iron Bar, and one Gold Bar into a Chest for the Blacksmith's Bundle tomorrow.
-2. Remove any Cobblestone Floors from Sprinkler tiles.
-3. Craft and place as many Sprinklers as possible with your remaining bars. Any missing Sprinklers can be crafted and placed on subsequent days.
-4. If you have 42,500g worth of items, ship them now to reach that target; otherwise, ship 32,500g worth of items.
+2. Craft and place as many Sprinklers as possible with your remaining bars. Any missing Sprinklers can be crafted and placed on subsequent days.
+3. If you have 42,500g worth of items, ship them now to reach that target; otherwise, ship 32,500g worth of items.
    - If you are only able to ship 32,500g worth of items, do not complete the [10,000g Bundle](https://stardewvalleywiki.com/Bundles#Vault) tomorrow. You will likely need to allocate a day between Spring 15 and Spring 17 to fish for the required 10,000g. Try and wait for a rainy day.
-5. If time allows, cut Weeds and Grass.
-6. Pass out.
+4. If time allows, cut Weeds and Grass.
+5. Pass out.
 
 ### Day's end
 
