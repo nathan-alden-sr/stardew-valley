@@ -31,6 +31,7 @@ Instructions:
    - One Coal
    - 20 Fiber
    - Watering Can
+   - Axe
 2. Water crops.
 3. Craft a Scarecrow and place it on the spot indicated on the crop planner.
 4. Fell Trees until 7:40 am.
