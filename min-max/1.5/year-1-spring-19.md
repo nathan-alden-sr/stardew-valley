@@ -9,7 +9,7 @@
 
 ## Instructions
 
-1. At 9:00 am, travel to the Blacksmith and upgrade the Axe to the Copper Axe for 2,000g.
+1. At 9:00 am, withdraw five Copper Bars from Chests. Travel to the Blacksmith and upgrade the Axe to the Copper Axe for 2,000g.
 2. Travel to Pierre's General Store and purchase the remaining Kale Seeds.
 
 | Yesterday                                   | Today                 | Tomorrow                                    |
