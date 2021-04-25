@@ -136,7 +136,7 @@ Instructions:
 
 ### The Bus Stop (1)
 
-1. Travel west. Just before you transition to The Farm, turn your character east, stand near the south side of the path, and drop all forageables on the ground. It may take several attempts to drop them as the game seems to choose random distances when throwing items.
+1. Travel west. Just before you transition to [The Farm](https://stardewvalleywiki.com/The_Farm), turn your character east, stand near the south side of the path, and drop all forageables on the ground. It may take several attempts to drop them as the game seems to choose random distances when throwing items.
 2. Travel west to The Farm.
 
 ### The Farm (2)

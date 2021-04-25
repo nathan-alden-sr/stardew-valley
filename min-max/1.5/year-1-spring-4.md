@@ -15,7 +15,7 @@
 
 - Any time the weather is about to change from dry to raining or vice versa, read the next day's guide page to determine how you will change your plans to accommodate. For example, let's say today is dry and tomorrow is raining. You know you will be fishing in Cindersap Forest tomorrow, but what if tomorrow's guide page expects you to smelt Ore in a Furnace you placed on The Mountain? You'll have to remember to take the Furnace, Coal, Ore, and Bars with you at day's end so you can continue smelting in Cindersap Forest. Then, once a subsequent day turns dry, you'll have to remember to take the Furnace, Coal, and Ore with you at rainy day's end so you can take them to The Mountain the next day. Because the days on which it will rain are unpredictable, forgetting these things will often end your run.
 - For the sake of avoiding combinatorial explosion, the guide will assume it never rains (unless the day is a forced rainy day). It's up to you to remember to adjust certain decisions to account for changes in weather. The most common change is to take the Fiberglass Rod with you before passing out instead of leaving it in a Chest.
-- Traveling to the mailbox via the Backwoods and vice versa is nearly 20 minutes faster than via Pelican Town. Likewise, traveling to the mailbox from The Mines and vice versa via the Backwoods is faster.
+- There are two ways you can travel to [The Mountain](https://stardewvalleywiki.com/The_Mountain) or [The Mines](https://stardewvalleywiki.com/The_Mines) from The Farm: through the Backwoods or through Pelican Town. It is nearly 20 in-game minutes faster to travel via the Backwoods.
 
 ## Instructions
 
