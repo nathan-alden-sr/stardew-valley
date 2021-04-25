@@ -14,6 +14,7 @@
 ## Advice and warnings
 
 - This is the last day you can craft the remaining required Sprinklers. Any later than today and the second Kale crop will not mature in time.
+- If you have completed all Bundle and Sprinkler requirements, you may begin Skull Cavern runs. See [Year 1, Spring 17](year-1-spring-17.md) for advice and warnings.
 
 ## Instructions
 
