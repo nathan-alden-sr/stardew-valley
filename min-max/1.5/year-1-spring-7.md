@@ -15,7 +15,7 @@
 
 ## Advice and warnings
 
-- If you have yet to donate an Artifact to the Museum, and if you've acquired one, today is a good day to so as you will be visiting Clint.
+- If you have yet to donate an Artifact to the Museum, and if you've acquired one, today is a good day to do so as you will be visiting Clint.
 
 ## Instructions
 
