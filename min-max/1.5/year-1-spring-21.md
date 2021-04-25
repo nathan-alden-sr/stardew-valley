@@ -11,7 +11,7 @@
 
 1. Check the Television and learn the [Radish Salad](https://stardewvalleywiki.com/Radish_Salad) recipe from The Queen of Sauce.
 2. Harvest the Kale and plant the second crop.
-3. At 9:00 am, travel to the Blacksmith and upgrade the Copper Axe to the Steel Axe for 5,000g.
+3. At 9:00 am, withdraw five Iron Bars from Chests. Travel to the Blacksmith and upgrade the Copper Axe to the Steel Axe for 5,000g.
 
 | Yesterday                                   | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
