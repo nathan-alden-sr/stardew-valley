@@ -19,6 +19,7 @@ Refer to the following guides for general strategies that are not day-specific:
 - [Rules](rules.md)
 - [Save files](save-files.md)
 - [Your character](your-character.md)
+- [The Farm](the-farm.md)
 - [Food and drink](food-and-drink.md)
 - [Pets](pets.md)
 - [Day's end](days-end.md)
