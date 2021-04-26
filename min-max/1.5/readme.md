@@ -6,7 +6,7 @@ This guide is inspired by [Zamiell's guide](https://github.com/Zamiell/stardew-v
 
 ## Spreadsheet
 
-I created a [spreadsheet](spreadsheet.md) in [LibreOffice Calc](https://www.libreoffice.org/download/download) that I use to easily calculate many things--everything from how much of what I need to sell to reach target G amounts, how many Ore I need to find to craft enough Bars, etc. The spreadsheet has good automation of searching for items.
+I created a [spreadsheet](spreadsheet.md) in [LibreOffice Calc](https://www.libreoffice.org/download/download) that I use to easily calculate many things--everything from what I need to ship to reach target G amounts, how many Ore I need to find to craft enough Bars, etc. The spreadsheet automates item information in several places.
 
 ## Farm planning
 
