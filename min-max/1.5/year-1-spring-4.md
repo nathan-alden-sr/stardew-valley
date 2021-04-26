@@ -13,26 +13,23 @@
 
 ## Advice and warnings
 
-- Any time the weather is about to change from dry to raining or vice versa, read the next day's guide page to determine how you will change your plans to accommodate. For example, let's say today is dry and tomorrow is raining. You know you will be fishing in Cindersap Forest tomorrow, but what if tomorrow's guide page expects you to smelt Ore in a Furnace you placed on The Mountain? You'll have to remember to take the Furnace, Coal, Ore, and Bars with you at day's end so you can continue smelting in Cindersap Forest. Then, once a subsequent day turns dry, you'll have to remember to take the Furnace, Coal, and Ore with you at rainy day's end so you can take them to The Mountain the next day. Because the days on which it will rain are unpredictable, forgetting these things will often end your run.
-- For the sake of avoiding combinatorial explosion, the guide will assume it never rains (unless the day is a forced rainy day). It's up to you to remember to adjust certain decisions to account for changes in weather. The most common change is to take the Fiberglass Rod with you before passing out instead of leaving it in a Chest.
 - There are two ways you can travel to [The Mountain](https://stardewvalleywiki.com/The_Mountain) or [The Mines](https://stardewvalleywiki.com/The_Mines) from The Farm: through the Backwoods or through Pelican Town. It is nearly 20 in-game minutes faster to travel via the Backwoods.
 
 ## Instructions
 
 ### The Farm (1)
 
-1. From now on, check the Television at the start of every day to reveal tomorrow's [Weather](https://stardewvalleywiki.com/Weather).
-2. If he didn't appear yesterday, Clint will appear and give you the plans for crafting Furnaces.
-3. Deposit your entire inventory into the Chest. Withdraw the Watering Can.
-4. Water crops.
-5. If you do not have 150 Wood, withdraw the Axe and Scythe from the Chest and fell Trees in the same manner as before until you have 150 Wood. You can fell Oak Trees now that they will drop Acorns.
+1. If he didn't appear yesterday, Clint will appear and give you the plans for crafting Furnaces.
+2. Deposit your entire inventory into the Chest. Withdraw the Watering Can.
+3. Water crops.
+4. If you do not have 150 Wood, withdraw the Axe and Scythe from the Chest and fell Trees in the same manner as before until you have 150 Wood. You can fell Oak Trees now that they will drop Acorns.
    - The 150 Wood is for two more Chests and a [Scarecrow](https://stardewvalleywiki.com/Scarecrow).
-6. Craft a Chest and keep it in your inventory.
-7. Deposit your entire inventory into The Farm Chest. Withdraw the following:
+5. Craft a Chest and keep it in your inventory.
+6. Deposit your entire inventory into The Farm Chest. Withdraw the following:
    - Fiberglass Rod
    - The newly-crafted Chest
-   - Chubs for eating if you took them with you yesterday
-8. Travel to The Mountain.
+   - Chub for eating if you took them with you yesterday
+7. Travel to The Mountain.
 
 ### The Mountain
 
@@ -49,7 +46,7 @@
 ### The Farm (2)
 
 1. Ship all sellable items except for the following:
-   - All Chubs (you'll be eating them for Energy)
+   - All Chub (you'll be eating them for Energy)
    - One of each fish that is used in Community Center Bundles
    - All Ore
    - All Coal

@@ -2,9 +2,7 @@
 
 ## Introduction
 
-This guide is based on [Zamiell's guide](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md), which itself is based on several other sources. However, I was not happy with how the guide is laid out, the presentation of each day's tasks, and the overall thoroughness. After running Year 1 Spring over and over again, making many mistakes, and taking voluminous notes, I decided to write my own daily guide. My hope is that you will avoid many of the mistakes I made and thus have a more enjoyable experience.
-
-You may refer to the general strategies in Zamiell's guide as I do not cover those here.
+This guide is inspired by [Zamiell's guide](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md), which itself is inspired by several other sources. However, I was not happy with how the guide is laid out, the presentation of each day's tasks, and the overall thoroughness. After running Year 1 Spring over and over again, making many mistakes, and taking voluminous notes, I decided to write my own daily guide. My hope is that you will avoid many of the mistakes I made and thus have a more enjoyable experience.
 
 ## Spreadsheet
 
@@ -13,6 +11,29 @@ I created a [spreadsheet](spreadsheet.md) in [LibreOffice Calc](https://www.libr
 ## Farm planning
 
 The guide occasionally includes links to specific farm plans generated in the amazing [Stardew Planner](https://stardew.info/planner) tool. These plans are invaluable for quickly knowing where exactly to hoe or place that Scarecrow.
+
+## General strategies
+
+Refer to the following guides for general strategies that are not day-specific:
+
+- [Rules](rules.md)
+- [Save files](save-files.md)
+- [Your character](your-character.md)
+- [Food and drink](food-and-drink.md)
+- [Pets](pets.md)
+- [Day's end](days-end.md)
+- [Weather](weather.md)
+- [Weapons](weapons.md)
+- [Fishing](fishing.md)
+- [Mining](mining.md)
+
+## Run overview
+
+1. Fish for maximum G income early
+2. Upgrade the [Pickaxe](https://stardewvalleywiki.com/Pickaxes) to the Gold Pickaxe as soon as possible
+3. Unlock [Skull Cavern](https://stardewvalleywiki.com/Skull_Cavern) as soon as possible
+4. Once Skull Cavern is unlocked, smelt and sell [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar) for maximum G income
+5. During Year 1, Summer, harvest three crops of [Starfruit](https://stardewvalleywiki.com/Starfruit) grown with [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) and watered with [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler)
 
 ## Daily guide
 

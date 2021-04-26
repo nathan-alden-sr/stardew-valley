@@ -45,7 +45,7 @@
 2. Water the Bean Starter and Mixed Seed crops.
 3. Harvest the Kale.
    - You should reach Farming level 2.
-4. Start tilling Kale Seed planting spots in an interlocked Sprinkler pattern. Check the spreadsheet to see how many Sprinklers are necessary for the number of Kale Seeds you need to plant. See the [second Kale crop planner](https://stardew.info/planner/32-low-gerbils-kissed-easily) for a suggested plan. Mixed Seeds are depicted by a generic crop icon.
+4. Start tilling Kale Seed planting spots in an interlocked Sprinkler pattern. Check the spreadsheet to see how many Sprinklers are necessary for the number of Kale Seeds you need to plant. See the [second Kale crop planner](https://stardew.info/planner/18-dark-horses-hopped-merrily) for a suggested plan. Mixed Seeds are depicted by a generic crop icon.
 5. Stop work at 8:00 am.
 6. If you need to sell fish then travel to the Fish Shop; otherwise, travel to the Blacksmith and skip to the [Pelican Town](#pelican-town) section below.
 
@@ -74,7 +74,7 @@
    - All Gold Ore
    - All Coal
    - All Stone
-   - Source of Energy, usually Common Mushrooms or Chubs
+   - Source of Energy, usually Common Mushrooms or Chub
    - Your best [Weapon](https://stardewvalleywiki.com/Weapons) if you fished one up
 3. Travel to The Mines.
 

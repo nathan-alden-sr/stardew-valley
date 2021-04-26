@@ -16,16 +16,17 @@
 ## Advice and warnings
 
 - At least one [Cauliflower Seed](https://stardewvalleywiki.com/Cauliflower_Seeds) must be planted by this day, watered every single day, and not eaten by [Crows](https://stardewvalleywiki.com/Animals#Crows) in order to successfully complete the [Spring Crops Bundle](https://stardewvalleywiki.com/Cauliflower_Seeds) on Spring 15. Usually, you will plant enough Mixed Seeds on Spring 1 to randomly give at least one [Cauliflower](https://stardewvalleywiki.com/Cauliflower), but it is possible for your run to end here.
-- It always [rains](https://stardewvalleywiki.com/Weather) on Spring 3. When raining, the river in Cindersap Forest is the best place to fish due to the presence of Catfish, which yield a lot of experience and G.
+- It always [rains](https://stardewvalleywiki.com/Weather) on Spring 3. When raining, the river in Cindersap Forest is the best place to fish due to the presence of Catfish, which yield a lot of Experience and G.
 
 ## Instructions
 
 ### The Farm
 
-1. Deposit your entire inventory into the Chest. Withdraw the Fiberglass Rod.
-2. If you have at least 80 Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) from a fishing chest on Spring 2, craft a Chest and keep it in your inventory, then skip to the [Cindersap Forest (1)](#cindersap-forest-1) section below. Remember to divert from the guide and purchase more Bait from Willy tomorrow before going to The Mountain lake.
-3. Withdraw the Hoe from the Chest.
-4. Travel to Cindersap Forest.
+1. From now on, check the Television at the start of every day to reveal tomorrow's [Weather](https://stardewvalleywiki.com/Weather).
+2. Deposit your entire inventory into the Chest. Withdraw the Fiberglass Rod.
+3. If you have at least 80 Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) from a fishing chest on Spring 2, craft a Chest and keep it in your inventory, then skip to the [Cindersap Forest (1)](#cindersap-forest-1) section below. Remember to divert from the guide and purchase more Bait from Willy tomorrow before going to The Mountain lake.
+4. Withdraw the Hoe from the Chest.
+5. Travel to Cindersap Forest.
 
 ### Cindersap Forest (1)
 
@@ -60,7 +61,7 @@
    - All Coal
    - All [Gems](https://stardewvalleywiki.com/Minerals#Gems)
    - The most profitable item stacks as calculated by the spreadsheet
-     - Consider taking Chubs with you if you are concerned about needing Energy for Spring 4. You need to potentially fell several Trees tomorrow so your Energy may be low before fishing.
+     - Consider taking Chub with you if you are concerned about needing Energy for Spring 4. You need to potentially fell several Trees tomorrow so your Energy may be low before fishing.
 5. Pass out.
 
 ## Day's end
