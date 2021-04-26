@@ -17,6 +17,7 @@
 - You need to reach Mining level 10 and choose the [Blacksmith profession](https://stardewvalleywiki.com/Mining#Mining_Skill) by no later than day's end of Spring 23. This will ensure you make maximum profit selling [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar) on Spring 24.
 - Use the spreadsheet's *Y1-Sp Starfruit First Batch* and *Y1-Sp Starfruit Second Batch* tabs to track all necessary items for those activities.
 - Coal in particular is a bottleneck for this part of the run. Avoid smelting Bars or crafting [Bombs](https://stardewvalleywiki.com/Bomb) or [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo) unnecessarily.
+- Prioritize smelting Iridium Bars over other Resources needed for Quality Sprinklers; the Iridium Bars are needed earlier than the Quality Sprinklers.
 - You need to begin preparing The Farm for Summer. The timing of when to do this depends on your preferences, how efficient you are, and when the second Kale crop matures. The earliest the crop can mature is Spring 26, which leaves slightly less than three days to prepare The Farm. It is recommended that you wait until the end of Spring because you need to use the time before Spring 24 to earn as much income as possible for your first Starfruit Seeds purchase on Spring 25. See the [Starfruit crop planner](https://stardew.info/planner/25-thick-hawks-felt-cordially) for a suggested plan. Acorn locations are depicted by a stump.
 
   Farm activities you need to perform:
