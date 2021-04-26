@@ -2,11 +2,9 @@
 
 ## Passing out and Exhaustion
 
-See the wiki's [Exhaustion](https://stardewvalleywiki.com/Energy) page for detailed information.
-
 ### Energy restoration
 
-Passing out and/or Exhaustion penalize you with a 50% reduction in that night's Energy restoration. This penalty can be avoided by leveling up [Skills](https://stardewvalleywiki.com/Skills) that same night. The guide uses leveling up strategically to allow you to pass out for maximum productivity.
+Passing out and/or [Exhaustion](https://stardewvalleywiki.com/Energy) penalize you with a 50% reduction in that night's Energy restoration. This penalty can be avoided by leveling up [Skills](https://stardewvalleywiki.com/Skills) that same night. The guide uses leveling up strategically to allow you to pass out for maximum productivity.
 
 ### G total
 
