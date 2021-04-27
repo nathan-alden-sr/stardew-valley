@@ -75,11 +75,11 @@ Instructions:
 3. Begin descending into The Mines with the goal of reaching floor 10 as quickly as possible. See the [General Mines Strategy](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#general-mines-strategy) section in Zamiell's guide.
    - Pay extra attention to acquiring the required 16 Coal.
    - Eat Parsnips for Energy.
-4. As soon as you acquire 25 Copper Ore and 25 Stone, return to the top floor via the ladder or elevator, craft and place a Furnace near the elevator, and begin smelting a Copper Bar.
+4. As soon as you acquire 25 Copper Ore and 25 Stone, return to the floor 0 via the ladder or elevator, craft and place a Furnace near the elevator, and begin smelting a Copper Bar.
    - The time at this point should be anywhere from 10:00 am to 12:30 pm. Any later than 12:30 pm and it can become very difficult to acquire enough Resources to make it to the Blacksmith on time.
    - You can deposit Stone into the Chest now since you no longer need to track the quantity.
 5. Resume your descent.
-   - If your ladder luck is poor, you may need to return to the top floor before reaching the next elevator to begin smelting another Copper Bar.
+   - If your ladder luck is poor, you may need to return to the floor 0 before reaching the next elevator to begin smelting another Copper Bar.
 6. Once you reach floor 10, stop your descent and farm floor 10 repeatedly until you have enough Copper Ore to smelt continuously. You must have four or five Copper Bars smelted before 3:00 pm.
    - If you've only crafted four Copper Bars by 3:00 pm, you can place the Furnace inside the Blacksmith's shop and craft the last Copper Bar there. However, this may not leave you enough time to make it to Pierre's General Store.
 7. Continue following instructions only after you've acquired five Copper Bars or 3:00 pm arrives (whichever comes first).

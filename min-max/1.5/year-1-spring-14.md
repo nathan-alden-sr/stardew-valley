@@ -56,6 +56,7 @@
 1. Deposit one Copper Bar, one Iron Bar, and one Gold Bar into a Chest for the Blacksmith's Bundle tomorrow.
 2. Craft and place as many Sprinklers as possible with your remaining bars. Any missing Sprinklers can be crafted and placed on subsequent days.
 3. If you have 42,500g worth of items, ship them now to reach that target; otherwise, ship 32,500g worth of items.
+   - If you are able to ship 42,500g worth of items and are planning on traveling to Skull Cavern tomorrow, ship an extra 500g worth of items to afford a Bus ticket tomorrow.
    - If you are only able to ship 32,500g worth of items, do not complete the [10,000g Bundle](https://stardewvalleywiki.com/Bundles#Vault) tomorrow. You will likely need to allocate a day between Spring 15 and Spring 17 to fish for the required 10,000g. Try and wait for a rainy day.
 4. If time allows, cut Weeds and Grass.
 5. Pass out.

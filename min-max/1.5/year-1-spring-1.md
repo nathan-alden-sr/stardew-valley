@@ -52,7 +52,7 @@
    - [Axe](https://stardewvalleywiki.com/Axe)
    - [Pickaxe](https://stardewvalleywiki.com/Pickaxe)
    - [Hoe](https://stardewvalleywiki.com/Hoe)
-9. Travel south to [Cindersap Forest](https://stardewvalleywiki.com/Cindersap_Forest). You will likely have to use the Scythe to cut through [Weeds](https://stardewvalleywiki.com/Weeds) and use the Pickaxe to break a Stone or two to get through. Try to time the transition for 9:20 am.
+9. Travel south to [Cindersap Forest](https://stardewvalleywiki.com/Cindersap_Forest). You will likely have to use the Scythe to cut through [Weeds](https://stardewvalleywiki.com/Weeds) and use the Pickaxe to break a rock or two to get through. Try to time the transition for 9:20 am.
    - If you felled Trees quickly enough, you may have some extra time to use the Scythe to cut Weeds to get extra [Fiber](https://stardewvalleywiki.com/Fiber) and Mixed Seeds.
 
 ### Cindersap Forest
@@ -113,7 +113,7 @@ Instructions:
 7. Speak to [Pam](https://stardewvalleywiki.com/Pam), then [Sam](https://stardewvalleywiki.com/Sam), then [Shane](https://stardewvalleywiki.com/Shane).
 8. Exit JojaMart, travel west, then north, then east around the back of JojaMart.
 9. Clear the fenced area of Weeds.
-   - The tile blocking the fenced area will randomly be a Weed, a Stone, or a branch, so have the correct tool selected before you get to the tile.
+   - The tile blocking the fenced area will randomly be a Weed, a rock, or a branch, so have the correct tool selected before you get to the tile.
 10. Travel west and speak to [Abigail](https://stardewvalleywiki.com/Abigail) on the bridge.
 11. Travel north and speak to [Maru](https://stardewvalleywiki.com/Maru) as she travels south.
 12. Travel southwest toward Lewis' house.
@@ -160,7 +160,7 @@ Instructions:
 
 1. Go south, then west behind the [Community Center](https://stardewvalleywiki.com/Community_Center).
 2. Clear the fenced area of Weeds.
-   - The tile blocking the fenced area will randomly be a Weed, a Stone, or a branch, so have the correct tool selected before you get to the tile.
+   - The tile blocking the fenced area will randomly be a Weed, a rock, or a branch, so have the correct tool selected before you get to the tile.
 3. Travel west past the fountain and cut Weeds near the edge of the screen.
 4. Travel south, then west to the Bus Stop.
 
@@ -184,7 +184,7 @@ Instructions:
    - See the [Parsnips crop planner](https://stardew.info/planner/34-light-hawks-floundered-cordially) for a suggested plan. Mixed Seeds are depicted by a generic crop icon.
 4. Plant and water Parsnip Seeds and Mixed Seeds.
 5. Fell Trees until you have around four to six [Energy](https://stardewvalleywiki.com/Energy). The remaining Energy will be useful if you gather more Mixed Seeds shortly.
-   - If you don't have enough Energy to fully fell a Tree, spend the Energy mining Stone or chopping a stump.
+   - If you don't have enough Energy to fully fell a Tree, spend the Energy mining rocks or chopping a stump.
 6. Cut Weeds and [Grass](https://stardewvalleywiki.com/Grass) until around 1:30 am. Don't stray too far from the Farmhouse.
 7. Ship all items except for the following:
    - All [Wood](https://stardewvalleywiki.com/Wood)
