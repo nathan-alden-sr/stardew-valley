@@ -42,7 +42,7 @@
 
 Tips:
 
-- See the [General Fishing Strategy](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md#general-fishing-strategy) section in Zamiell's guide.
+- See the [fishing guide](fishing.md).
 - You need to be skilled in fishing in order to reach Fishing level 4 by day's end.
 - Once your Fishing level is high enough, it becomes no longer necessary to fish with maximum casts. Just be sure the bobber always lands on a tile with [Fishing Zone](https://stardewvalleywiki.com/Fishing#Fishing_Zone) 5.
 
