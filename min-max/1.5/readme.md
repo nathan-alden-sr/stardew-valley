@@ -16,7 +16,7 @@ The guide occasionally includes links to specific crop plans generated in the am
 - [Parsnips crop planner](https://stardew.info/planner/26-large-rabbits-cried-merrily)
 - [First Kale crop planner](https://stardew.info/planner/9-cloudy-bees-cuddled-easily)
 - [Second Kale crop planner](https://stardew.info/planner/15-happy-sparrows-walked-merrily)
-- [Starfruit crop planner](https://stardew.info/planner/21-strong-bees-kissed-easily)
+- [Starfruit crop planner](https://stardew.info/planner/8-comfortable-crabs-fought-merrily)
 
 ## General strategies
 
