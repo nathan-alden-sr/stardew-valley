@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This guide is inspired by [Zamiell's guide](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md), which itself is inspired by several other sources. However, I was not happy with how the guide is laid out, the presentation of each day's tasks, and the overall thoroughness. After running Year 1 Spring over and over again, making many mistakes, and taking voluminous notes, I decided to write my own daily guide. My hope is that you will avoid many of the mistakes I made and thus have a more enjoyable experience.
+This guide is inspired by [Zamiell's guide](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md), which itself is inspired by several other sources. However, I was not happy with how the guide is laid out, the presentation of each day's tasks, and the overall thoroughness. After running Year 1 Spring over and over again, making many mistakes, and taking voluminous notes, I decided to write my own guide. My hope is that you will avoid many of the mistakes I made and thus have a more enjoyable experience.
 
 ## Spreadsheet
 
@@ -30,7 +30,7 @@ Refer to the following guides for general strategies that are not day-specific:
 
 ## Run overview
 
-1. Fish for maximum G income early
+1. Fish for maximum G income
 2. Upgrade the [Pickaxe](https://stardewvalleywiki.com/Pickaxes) to the Gold Pickaxe as soon as possible
 3. Unlock [Skull Cavern](https://stardewvalleywiki.com/Skull_Cavern) as soon as possible
 4. Once Skull Cavern is unlocked, smelt and sell [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar) for maximum G income
