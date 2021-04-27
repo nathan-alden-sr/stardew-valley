@@ -2,15 +2,20 @@
 
 ## Introduction
 
-This guide is inspired by [Zamiell's guide](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md), which itself is inspired by several other sources. However, I was not happy with how the guide is laid out, the presentation of each day's tasks, and the overall thoroughness. After running Year 1 Spring over and over again, making many mistakes, and taking voluminous notes, I decided to write my own guide. My hope is that you will avoid many of the mistakes I made and thus have a more enjoyable experience.
+This guide is inspired by [Zamiell's guide](https://github.com/Zamiell/stardew-valley/blob/master/Min-Max_Guide.md), which itself is inspired by several other sources. However, I was not happy with how the guide is laid out, the presentation of each day's tasks, and the overall thoroughness. After running Year 1 [Spring](https://stardewvalleywiki.com/Spring) over and over again, making many mistakes, and taking voluminous notes, I decided to write my own guide. My hope is that you will avoid many of the mistakes I made and thus have a more enjoyable experience.
 
 ## Spreadsheet
 
 I created a [spreadsheet](spreadsheet.md) in [LibreOffice Calc](https://www.libreoffice.org/download/download) that I use to easily calculate many things--everything from what I need to ship to reach target G amounts, how many Ore I need to find to craft enough Bars, etc. The spreadsheet automates item information in several places.
 
-## Farm planning
+## Crop planning
 
-The guide occasionally includes links to specific farm plans generated in the amazing [Stardew Planner](https://stardew.info/planner) tool. These plans are invaluable for quickly knowing where exactly to hoe or place that Scarecrow.
+The guide occasionally includes links to specific crop plans generated in the amazing [Stardew Planner](https://stardew.info/planner) tool. These plans are invaluable for quickly knowing where exactly to till or place [Sprinklers](https://stardewvalleywiki.com/Crafting#Sprinklers) and [Scarecrows](https://stardewvalleywiki.com/Scarecrow). Mixed Seeds are depicted by a generic crop icon.
+
+- [Rice Shoots crop planner](https://stardew.info/planner/7-careful-ants-snuggled-easily)
+- [Parsnips crop planner](https://stardew.info/planner/26-large-rabbits-cried-merrily)
+- [First Kale crop planner](https://stardew.info/planner/9-cloudy-bees-cuddled-easily)
+- [Second Kale crop planner](https://stardew.info/planner/15-happy-sparrows-walked-merrily)
 
 ## General strategies
 

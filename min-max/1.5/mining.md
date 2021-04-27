@@ -17,7 +17,7 @@ After taking an elevator or ladder, pause the game as soon as the screen begins 
 
 ### Reaching floor 120 of The Mines
 
-Starting on Year 1, Spring 11, your goal is to reach floor 120 of [The Mines](https://stardewvalleywiki.com/The_Mines) as soon as possible.
+Starting on Year 1, [Spring](https://stardewvalleywiki.com/Spring) 11, your goal is to reach floor 120 of [The Mines](https://stardewvalleywiki.com/The_Mines) as soon as possible.
 
 - As soon as you uncover or spot a ladder, stop any additional mining and take the ladder to continue your descent. The only exception to this--and it's still optional--is if you spot one of the [Gems](https://stardewvalleywiki.com/Minerals#Gems) needed for [Skull Cavern](https://stardewvalleywiki.com/Skull_Cavern):
   - [Diamond](https://stardewvalleywiki.com/Diamond)
