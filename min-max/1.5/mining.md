@@ -13,6 +13,10 @@
 
 After taking an elevator or ladder, pause the game as soon as the screen begins to fade in. This allows the fade-in to complete and for you to scan the floor without the clock running.
 
+## Saving certain items
+
+Avoid selling [Bat Wings](https://stardewvalleywiki.com/Bat_Wings), [Solar Essences](https://stardewvalleywiki.com/Solar_Essence), and [Void Essences](https://stardewvalleywiki.com/Void_Essence) if possible. They are needed for crafting as you progress through the game.
+
 ## The Mines
 
 ### Reaching floor 120 of The Mines
