@@ -14,7 +14,7 @@ Generally, cells shown in red are editable. However, you are free to modify the 
 
 The *Daily* tab has four pieces of information, all of which may be selected from a drop-down list after selecting the cell. At the beginning of each day in your run, select the *Daily* tab and update the values as necessary.
 
-1. *Season* indicates what season it is.
+1. *Season* indicates what Season it is.
 2. *Day* indicates what day it is.
 3. *Tomorrow's Weather* indicates what tomorrow's weather will be, as reported by the [Television](https://stardewvalleywiki.com/Television).
 4. *Today's Luck* indicates what today's luck will be, as reported by the Television.
