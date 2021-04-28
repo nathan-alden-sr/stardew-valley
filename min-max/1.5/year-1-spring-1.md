@@ -1,4 +1,8 @@
-<link rel="stylesheet" href="styles.css"></link>
+<style>
+   .ng {
+       filter: brightness(50%);
+   }
+</style>
 
 # Year 1, Spring 1
 
