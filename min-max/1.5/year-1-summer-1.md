@@ -10,6 +10,8 @@
 ## Advice and warnings
 
 - Do not clear any dead Parsnips as the game would turn some of the tilled tiles back to dirt overnight. You will clear them tomorrow.
+- Reaching Foraging level 7 as soon as possible is important because it allows you to craft [Tree Fertilizer](https://stardewvalleywiki.com/Tree_Fertilizer). You can use the Tree Fertilizer to quickly grow Oak Trees in your Oak Tree forest. A large forest will allow you to more quickly acquire the [Oak Resin](https://stardewvalleywiki.com/Oak_Resin) necessary for [Keg](https://stardewvalleywiki.com/Keg) crafting.
+  - Instead of felling Trees, consider using [Seed Makers](https://stardewvalleywiki.com/Seed_Maker) acquired from Skull Cavern to make [Summer Seeds](https://stardewvalleywiki.com/Summer_Seeds) from Summer Forageables. These Seeds will yield a large amount of forageables that are quickly harvested.
 
 ## Instructions
 

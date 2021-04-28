@@ -24,7 +24,7 @@
   - Marking Quality Sprinkler tiles with Cobblestone Paths
   - Crafting and placing Scarecrows
   - Crafting and placing extra Furnaces with spare Copper Ore (try and craft enough to keep your Ore supply low by smelting)
-  - Planting Acorns to build up a large supply of Oak Trees
+  - Planting Acorns to build up a forest of Oak Trees
   - Farming Ore and Coal on floors 21, 41, and 81
   - Felling Trees to acquire Wood to craft more Chests
 - Quality Sprinklers require one Iron Bar, one Gold Bar, and one [Refined Quartz](https://stardewvalleywiki.com/Refined_Quartz) to craft. Smelt Bars and Refined Quartz evenly such that the total number of each you acquire is the same for all three types. This also helps inform you of what types of Resources you need to farm.
