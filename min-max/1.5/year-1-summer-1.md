@@ -9,7 +9,7 @@
 
 ## Advice and warnings
 
-- Do not clear any dead Parsnips as the game will turn some of the tilled tiles back to dirt. You will clear them tomorrow.
+- Do not clear any dead Parsnips as the game would turn some of the tilled tiles back to dirt overnight. You will clear them tomorrow.
 
 | Yesterday                                   | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
