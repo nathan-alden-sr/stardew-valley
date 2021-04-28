@@ -88,7 +88,7 @@ Instructions:
 2. Speak to Emily inside her house. If you timed it correctly, you should meet her just as she opens her bedroom door.
 3. Exit Emily's house, travel east, and speak to [Penny](https://stardewvalleywiki.com/Penny) to the west of the [Graveyard](https://stardewvalleywiki.com/Graveyard).
 4. Travel north and speak to [Marnie](https://stardewvalleywiki.com/Marnie) as she travels south from [Pierre's General Store](https://stardewvalleywiki.com/Pierre%27s_General_Store).
-5. Travel south to the [Beach](https://stardewvalleywiki.com/Pierre%27s_General_Store).
+5. Travel south to [The Beach](https://stardewvalleywiki.com/The_Beach).
 
 ### Beach
 

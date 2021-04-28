@@ -15,7 +15,7 @@
 
 ## Advice and warnings
 
-- If you have yet to donate an Artifact to the Museum, and if you've acquired one, today is a good day to do so as you will be visiting Clint.
+- If you have yet to donate an Artifact to the Museum, and if you've acquired one, today is a good day to do so as you will be visiting the Blacksmith.
 
 ## Instructions
 
@@ -40,7 +40,7 @@
 
 ### Pelican Town
 
-1. Purchase enough Gold Ore from Clint to have acquired 25 in total.
+1. Purchase enough Gold Ore from the Blacksmith to have acquired 25 in total.
 2. Upgrade the Copper Pickaxe to the Steel Pickaxe for 5,000g.
 3. Travel to The Mountain fishing spot.
 

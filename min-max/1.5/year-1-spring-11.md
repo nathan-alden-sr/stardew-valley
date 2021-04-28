@@ -51,12 +51,12 @@
 
 ### Beach
 
-1. Sell fish to Willy.
+1. Sell fish at the Fish Shop.
 2. Travel to the Blacksmith.
 
 ### Pelican Town
 
-1. Speak to Clint to receive the Gold Pickaxe.
+1. Interact with the counter to receive the Gold Pickaxe.
 2. Travel to Pierre's General Store.
 3. Purchase the calculated number of Kale Seeds.
 4. Travel to The Farm.

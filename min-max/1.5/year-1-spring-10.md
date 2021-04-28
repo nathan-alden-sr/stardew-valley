@@ -43,7 +43,7 @@
 
 ### Beach
 
-1. Sell enough Fish to Willy to purchase the minimum required Bait.
+1. Sell enough Fish at the Fish Shop to purchase the minimum required Bait.
 2. Travel to The Mountain fishing spot.
 
 ### The Mountain (2)

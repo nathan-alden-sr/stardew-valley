@@ -36,7 +36,7 @@
 1. Check the Garbage Can next to George's house.
 2. Check the Garbage Can next to The Stardrop Saloon.
 3. Check the Garbage Can next to Lewis' house.
-4. Travel to the Beach. You will acquire the Bamboo Pole after the cutscene with Willy.
+4. Travel to The Beach. You will acquire the Bamboo Pole after the cutscene with Willy.
 
 ### Beach
 
@@ -52,10 +52,11 @@ Instructions:
 2. Place the Chest on the east-most tile on the south-most row of tiles on the pier. You will be fishing from the east-most tile on the middle row.<br />![Ocean Chest](images/year-1-spring-2-ocean-chest.png)
 3. Fish facing east from the east-most tile using maximum casts.
 4. At 8:40 am, trash the Bamboo Pole, then travel to the sand to check for forageables and Artifact Spots.
-   - If you acquire an Artifact now, donate it to the Museum and claim the 250g reward in your journal, then return to the Beach.
-5. Speak to Willy when he's behind the shop counter. Sell him all Beach forageables and fish. Purchase the [Training Rod](https://stardewvalleywiki.com/Training_Rod) for 25g.
+   - If you acquire an Artifact now, donate it to the Museum and claim the 250g reward in your journal, then return to The Beach.
+5. Travel to the Fish Shop.
+6. Interact with the counter. Sell all Beach forageables and fish. Purchase the [Training Rod](https://stardewvalleywiki.com/Training_Rod) for 25g.
    - The Training Rod allows for easier perfect catches. Perfect catches increase [Experience](https://stardewvalleywiki.com/Skills) gained from fishing, which is more important than the income acquired from higher-quality fish.
-6. Exit the Fish Shop, then fish below Willy's door using minimum casts.
+7. Exit the Fish Shop, then fish below Willy's door using minimum casts.
    - Since fish quality doesn't matter with the Training Rod, there is no reason to waste time traveling to the eastern end of the pier.
    - When running low on Energy during fishing, eat items in this order (the higher the Energy per G ratio, or EPG, the better):
 
@@ -79,14 +80,14 @@ Instructions:
    - Do not eat fish that provide more Energy than you need. Ending the day with extra Energy is effectively throwing away G.
    - Monitor your inventory using the [spreadsheet](spreadsheet.md).
    - If you feel very confident in your perfect catch ability, use the Bamboo Pole instead of the Training Rod. You can catch better quality fish that way and earn more money for Bait.
-7. As soon as you have 1,800g in inventory and fish value and are Fishing level 2, trash the Training Rod, sell all the fish, and purchase the Fiberglass Rod from Willy. Purchase as much Bait as possible and equip the Bait on the Fiberglass Rod.
+8. As soon as you have 1,800g in inventory and fish value and are Fishing level 2, trash the Training Rod, sell all the fish, and purchase the Fiberglass Rod from the Fish Shop. Purchase as much Bait as possible and equip the Bait on the Fiberglass Rod.
    - It's now more difficult to perfect catch due to only being Fishing level 2, but the Bait's reduction of bobber time combined with catching fish of silver or higher quality more than makes up for it.
    - Now that you have the Fiberglass Rod, Fishing Zone consideration applies.
-8. Fish from the east-most tile of the pier using maximum casts to start.
+9. Fish from the east-most tile of the pier using maximum casts to start.
    - If you do not have at least 35 Bait on the rod at 4:30 pm, sell enough fish and purchase more Bait to total 35. This ensures you have enough Bait for the rest of the day and for tomorrow morning.
-9. Fish until 1:50 am.
-10. Deposit all of your fish into the Chest so you can sell them to Willy tomorrow. Keep other items in your inventory.
-11. Pass out.
+10. Fish until 1:50 am.
+11. Deposit all of your fish into the Chest so you can sell them at the Fish Shop tomorrow. Keep other items in your inventory.
+12. Pass out.
 
 ## Day's end
 

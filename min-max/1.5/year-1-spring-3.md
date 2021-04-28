@@ -24,7 +24,7 @@
 
 1. From now on, check the Television at the start of every day to reveal tomorrow's [Weather](https://stardewvalleywiki.com/Weather).
 2. Deposit your entire inventory into the Chest. Withdraw the Fiberglass Rod.
-3. If you have at least 80 Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) from a fishing chest on Spring 2, craft a Chest and keep it in your inventory, then skip to the [Cindersap Forest (1)](#cindersap-forest-1) section below. Remember to divert from the guide and purchase more Bait from Willy tomorrow before going to The Mountain lake.
+3. If you have at least 80 Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) from a fishing chest on Spring 2, craft a Chest and keep it in your inventory, then skip to the [Cindersap Forest (1)](#cindersap-forest-1) section below. Remember to divert from the guide and purchase more Bait from the Fish Shop tomorrow before going to The Mountain lake.
 4. Withdraw the Hoe from the Chest.
 5. Travel to Cindersap Forest.
 
@@ -33,7 +33,7 @@
 1. Travel to the tile closest to the river and six tiles west of Leah's door.<br />![Cindersap Forest Chest](images/year-1-spring-3-cindersap-forest-chest.png)
 2. Fish so that your bobber lands on the row of tiles shared by the underwater stones tile. This tile is Fishing Zone 5. Casting beyond this tile has no benefit.<br />![Cindersap Forest Bobber](images/year-1-spring-3-cindersap-forest-bobber.png)
 3. Fish until 8:30 am or you run out of Bait, whichever comes first.
-4. Travel to the Beach, checking the Garbage Cans below Jodi's and Haley's houses on the way.
+4. Travel to The Beach, checking the Garbage Cans below Jodi's and Haley's houses on the way.
 
 ### Beach
 
@@ -41,11 +41,11 @@
 2. Sell all fish and Beach forageables at the Fish Shop. Save the lowest-quality [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle).
    - You may need to make multiple trips to the Chest before it's empty. As soon as the Chest is empty and you have a free inventory slot, break the Chest and pick it up.
      - To break a Chest without a tool, select an empty slot in your inventory and hold down the left mouse button on the Chest. Your character will strike it repeatedly until it pops free.
-3. If you received a Copper Ore from a fishing chest on Spring 2, purchase as much Bait as possible; otherwise, save 75g so you can purchase a Copper Ore from Clint later.
+3. If you received a Copper Ore from a fishing chest on Spring 2, purchase as much Bait as possible; otherwise, save 75g so you can purchase a Copper Ore from the Blacksmith later.
    - You should be able to purchase at least 400 Bait, and usually you can expect to receive more from fishing chests. The Bait should last all Spring.
    - You may choose to purchase one or two [Trout Soups](https://stardewvalleywiki.com/Trout_Soup) to assist with catching Catfish. They will raise your Fishing level when eaten, but they have a lower EPG (0.4) than Iridium-quality [Chub](https://stardewvalleywiki.com/Chub) (0.65 EPG).
    - Waiting to sell the fish until you have acquired the [Fisher](https://stardewvalleywiki.com/Fishing#Fishing_Skill) profession is not optimal.
-4. If you saved 75g to purchase Copper Ore from Clint, go purchase it now. This ensures Clint appears at The Farm tomorrow and gives you plans to craft [Furnaces](https://stardewvalleywiki.com/Furnace).
+4. If you saved 75g to purchase Copper Ore from the Blacksmith, go purchase it now. This ensures Clint appears at The Farm tomorrow and gives you plans to craft [Furnaces](https://stardewvalleywiki.com/Furnace).
    - You do not have to drop the Copper Ore on the ground or otherwise do anything special with it.
 5. Travel to Cindersap Forest.
 
