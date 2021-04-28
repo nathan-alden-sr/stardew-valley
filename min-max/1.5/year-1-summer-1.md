@@ -11,6 +11,10 @@
 
 - Do not clear any dead Parsnips as the game would turn some of the tilled tiles back to dirt overnight. You will clear them tomorrow.
 
+## Instructions
+
+1. Ship enough items to purchase the remaining Starfruit Seeds tomorrow.
+
 | Yesterday                                   | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
 | [⟵ Year 1, Spring 28](year-1-spring-28.md) | **Year 1, Summer 1**  | [Year 1, Summer 2 ⟶](year-1-summer-2.md)    |
