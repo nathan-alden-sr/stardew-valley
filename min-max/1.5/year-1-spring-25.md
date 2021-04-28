@@ -14,6 +14,6 @@
 3. Travel to the [Oasis](https://stardewvalleywiki.com/Oasis) and purchase one Deluxe Speed-Gro for every Starfruit Seed you will plant. Spend the remaining G on Starfruit Seeds so that you will not lose much G if you pass out.
    - Deluxe Speed-Gro is sold only on Thursdays.
 
-| Yesterday                                   | Today                 | Two Days from Now                           |
+| Yesterday                                   | Today                 | Two Days from Today                         |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
 | [⟵ Year 1, Spring 24](year-1-spring-24.md) | **Year 1, Spring 25** | [Year 1, Spring 27 ⟶](year-1-spring-27.md) |
