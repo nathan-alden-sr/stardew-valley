@@ -143,7 +143,7 @@ Instructions:
 ### The Farm (2)
 
 1. Clear a path to the [Backwoods](https://stardewvalleywiki.com/Backwoods). Try and cut as many Weeds as possible to maximize the chance for Mixed Seeds.
-2. Travel north to the Backwoods at 6:10 am.
+2. Travel north to the Backwoods at 6:10 pm.
 
 ### The Backwoods
 
