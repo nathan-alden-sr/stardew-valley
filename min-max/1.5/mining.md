@@ -41,6 +41,10 @@ Farm Ore on the following floors:
 - Floor 41 for [Iron Ore](https://stardewvalleywiki.com/Iron_Ore)
 - Floor 81 for [Gold Ore](https://stardewvalleywiki.com/Gold_Ore)
 
+### Farming Coal
+
+Coal can be a bottleneck any time you need to smelt lots of Bars or Refined Quartz. Farm Coal on floor 41. Not only is this a good place to farm Coal but it will also help you acquire the [Burglar's Ring](https://stardewvalleywiki.com/Burglar%27s_Ring) by killing 500 [Dust Sprites](https://stardewvalleywiki.com/Dust_Sprite).
+
 ## Skull Cavern
 
 ### Bus
