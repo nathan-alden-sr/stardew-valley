@@ -12,11 +12,11 @@ I created a [spreadsheet](spreadsheet.md) in [LibreOffice Calc](https://www.libr
 
 The guide occasionally includes links to specific crop plans generated in the amazing [Stardew Planner](https://stardew.info/planner) tool. These plans are invaluable for quickly knowing where exactly to till or place [Sprinklers](https://stardewvalleywiki.com/Crafting#Sprinklers) and [Scarecrows](https://stardewvalleywiki.com/Scarecrow). Mixed Seeds are depicted by a generic crop icon.
 
-- [Rice Shoots crop planner](https://stardew.info/planner/7-careful-ants-snuggled-easily)
-- [Parsnips crop planner](https://stardew.info/planner/26-large-rabbits-cried-merrily)
-- [First Kale crop planner](https://stardew.info/planner/9-cloudy-bees-cuddled-easily)
-- [Second Kale crop planner](https://stardew.info/planner/15-happy-sparrows-walked-merrily)
-- [Starfruit crop planner](https://stardew.info/planner/15-warm-dragonflies-ran-merrily)
+- [Rice Shoots crop planner](https://stardew.info/planner/21-full-sheep-listened-cordially)
+- [Parsnips crop planner](https://stardew.info/planner/31-soft-stoats-played-easily)
+- [First Kale crop planner](https://stardew.info/planner/19-close-greg-played-jovially)
+- [Second Kale crop planner](https://stardew.info/planner/23-healthy-owls-kissed-jovially)
+- [Starfruit crop planner](https://stardew.info/planner/30-empty-hares-went-easily)
 
 ## General strategies
 

@@ -24,7 +24,7 @@
   - Monster density
   - Room layouts
   - [Infested Floors](https://stardewvalleywiki.com/The_Mines#Infested_Floors)
-- See the [first Kale crop planner](https://stardew.info/planner/9-cloudy-bees-cuddled-easily) for a suggested plan. Mixed Seeds are depicted by a generic crop icon. This plan takes into account the need to place several Sprinklers later in the run.
+- See the [first Kale crop planner](https://stardew.info/planner/19-close-greg-played-jovially) for a suggested plan. Mixed Seeds are depicted by a generic crop icon.
 - At least one [Bean Starter](https://stardewvalleywiki.com/Bean_Starter) must be planted by this day, watered every single day, and not eaten by Crows in order to successfully complete the Spring Crops Bundle on Spring 15.
 - When playing a female character, it's likely that you will receive letters from [Dad](https://stardewvalleywiki.com/Mom_and_Dad) soon. Each letter contains 500g as a reward for earning 5,000g and 15,000g in total, respectively. If you are diligent about tracking how much you've earned and you will reach one or both thresholds by tomorrow, you can reduce the spreadsheet's G target by the appropriate amount at day's end.
 - When playing a male character, it's likely that you will receive a letter from [Mom](https://stardewvalleywiki.com/Mom_and_Dad) soon. The letter contains a [Cookie](https://stardewvalleywiki.com/Cookie) as a reward for earning 15,000g in total. If you are diligent about tracking how much you've earned and you will reach the threshold by tomorrow, you can reduce the spreadsheet's G target by 500g at day's end.

@@ -20,7 +20,7 @@
 - You need to have collected enough forageables by day's end to have enough money to purchase the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) and enough [Bait](https://stardewvalleywiki.com/Bait_(item)) before [Willy](https://stardewvalleywiki.com/Willy) closes his shop on [Spring](https://stardewvalleywiki.com/Spring) 2.
 - You must mine and store at least one [Stone](https://stardewvalleywiki.com/Stone) at some point during the day for Spring 2.
 - Pause often! It's instantaneous, free, and allows you to think.
-- Throughout your travels you will almost certainly come across [Rice Shoots](https://stardewvalleywiki.com/Rice_Shoot). These should be planted as soon as you are able. See the [Rice Shoots crop planner](https://stardew.info/planner/7-careful-ants-snuggled-easily) for a suggested plan. Certain tiles should strategically be left alone for future [Sprinkler](https://stardewvalleywiki.com/Sprinkler) use.
+- Throughout your travels you will almost certainly come across [Rice Shoots](https://stardewvalleywiki.com/Rice_Shoot). These should be planted as soon as you are able. See the [Rice Shoots crop planner](https://stardew.info/planner/21-full-sheep-listened-cordially) for a suggested plan.
 - Any time you acquire a new item, check the spreadsheet to see if it is used in a Bundle. If it is, be sure to keep one of the item.
 - Any time you learn a profession, update the profession choice in the spreadsheet.
 - While traveling over the course of the next two weeks, be on the lookout for one of each of four forageables required for the [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) on Spring 15:
@@ -181,8 +181,8 @@ Instructions:
    - Parsnip Seeds
    - [Mixed Seeds](https://stardewvalleywiki.com/Mixed_Seeds)
 3. Clear enough ground to plant 15 Parsnip Seeds and whatever Mixed Seeds you carry, plus a few more spots for Mixed Seeds in case you gather more shortly.
-   - See the [Parsnips crop planner](https://stardew.info/planner/26-large-rabbits-cried-merrily) for a suggested plan. Mixed Seeds are depicted by a generic crop icon.
-4. Plant and water Parsnip Seeds and Mixed Seeds.
+   - See the [Parsnips crop planner](https://stardew.info/planner/31-soft-stoats-played-easily) for a suggested plan. Mixed Seeds are depicted by a generic crop icon.
+4. Plant and water Parsnip Seeds and Mixed Seeds. Acorn locations are depicted by a stump.
 5. Fell Trees until you have around four to six [Energy](https://stardewvalleywiki.com/Energy). The remaining Energy will be useful if you gather more Mixed Seeds shortly.
    - If you don't have enough Energy to fully fell a Tree, spend the Energy mining rocks or chopping a stump.
 6. Cut Weeds and [Grass](https://stardewvalleywiki.com/Grass) until around 1:30 am. Don't stray too far from the Farmhouse.
