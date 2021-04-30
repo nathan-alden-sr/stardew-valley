@@ -46,7 +46,7 @@
    - Determine what direction you want the tree to fall in, then chop from the opposite side. Usually, it's best to fell a tree such that it lands closer to the next tree you plan to fell. You can also stand perpendicular to the tree and slightly to the opposite side. This can save having to walk around the stump.
    - It's faster to manually click with perfect timing than to hold down the mouse button. This is a key skill you should develop early as it applies to [Mining](https://stardewvalleywiki.com/Mining), as well.
    - As soon as a Tree begins falling, move to where the center of the boughs will hit the ground and pause. The falling animation, item spawning, and item collection will continue while the game is paused.
-7. Craft a [Chest](https://stardewvalleywiki.com/Chest) and place it next to the [Farmhouse](https://stardewvalleywiki.com/Farmhouse). A recommended spot is here:<br />![Farmhouse Chest](images/year-1-spring-1-farmhouse-chest.png)
+7. Craft a [Chest](https://stardewvalleywiki.com/Chest) and place it next to the [Farmhouse](https://stardewvalleywiki.com/Farmhouse).
 8. Deposit your entire inventory into the Chest. Withdraw the following:
    - [Scythe](https://stardewvalleywiki.com/Scythe)
    - [Axe](https://stardewvalleywiki.com/Axe)
