@@ -23,11 +23,10 @@
 ### The Farm
 
 1. From now on, check the Television at the start of every day to reveal tomorrow's [Weather](https://stardewvalleywiki.com/Weather).
-2. Deposit your entire inventory into the Chest. Withdraw the Fiberglass Rod and 50 Wood.
-3. Craft a Chest and keep it in your inventory.
-4. If you have at least 80 Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) from a fishing chest on Spring 2, skip to the [Cindersap Forest (1)](#cindersap-forest-1) section below. Remember to divert from the guide and purchase more Bait from the Fish Shop tomorrow before going to The Mountain lake.
-5. Withdraw the Hoe from the Chest.
-6. Travel to Cindersap Forest.
+2. Deposit your entire inventory into the Chest. Withdraw the Fiberglass Rod.
+3. If you have at least 80 Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) from a fishing chest on Spring 2, craft a Chest and keep it in your inventory. Skip to the [Cindersap Forest (1)](#cindersap-forest-1) section below. Remember to divert from the guide and purchase more Bait from the Fish Shop tomorrow before going to The Mountain lake.
+4. Withdraw the Hoe from the Chest.
+5. Travel to Cindersap Forest.
 
 ### Cindersap Forest (1)
 
