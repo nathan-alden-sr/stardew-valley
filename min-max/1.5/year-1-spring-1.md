@@ -62,12 +62,13 @@ Tips:
 - While moving through areas that can spawn forageables, constantly scan the screen to be sure you spot them. Try and route your path efficiently. Stay on the "inside line" of any direction changes you take.
 - Use the Scythe to cut Weeds, but only if they are near your path. Try and time your swings such that the maximum number of Weeds are cut per swing.
 - Sometimes, forageables can be partially or completely hidden behind Trees and bushes. It's not worth the time it takes to check behind every Tree, however.
+- If you only forage a few [Spring Onions](https://stardewvalleywiki.com/Spring_Onion), consider creating a new character. The benefit from having ten or more Spring Onions for extra energy at the end of the day is enormous.
 
 Instructions:
 
 1. Travel west past the [Traveling Cart](https://stardewvalleywiki.com/Traveling_Cart) area.
 2. Travel south toward the [Abandoned House](https://stardewvalleywiki.com/Abandoned_House).
-3. Travel east toward the area where [Spring Onions](https://stardewvalleywiki.com/Spring_Onion) spawn.
+3. Travel east toward the area where Spring Onions spawn.
    - When foraging grouped items, stand in the center of a 3x3 box containing as many items as possible. Drag the right mouse button over all the items to rapidly collect them.
    - Spring Onions may sometimes spawn down the stairs near the drain.
 4. Speak to [Jas](https://stardewvalleywiki.com/Jas) as she leaves [Marnie's Ranch](https://stardewvalleywiki.com/Marnie%27s_Ranch) at approximately 11:20 am. She paths west after exiting the building.
