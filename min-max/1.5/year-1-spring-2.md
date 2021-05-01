@@ -42,7 +42,7 @@
 
 ### Beach
 
-Tips:
+Advice and warnings:
 
 - See the [fishing guide](fishing.md).
 - You need to be skilled in fishing in order to reach Fishing level 4 by day's end.

@@ -59,7 +59,7 @@
 
 ### Cindersap Forest
 
-Tips:
+Advice and warnings:
 
 - While moving through areas that can spawn forageables, constantly scan the screen to be sure you spot them. Try and route your path efficiently. Stay on the "inside line" of any direction changes you take.
 - Use the Scythe to cut Weeds, but only if they are near your path. Try and time your swings such that the maximum number of Weeds are cut per swing.
@@ -80,7 +80,7 @@ Instructions:
 
 ### Pelican Town (1)
 
-Tips:
+Advice and warnings:
 
 - It's always faster to walk toward NPCs to speak to them instead of waiting for them to walk to you.
 
@@ -95,7 +95,7 @@ Instructions:
 
 ### Beach
 
-Tips:
+Advice and warnings:
 
 - Do not forage any Beach forageables. You need the free inventory slots for other forageables. You will collect them on subsequent days.
 

@@ -58,7 +58,7 @@
 
 ### The Mines
 
-Tips:
+Advice and warnings:
 
 - At least 16 Coal must be acquired, including any previously acquired, in order to smelt the required number of bars and craft a Scarecrow. Floor 12 seems to always be a long horizontal hallway that ends in a Coal minecart or Coal bag if you are running low on Coal.
 - You may acquire Mixed Seeds by cutting Weeds in The Mines. You may plant these on The Farm if you wish.

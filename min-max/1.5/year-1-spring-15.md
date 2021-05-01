@@ -23,12 +23,20 @@
 
 ### The Farm (1)
 
+- If you are close to 42,500g and can make up the difference by fishing and selling enough fish at the Fish Shop to reach 42,500g before the Fish Shop closes:
+  1. Deposit your entire inventory into Chests. Withdraw the following:
+     - Fiberglass Rod
+     - A source of Energy
+  2. Fish at The Mountain. Use the spreadsheet to track your catches.
+  3. Travel to the Fish Shop and sell the fish.
+  4. Travel to The Farm.
+
 1. Deposit your entire inventory into Chests. Withdraw the following:
    - Copper Bars required to make any remaining Sprinklers
    - Iron Bars required to make any remaining Sprinklers
    - Watering Can
 2. Water crops that were not watered by Sprinklers.
-3. Harvest Cauliflower and [Green Beans](https://stardewvalleywiki.com/Green_Bean).
+3. Harvest Cauliflower and a [Green Bean](https://stardewvalleywiki.com/Green_Bean).
 4. Craft and place any remaining Sprinklers.
 5. If you are completing the Vault Bundles today and want to start Skull Cavern runs tomorrow, ship enough items to reach 500g for a Bus ticket.
 6. Deposit your entire inventory into a Chest. Withdraw the following:
@@ -66,6 +74,12 @@
 2. Travel to The Farm.
 
 ### The Farm (2)
+
+Advice and warnings:
+
+- If it's late in the day due to having fished in the morning, you may deviate from the guide and not travel to The Mines. Consider Felling Trees and planting Acorns or foraging.
+
+Instructions:
 
 1. Place the [Crystalarium](https://stardewvalleywiki.com/Crystalarium) and insert a Diamond into it.
 2. Deposit your entire inventory into Chests. Withdraw sources of Energy if you don't have them stored in the Chest in The Mines.

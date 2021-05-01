@@ -22,7 +22,7 @@
 
 ### The Farm (1)
 
-Tips:
+Advice and warnings:
 
 - Your only Farm Chest may be getting full by this point. If so, fell Trees for an additional 50 Wood and craft a second Chest. Place it next to the first Chest.
 
