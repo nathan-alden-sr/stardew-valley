@@ -41,6 +41,7 @@
    - All Coal
    - All Gems
    - The most profitable item stacks as calculated by the spreadsheet
+   - Alternatively, you can leave Ore, Coal, and Gems in the Chest and take more items to sell. You will have to remember to come back to the Chest tomorrow to pick up those items before visiting The Mines.
 5. Travel to The Farm.
 
 ### The Farm (2)

@@ -60,6 +60,10 @@ Instructions:
 2. If time allows, cut Weeds and Grass.
 3. Pass out.
 
+## Day's end
+
+- (Unlikely) Fishing level 8 ⟶ 9
+
 | Yesterday                                 | Today                 | Tomorrow                                    |
 | ----------------------------------------- | --------------------- | ------------------------------------------- |
 | [⟵ Year 1, Spring 5](year-1-spring-5.md) | **Year 1, Spring 6**  | [Year 1, Spring 7 ⟶](year-1-spring-7.md)   |
