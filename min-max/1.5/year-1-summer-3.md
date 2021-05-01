@@ -7,6 +7,8 @@
 | [15](year-1-summer-15.md)  | [16](year-1-summer-16.md) | [17](year-1-summer-17.md) | [18](year-1-summer-18.md) | [19](year-1-summer-19.md) | [20](year-1-summer-20.md) | [21](year-1-summer-21.md) |
 | [22](year-1-summer-22.md)  | [23](year-1-summer-23.md) | [24](year-1-summer-24.md) | [25](year-1-summer-25.md) | [26](year-1-summer-26.md) | [27](year-1-summer-27.md) | [28](year-1-summer-28.md) |
 
+[Back to the guide summary](readme.md)
+
 ## Instructions
 
 1. Ship enough items to reach 25,000g for the Iridium Pickaxe upgrade tomorrow. Alternatively, you can visit Skull Cavern, smelt bars tomorrow, and sell them at the Blacksmith (along with Gems if you are running short on G).

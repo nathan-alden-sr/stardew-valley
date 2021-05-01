@@ -7,6 +7,8 @@
 | [15](year-1-spring-15.md)  | [16](year-1-spring-16.md) | **17**                    | [18](year-1-spring-18.md) | [19](year-1-spring-19.md) | [20](year-1-spring-20.md) | [21](year-1-spring-21.md) |
 | [22](year-1-spring-22.md)  | [23](year-1-spring-23.md) | [24](year-1-spring-24.md) | [25](year-1-spring-25.md) | [26](year-1-spring-26.md) | [27](year-1-spring-27.md) | [28](year-1-spring-28.md) |
 
+[Back to the guide summary](readme.md)
+
 ## Advice and warnings
 
 - You should try and reach floor 120 in The Mines today, as well as complete the 10,000g Bundle. Any further delays will begin to hinder your ability to purchase a maximum amount of [Starfruit Seeds](https://stardewvalleywiki.com/Starfruit_Seeds) in [Summer](https://stardewvalleywiki.com/Summer).
