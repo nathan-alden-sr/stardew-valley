@@ -64,7 +64,7 @@
 ### The Farm (2)
 
 1. Finish tilling and planting. Do not water any Kale crops.
-   - You can optionally craft [Cobblestone Path](https://stardewvalleywiki.com/Cobblestone_Path) to mark the location of Sprinklers; however removing them when it comes time to place Sprinklers will take extra time and Energy.
+   - You can optionally craft [Cobblestone Path](https://stardewvalleywiki.com/Cobblestone_Path) to mark Sprinkler tiles.
    - You will not water the Kale until Spring 14.
 2. Deposit your entire inventory into Chests. Withdraw the following:
    - Gold Pickaxe
