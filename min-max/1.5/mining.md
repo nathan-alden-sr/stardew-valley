@@ -59,11 +59,11 @@ Trade with the Desert Trader for very useful items:
 
 - Trade three Omni Geodes for a Warp Totem: Desert
   - Once you have a good supply of Warp Totem: Deserts, consider saving Omni Geodes to break them open at the [Blacksmith](https://stardewvalleywiki.com/Blacksmith)
-- Trade one Diamond for a [Triple Shot Espresso](https://stardewvalleywiki.com/Triple_Shot_Espresso)
-- Trade one Emerald for a [Cheese](https://stardewvalleywiki.com/Cheese) (only on Fridays)
-- Trade one Jade for a Staircase (only on Sundays)
-- Trade one Ruby for a [Spicy Eel](https://stardewvalleywiki.com/Spicy_Eel)
-- Trade three [Prismatic Shards](https://stardewvalleywiki.com/Prismatic_Shard) for one [Magic Rock Candy](https://stardewvalleywiki.com/Magic_Rock_Candy)
+- Trade one Diamond for one [Triple Shot Espresso](https://stardewvalleywiki.com/Triple_Shot_Espresso)
+- Trade one Emerald for one [Cheese](https://stardewvalleywiki.com/Cheese) (only on Fridays)
+- Trade one Jade for one Staircase (only on Sundays)
+- Trade one Ruby for one [Spicy Eel](https://stardewvalleywiki.com/Spicy_Eel)
+- Trade three [Prismatic Shards](https://stardewvalleywiki.com/Prismatic_Shard) for one [Magic Rock Candy](https://stardewvalleywiki.com/Magic_Rock_Candy) (only on Thursdays)
 
 ### Descending
 
