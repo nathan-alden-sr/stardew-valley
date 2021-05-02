@@ -16,7 +16,7 @@ The guide occasionally includes links to specific crop plans generated in the am
 - [Parsnips crop planner](https://stardew.info/planner/31-soft-stoats-played-easily)
 - [First Kale crop planner](https://stardew.info/planner/26-good-goats-knitted-merrily)
 - [Second Kale crop planner](https://stardew.info/planner/18-safe-otters-sat-jovially)
-- [Starfruit crop planner](https://stardew.info/planner/30-empty-hares-went-easily)
+- [Starfruit crop planner](https://stardew.info/planner/25-thick-flies-ran-cordially)
 
 ## General strategies
 
