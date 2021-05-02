@@ -15,4 +15,4 @@
 
 | Previous Day                                | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
-| [⟵ Year 1, Summer 6](year-1-summer-6.md)   | **Year 1, Summer 9**  | [Year 1, Summer 10 ⟶](year-1-summer-10.md) |
+| [⟵ Year 1, Summer 7](year-1-summer-7.md)   | **Year 1, Summer 9**  | [Year 1, Summer 10 ⟶](year-1-summer-10.md) |
