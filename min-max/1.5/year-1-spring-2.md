@@ -93,7 +93,7 @@ Instructions:
 
 ## Day's end
 
-- Foraging level 0 ⟶ 4
+- Fishing level 0 ⟶ 4
 
 | Yesterday                                 | Today                 | Tomorrow                                    |
 | ----------------------------------------- | --------------------- | ------------------------------------------- |
