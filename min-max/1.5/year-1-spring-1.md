@@ -121,7 +121,7 @@ Instructions:
 11. Travel north and speak to [Maru](https://stardewvalleywiki.com/Maru) as she travels south.
 12. Travel southwest toward Lewis' house.
 13. Check the Garbage Can next to Lewis' house.
-14. Travel west and speak to [Caroline](https://stardewvalleywiki.com/Caroline) and [Jodi](https://stardewvalleywiki.com/Jodi).
+14. Travel west and speak to [Evelyn](https://stardewvalleywiki.com/Evelyn), [Caroline](https://stardewvalleywiki.com/Caroline), and [Jodi](https://stardewvalleywiki.com/Jodi).
 15. Travel west and speak to [Vincent](https://stardewvalleywiki.com/Vincent).
 16. Travel north and speak to [Harvey](https://stardewvalleywiki.com/Harvey).
 17. Travel west and cut all Weeds next to the fence.
