@@ -18,9 +18,7 @@
 1. Harvest the Starfruit and plant the second crop.
    - Do not sell any Starfruit. Starfruit is much more valuable when turned into [Wine](https://stardewvalleywiki.com/Wine).
    - Do not sell any Starfruit Wine until after you change professions from [Agriculturist](https://stardewvalleywiki.com/Farming#Farming_Skill) to [Artisan](https://stardewvalleywiki.com/Farming#Farming_Skill).
-2. At 9:00 am, travel to the Oasis and purchase the second batch of Starfruit Seeds.
-   - The Oasis is closed tomorrow for the [Luau](https://stardewvalleywiki.com/Luau).
-3. You will reach Farming level 10 at day's end. Choose the Agriculturist profession.
+2. You will reach Farming level 10 at day's end. Choose the Agriculturist profession.
    - Agriculturist will not affect today's harvest.
    - You will change professions to Artisan later before selling any Starfruit Wine.
 
