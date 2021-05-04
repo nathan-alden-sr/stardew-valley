@@ -19,7 +19,7 @@
     - Consider grabbing [Robin's Lost Axe](https://stardewvalleywiki.com/Quests#Robin.27s_Lost_Axe) in southeast Cindersap Forest and bringing it to her when you visit her for your [Stable](https://stardewvalleywiki.com/Stable) purchase. You will be rewarded with 250g.
   - Chopping stumps and gathering [Fiddlehead Ferns](https://stardewvalleywiki.com/Fiddlehead_Fern) in the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods) for Foraging Experience and Hardwood. The [Stable](https://stardewvalleywiki.com/Stable) requires 100 Hardwood and the Farmhouse upgrade requires 150 Hardwood.
 - Consider repairing the bridge at The Beach for 300 Wood to reach Summer forageables on the other side.
-- After every stormy day, be sure to gather any [Battery Packs](https://stardewvalleywiki.com/Battery_Pack) from Lightning Rods. Lightning Rods cannot intercept Lightning Strikes if a Battery Pack is available to be gathered.
+- After every stormy day, be sure to gather any [Battery Packs](https://stardewvalleywiki.com/Battery_Pack) from Lightning Rods. Lightning Rods cannot intercept lightning strikes if a Battery Pack is available to be gathered.
 
 ## Instructions
 
