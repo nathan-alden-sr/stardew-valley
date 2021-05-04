@@ -16,6 +16,7 @@
 ## Advice and warnings
 
 - There are two ways you can travel to [The Mountain](https://stardewvalleywiki.com/The_Mountain) or [The Mines](https://stardewvalleywiki.com/The_Mines) from The Farm: through the Backwoods or through Pelican Town. It is nearly 20 in-game minutes faster to travel via the Backwoods.
+- Remember to buy more Bait from Willy if you didn't yesterday (because you had enough Bait and didn't need to buy Copper Ore).
 
 ## Instructions
 
