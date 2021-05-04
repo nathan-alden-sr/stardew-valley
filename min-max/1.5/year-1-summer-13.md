@@ -11,7 +11,7 @@
 
 ## Advice and warnings
 
-- It always storms on Summer 13.
+- The Weather is always stormy on Summer 13.
 
 | Previous Day                                | Today                 | Next Day                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |

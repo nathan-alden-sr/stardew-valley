@@ -18,7 +18,7 @@
 ## Advice and warnings
 
 - At least one [Cauliflower Seed](https://stardewvalleywiki.com/Cauliflower_Seeds) must be planted by this day, watered every single day, and not eaten by [Crows](https://stardewvalleywiki.com/Animals#Crows) in order to successfully complete the [Spring Crops Bundle](https://stardewvalleywiki.com/Cauliflower_Seeds) on Spring 15. Usually, you will plant enough Mixed Seeds on Spring 1 to randomly give at least one [Cauliflower](https://stardewvalleywiki.com/Cauliflower), but it is possible for your run to end here.
-- It always [rains](https://stardewvalleywiki.com/Weather) on Spring 3. When raining, the river in Cindersap Forest is the best place to fish due to the presence of Catfish, which yield a lot of Experience and G.
+- The Weather is always [rainy](https://stardewvalleywiki.com/Weather) on Spring 3. When raining, the river in Cindersap Forest is the best place to fish due to the presence of Catfish, which yield a lot of Experience and G.
 
 ## Instructions
 
