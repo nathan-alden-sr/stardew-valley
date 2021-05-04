@@ -43,7 +43,7 @@
   1. Fish until 9:00 am.
   2. Travel to the Fish Shop.
 
-### Beach
+### The Beach
 
 1. Sell enough Fish at the Fish Shop to purchase the minimum required Bait.
 2. Travel to The Mountain fishing spot.

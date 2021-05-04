@@ -16,22 +16,39 @@
 ## Advice and warnings
 
 - There are two ways you can travel to [The Mountain](https://stardewvalleywiki.com/The_Mountain) or [The Mines](https://stardewvalleywiki.com/The_Mines) from The Farm: through the Backwoods or through Pelican Town. It is nearly 20 in-game minutes faster to travel via the Backwoods.
+- Clint will appear and give you the plans for crafting Furnaces if you acquired your first Copper Ore yesterday.
 
 ## Instructions
 
 ### The Farm (1)
 
-1. If he didn't appear yesterday, Clint will appear and give you the plans for crafting Furnaces.
-2. Deposit your entire inventory into the Chest. Withdraw the Watering Can.
-3. Water crops.
-4. If you do not have 150 Wood, withdraw the Axe and Scythe from the Chest and fell Trees in the same manner as before until you have 150 Wood. You can fell Oak Trees now that they will drop Acorns.
+1. Deposit your entire inventory into the Chest. Withdraw the Watering Can.
+2. Water crops.
+3. If you do not have 150 Wood, withdraw the Axe and Scythe from the Chest and fell Trees in the same manner as before until you have 150 Wood. You can fell Oak Trees now that they will drop Acorns.
    - The 150 Wood is for two more Chests and a [Scarecrow](https://stardewvalleywiki.com/Scarecrow).
-5. Craft a Chest and keep it in your inventory.
-6. Deposit your entire inventory into The Farm Chest. Withdraw the following:
+4. Craft a Chest and keep it in your inventory.
+5. Deposit your entire inventory into The Farm Chest. Withdraw the following:
    - Fiberglass Rod
    - The newly-crafted Chest
+   - The Hoe if you still need an Artifact and you are traveling to the Fish Shop to buy more Bait
    - Chub for eating if you took them with you yesterday
+   - The fish you took with you if you are visiting the Fish Shop to purchase more Bait
+6. If you are visiting the Fish Shop to purchase more bait, travel to the Beach and skip to [The Beach](#the-beach) section below.
 7. Travel to The Mountain.
+
+### The Beach
+
+1. Check the sand for forageables and Artifact Spots.
+2. Sell all fish and Beach forageables at the Fish Shop. Save the lowest-quality [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle).
+   - You may need to make multiple trips to the Chest before it's empty. As soon as the Chest is empty and you have a free inventory slot, break the Chest and pick it up.
+     - To break a Chest without a tool, select an empty slot in your inventory and hold down the left mouse button on the Chest. Your character will strike it repeatedly until it pops free.
+3. If you received a Copper Ore yesterday, purchase as much Bait as possible; otherwise, save 75g so you can purchase a Copper Ore from the Blacksmith later.
+   - You should be able to purchase at least 400 Bait, and usually you can expect to receive more from fishing chests. The Bait should last all Spring.
+   - You may choose to purchase one or two [Trout Soups](https://stardewvalleywiki.com/Trout_Soup) to assist with catching Catfish. They will raise your Fishing level when eaten, but they have a lower EPG (0.4) than Iridium-quality [Chub](https://stardewvalleywiki.com/Chub) (0.65 EPG).
+   - Waiting to sell the fish until you have acquired the [Fisher](https://stardewvalleywiki.com/Fishing#Fishing_Skill) profession is not optimal.
+4. If you saved 75g to purchase Copper Ore from the Blacksmith, go purchase it now. This ensures Clint appears at The Farm tomorrow and gives you plans to craft [Furnaces](https://stardewvalleywiki.com/Furnace).
+   - You do not have to drop the Copper Ore on the ground or otherwise do anything special with it.
+5. Travel to Cindersap Forest.
 
 ### The Mountain
 

@@ -93,7 +93,7 @@ Instructions:
 4. Travel north and speak to [Marnie](https://stardewvalleywiki.com/Marnie) as she travels south from [Pierre's General Store](https://stardewvalleywiki.com/Pierre%27s_General_Store).
 5. Travel south to [The Beach](https://stardewvalleywiki.com/The_Beach).
 
-### Beach
+### The Beach
 
 Advice and warnings:
 
@@ -196,7 +196,7 @@ Instructions:
    - 20 Fiber
    - One of each Spring forageable needed to complete the Spring Foraging Bundle
 8. Plant and water Mixed Seeds.
-   - You can work past zero Energy, but not too much, otherwise the game will force you to pass out and you will wake up on Spring 2 with half Energy. If you do become [Exhausted](https://stardewvalleywiki.com/Energy), be sure you have enough time to make it into the Farmhouse.
+   - You can work past zero Energy, but not too much, otherwise the game will force you to pass out and you will wake up tomorrow with half Energy. If you do become [Exhausted](https://stardewvalleywiki.com/Energy), be sure you have enough time to make it into the Farmhouse.
 9. Enter the Farmhouse at 1:50 am.
 10. Pick up the [Single Bed](https://stardewvalleywiki.com/Single_Bed) (optionally trash it). This forces the game to spawn you one pixel from the doorway every morning, thus reducing traveling time.
     - Optionally, don't trash the Single Bed but place it on days like Spring 8 where you are at The Farm but won't level up a skill at day's end. Using a Bed on these days saves having to consume Energy-granting items the next day.

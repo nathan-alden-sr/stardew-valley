@@ -26,7 +26,7 @@
 2. Water crops.
    - Similar to foraging, stand in the center of a 3x3 box containing as many crops as possible. Drag the left mouse button over each crop to eliminate all wasted time between each watering.
 3. Craft a Chest and keep it in your inventory.
-   - If you did not have enough Energy on Spring 1 to chop 50 Wood, chop enough now to craft the Chest. This may not leave you with enough time to acquire the Bamboo Pole and Bait before the [Fish Shop](https://stardewvalleywiki.com/Fish_Shop) closes, however.
+   - If you did not have enough Energy yesterday to chop 50 Wood, chop enough now to craft the Chest. This may not leave you with enough time to acquire the Bamboo Pole and Bait before the [Fish Shop](https://stardewvalleywiki.com/Fish_Shop) closes, however.
 4. Deposit your entire inventory into the Farmhouse Chest. Withdraw the following:
    - Hoe
    - One Stone
@@ -40,7 +40,7 @@
 3. Check the Garbage Can next to Lewis' house.
 4. Travel to The Beach. You will acquire the Bamboo Pole after the cutscene with Willy.
 
-### Beach
+### The Beach
 
 Advice and warnings:
 
@@ -51,7 +51,7 @@ Advice and warnings:
 Instructions:
 
 1. Gift the Stone to Willy and claim the 100g reward in your journal.
-2. Place the Chest on the east-most tile on the south-most row of tiles on the pier. You will be fishing from the east-most tile on the middle row.<br />![Ocean Chest](images/year-1-spring-2-ocean-chest.png)
+2. Place the Chest on the east-most tile on the south-most row of tiles on the pier. You will be fishing from the east-most tile on the middle row.<br />![The Beach Chest](images/year-1-spring-2-the-beach-chest.png)
 3. Fish facing east from the east-most tile using maximum casts.
 4. At 8:40 am, trash the Bamboo Pole, then travel to the sand to check for forageables and Artifact Spots.
    - If you acquire an Artifact now, donate it to the Museum and claim the 250g reward in your journal, then return to The Beach.

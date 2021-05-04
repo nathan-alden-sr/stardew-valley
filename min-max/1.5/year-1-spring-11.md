@@ -51,7 +51,7 @@
 5. Stop work at 8:00 am.
 6. If you need to sell fish then travel to the Fish Shop; otherwise, travel to the Blacksmith and skip to the [Pelican Town](#pelican-town) section below.
 
-### Beach
+### The Beach
 
 1. Sell fish at the Fish Shop.
 2. Travel to the Blacksmith.

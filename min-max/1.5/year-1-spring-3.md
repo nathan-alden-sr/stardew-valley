@@ -26,7 +26,7 @@
 
 1. From now on, check the Television at the start of every day to reveal tomorrow's [Weather](https://stardewvalleywiki.com/Weather).
 2. Deposit your entire inventory into the Chest. Withdraw the Fiberglass Rod.
-3. If you have at least 80 Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) from a fishing chest on Spring 2, craft a Chest and keep it in your inventory. Skip to the [Cindersap Forest (2)](#cindersap-forest-2) section below. Remember to divert from the guide and purchase more Bait from the Fish Shop tomorrow before going to The Mountain lake.
+3. If you have at least 80 Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) yesterday, craft a Chest and keep it in your inventory. Travel to Cindersap Forest and skip to the [Cindersap Forest (2)](#cindersap-forest-2) section below. You will buy Bait at the Fish Shop tomorrow.
 4. Withdraw the Hoe from the Chest.
 5. Travel to Cindersap Forest.
 
@@ -37,13 +37,13 @@
 3. Fish until 8:30 am or you run out of Bait, whichever comes first.
 4. Travel to The Beach, checking the Garbage Cans below Jodi's and Haley's houses on the way.
 
-### Beach
+### The Beach
 
 1. Check the sand for forageables and Artifact Spots.
 2. Sell all fish and Beach forageables at the Fish Shop. Save the lowest-quality [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle).
    - You may need to make multiple trips to the Chest before it's empty. As soon as the Chest is empty and you have a free inventory slot, break the Chest and pick it up.
      - To break a Chest without a tool, select an empty slot in your inventory and hold down the left mouse button on the Chest. Your character will strike it repeatedly until it pops free.
-3. If you received a Copper Ore from a fishing chest on Spring 2, purchase as much Bait as possible; otherwise, save 75g so you can purchase a Copper Ore from the Blacksmith later.
+3. If you received a Copper Ore yesterday, purchase as much Bait as possible; otherwise, save 75g so you can purchase a Copper Ore from the Blacksmith later.
    - You should be able to purchase at least 400 Bait, and usually you can expect to receive more from fishing chests. The Bait should last all Spring.
    - You may choose to purchase one or two [Trout Soups](https://stardewvalleywiki.com/Trout_Soup) to assist with catching Catfish. They will raise your Fishing level when eaten, but they have a lower EPG (0.4) than Iridium-quality [Chub](https://stardewvalleywiki.com/Chub) (0.65 EPG).
    - Waiting to sell the fish until you have acquired the [Fisher](https://stardewvalleywiki.com/Fishing#Fishing_Skill) profession is not optimal.
@@ -64,6 +64,7 @@
    - All [Gems](https://stardewvalleywiki.com/Minerals#Gems)
    - The most profitable item stacks as calculated by the spreadsheet
      - Consider taking Chub with you if you are concerned about needing Energy for Spring 4. You need to potentially fell several Trees tomorrow so your Energy may be low before fishing.
+     - Take enough fish to sell at the Fish Shop tomorrow for more Bait if you did not visit the Fish Shop today. Remember to account for the fish you have deposited in The Beach Chest in your calculations.
 5. Pass out.
 
 ## Day's end
