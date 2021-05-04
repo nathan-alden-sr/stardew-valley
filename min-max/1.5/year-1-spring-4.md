@@ -48,7 +48,7 @@
    - Waiting to sell the fish until you have acquired the [Fisher](https://stardewvalleywiki.com/Fishing#Fishing_Skill) profession is not optimal.
 4. If you saved 75g to purchase Copper Ore from the Blacksmith, go purchase it now. This ensures Clint appears at The Farm tomorrow and gives you plans to craft [Furnaces](https://stardewvalleywiki.com/Furnace).
    - You do not have to drop the Copper Ore on the ground or otherwise do anything special with it.
-5. Travel to Cindersap Forest.
+5. Travel to The Mountain.
 
 ### The Mountain
 
