@@ -13,6 +13,6 @@
 
 - The Weather is always stormy on Summer 13.
 
-| Previous Day                                | Today                 | Next Day                                    |
+| Previous Day                                | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
-| [⟵ Year 1, Summer 11](year-1-summer-11.md) | **Year 1, Summer 13** | [Year 1, Summer 19 ⟶](year-1-summer-19.md) |
+| [⟵ Year 1, Summer 11](year-1-summer-11.md) | **Year 1, Summer 13** | [Year 1, Summer 14 ⟶](year-1-summer-14.md) |
