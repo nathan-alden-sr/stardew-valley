@@ -26,15 +26,27 @@
 2. Water crops.
 3. If you do not have 150 Wood, withdraw the Axe and Scythe from the Chest and fell Trees in the same manner as before until you have 150 Wood. You can fell Oak Trees now that they will drop Acorns.
    - The 150 Wood is for two more Chests and a [Scarecrow](https://stardewvalleywiki.com/Scarecrow).
-4. Craft a Chest and keep it in your inventory.
-5. Deposit your entire inventory into The Farm Chest. Withdraw the following:
-   - Fiberglass Rod
-   - The newly-crafted Chest
-   - The Hoe if you still need an Artifact and you are traveling to the Fish Shop to buy more Bait
-   - Chub for eating if you took them with you yesterday
-   - The fish you took with you if you are visiting the Fish Shop to purchase more Bait
-6. If you are visiting the Fish Shop to purchase more bait, travel to the Beach and skip to [The Beach](#the-beach) section below.
-7. Travel to The Mountain.
+
+- If you are purchasing more Bait at the Fish Shop:
+
+  1. Deposit your entire inventory into The Farm Chest. Withdraw the following:
+     - Fiberglass Rod
+     - The Hoe if you still need an Artifact
+     - Chub for eating if you took them with you yesterday
+     - The fish you took with you yesterday for the Bait purchase
+  2. Skip to [The Beach](#the-beach) section below.
+
+- If you are not purchasing more Bait at the Fish Shop:
+
+  1. Craft a Chest and keep it in your inventory.
+  2. Deposit your entire inventory into The Farm Chest. Withdraw the following:
+     - Fiberglass Rod
+     - The newly-crafted Chest
+     - The Hoe if you still need an Artifact and you are traveling to the Fish Shop to buy more Bait
+     - Chub for eating if you took them with you yesterday
+     - The fish you took with you if you are visiting the Fish Shop to purchase more Bait
+  3. If you don't need to visit the Fish Shop to purchase more Bait, travel to The Mountain and skip to [The Mountain](#the-mountain) section below.
+  4. Skip to [The Mountain](#the-mountain) section below.
 
 ### The Beach
 
@@ -42,8 +54,8 @@
 2. Sell all fish and Beach forageables at the Fish Shop. Save the lowest-quality [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle).
    - You may need to make multiple trips to the Chest before it's empty. As soon as the Chest is empty and you have a free inventory slot, break the Chest and pick it up.
      - To break a Chest without a tool, select an empty slot in your inventory and hold down the left mouse button on the Chest. Your character will strike it repeatedly until it pops free.
-3. If you received a Copper Ore yesterday, purchase as much Bait as possible; otherwise, save 75g so you can purchase a Copper Ore from the Blacksmith later.
-   - You should be able to purchase at least 400 Bait, and usually you can expect to receive more from fishing chests. The Bait should last all Spring.
+3. If you acquired a Copper Ore yesterday, purchase as much Bait as possible; otherwise, save 75g so you can purchase a Copper Ore from the Blacksmith later.
+   - You should be able to purchase at least 400 Bait, and usually you can expect to receive more from fishing chests. The Bait should last all Spring. Usually you will not require more than 500 Bait. If you can afford more than 500 Bait, choose whether the extra G or the extra Bait is more important to you. Be aware of the 10% penalty for passing out.
    - You may choose to purchase one or two [Trout Soups](https://stardewvalleywiki.com/Trout_Soup) to assist with catching Catfish. They will raise your Fishing level when eaten, but they have a lower EPG (0.4) than Iridium-quality [Chub](https://stardewvalleywiki.com/Chub) (0.65 EPG).
    - Waiting to sell the fish until you have acquired the [Fisher](https://stardewvalleywiki.com/Fishing#Fishing_Skill) profession is not optimal.
 4. If you saved 75g to purchase Copper Ore from the Blacksmith, go purchase it now. This ensures Clint appears at The Farm tomorrow and gives you plans to craft [Furnaces](https://stardewvalleywiki.com/Furnace).
