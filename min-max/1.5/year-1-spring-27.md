@@ -11,7 +11,7 @@
 
 ## Instructions
 
-1. Harvest the second Kale crop.
+1. Harvest the third Kale crop.
    - You should reach Farming level 6.
 2. At 9:00 am, travel to the Blacksmith and receive the Steel Hoe.
 3. Travel to Pierre's General Store and purchase the Parsnip Seeds.

@@ -12,7 +12,7 @@
 ## Instructions
 
 1. Check the Television to learn the [Radish Salad](https://stardewvalleywiki.com/Radish_Salad) recipe from The Queen of Sauce.
-2. Harvest the Kale and plant the second crop. Consider using the [Quality Fertilizer](https://stardewvalleywiki.com/Quality_Fertilizer) you received from the 5,000g Bundle.
+2. Harvest the second Kale crop and plant the third crop. Consider using the [Quality Fertilizer](https://stardewvalleywiki.com/Quality_Fertilizer) you received from the 5,000g Bundle.
 3. At 9:00 am, withdraw five Iron Bars from Chests. Travel to the Blacksmith and upgrade the Copper Axe to the Steel Axe for 5,000g.
 
 | Yesterday                                   | Today                 | Tomorrow                                    |

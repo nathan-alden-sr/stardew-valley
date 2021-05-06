@@ -45,7 +45,7 @@
    - Watering Can
    - If you did not ship any fish yesterday, enough fish to purchase half the Kale Seeds
 2. Water the Bean Starter and Mixed Seed crops.
-3. Harvest the Kale.
+3. Harvest the first Kale crop.
    - You should reach Farming level 2.
 4. Start tilling Kale Seed planting spots in an interlocked Sprinkler pattern. Check the spreadsheet to see how many Sprinklers are necessary for the number of Kale Seeds you need to plant. See the [second Kale crop planner](https://stardew.info/planner/18-safe-otters-sat-jovially) for a suggested plan. Mixed Seeds are depicted by a generic crop icon.
 5. Stop work at 8:00 am.
