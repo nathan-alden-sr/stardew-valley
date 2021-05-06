@@ -11,7 +11,7 @@
 
 ## Instructions
 
-1. Ship enough items to reach 25,000g for the Iridium Pickaxe upgrade tomorrow. Alternatively, you can visit Skull Cavern, smelt bars tomorrow, and sell them at the Blacksmith (along with Gems if you are running short on G).
+1. Ship enough items to reach 25,000g for the Iridium Pickaxe upgrade tomorrow. Alternatively, you can visit Skull Cavern, smelt Bars tomorrow, and sell them at the Blacksmith (along with Gems if you are running short on G).
 2. If you have 100 [Hardwood](https://stardewvalleywiki.com/Hardwood), ship enough items to reach 10,000g for the [Stable](https://stardewvalleywiki.com/Stable). You will also need five Iron Bars. Alternatively, you can sell Iridium Bars at the Blacksmith tomorrow to reach the total.
 
 | Yesterday                                   | Today                 | Tomorrow                                    |
