@@ -14,6 +14,6 @@
 1. Harvest the second Starfruit crop.
 2. At 9:00 am, travel to the Oasis and purchase Starfruit Seeds, then return to The Farm and plant the third crop.
 
-| Yesterday                                   | Today                 | Next Day                                    |
+| Yesterday                                   | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
-| [⟵ Year 1, Summer 19](year-1-summer-19.md) | **Year 1, Summer 20** | [Year 1, Summer 24 ⟶](year-1-summer-24.md) |
+| [⟵ Year 1, Summer 19](year-1-summer-19.md) | **Year 1, Summer 20** | [Year 1, Summer 21 ⟶](year-1-summer-21.md) |
