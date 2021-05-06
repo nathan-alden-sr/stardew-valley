@@ -11,8 +11,8 @@
 
 ## Instructions
 
-1. Harvest the second Starfruit crop and plant the third.
-2. At 9:00 am, travel to the Oasis and purchase Starfruit Seeds, then return to The Farm and plant them.
+1. Harvest the second Starfruit crop.
+2. At 9:00 am, travel to the Oasis and purchase Starfruit Seeds, then return to The Farm and plant the third crop.
 
 | Yesterday                                   | Today                 | Next Day                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
