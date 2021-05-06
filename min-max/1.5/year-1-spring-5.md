@@ -39,7 +39,7 @@
 1. From now on, check the Television at the start of every day to reveal today's [Luck](https://stardewvalleywiki.com/Luck).
 2. Choose to accept or decline the pet. See the [Pet guide](pets.md).
 3. Harvest the Parsnip crop and use the spreadsheet to track how many you harvested. The count will be used in Experience calculations later.
-4. If you followed the Parsnip crop planner then your Mixed Seeds were kept separate from your 15 Parsnips. Compare the crop's appearance with images on the Stardew Wiki to see if the crop is a Cauliflower or a [Potato](https://stardewvalleywiki.com/Potato). If you do not have a Cauliflower then you will not be able to complete the Spring Crops Bundle on Spring 15 as it is too late to plant a Cauliflower and have it mature by that day.
+4. If you followed the Parsnip crop planner then your Mixed Seeds were kept separate from your 15 Parsnips. Compare the crops' appearance with images on the Stardew Wiki to see if the crop is a Cauliflower or a [Potato](https://stardewvalleywiki.com/Potato). If you do not have a Cauliflower then you will not be able to complete the Spring Crops Bundle on Spring 15 as it is too late to plant a Cauliflower and have it mature by that day.
 5. Claim the Parsnip harvesting reward of 100g in your journal.
 6. Do not water any crops until the guide instructs you to.
 7. Craft a Chest and keep it in your inventory.
@@ -109,7 +109,8 @@ Instructions:
 6. Purchase the following:
    - One Bean Starter
    - One [Potato Seed](https://stardewvalleywiki.com/Potato_Seeds) if you did not get one from a Mixed Seed
-   - [Kale Seeds](https://stardewvalleywiki.com/Kale_Seeds) with the remainder of your G (you must purchase at least the calculated minimum)
+   - [Kale Seeds](https://stardewvalleywiki.com/Kale_Seeds) with the remainder of your G
+     - You must purchase and plant enough Kale Seeds to reach Farming level 2 on Spring 11.
      - In rare cases, you will have far more G on this day than you should spend on Kale Seeds (e.g., if you sold a [Treasure Chest](https://stardewvalleywiki.com/Treasure_Chest) that you acquired from a fishing chest). In these cases, use your judgment about how many Kale Seeds are reasonable to plant and water. Be sure to account for the extra Seeds in your crop planner. Consider using extra money to purchase the first [Backpack](https://stardewvalleywiki.com/Tools#Other_Tools) upgrade now.
 7. Travel to The Farm.
 

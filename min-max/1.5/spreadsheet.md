@@ -27,18 +27,6 @@ These cells do not affect any other cells.
 
 The *Bundles* tab is used to track items you need for every bundle. Items that occur in multiple bundles are also listed to remind you to collect more than one of certain items.
 
-## *Items and Professions* tab
-
-![Items and Professions](images/items-and-professions-tab.png)
-
-The *Items and Professions* tab contains all the data necessary for item tracking on daily tabs to work. The list of items are not currently exhaustive, however, so please submit an [issue](https://github.com/nathan-alden-sr/stardew-valley/issues) if you notice something missing.
-
-In general, you will not need to use this tab except to change the profession information in red. Note that changing these professions will affect all calculations done on older daily tabs; this is unavoidable.
-
-Prices are automatically calculated using precise formulas that include proper decimal truncation.
-
-Different combinations of base price and tiered prices are present based on whether a particular item benefits from professions, special effects (e.g., [Bear's Knowledge](https://stardewvalleywiki.com/Bear%27s_Knowledge)), both, or neither.
-
 ## *Generic Item Table* tab
 
 ![Item Tables](images/generic-item-table-tab.png)
@@ -76,6 +64,30 @@ The *Passing Out?* choice will apply a passing out penalty of 10% to the G in In
 *G Needed* indicates what the target G for the following day is.
 
 *G Remaining* indicates how much more G you need to ship to reach the target. When the value is negative, it means you will have shipped more than is necessary. Usually, this is unavoidable but careful selection of the items you ship can minimize the extra income.
+
+## *Fish Availability* tab
+
+![Fish Availability](images/fish-availability-tab.png)
+
+The *Fish Availability* tab provides a list of all non-[Crab Pot](https://stardewvalleywiki.com/Crab_Pot) [Fish](https://stardewvalleywiki.com/Fish) and the times, [Seasons](https://stardewvalleywiki.com/Seasons), and [Weathers](https://stardewvalleywiki.com/Weather) when the Fish may be caught. The same fish will appear on more than one row if the Fish can be caught in multiple locations. Use the filter on each column to narrow the list of Fish based on your preferences.
+
+## *Items and Professions* tab
+
+![Items and Professions](images/items-and-professions-tab.png)
+
+The *Items and Professions* tab contains all the data necessary for item tracking on daily tabs to work. The list of items are not currently exhaustive, however, so please submit an [issue](https://github.com/nathan-alden-sr/stardew-valley/issues) if you notice something missing.
+
+In general, you will not need to use this tab except to change the profession information in red. Note that changing these professions will affect all calculations done on older daily tabs; this is unavoidable.
+
+Prices are automatically calculated using precise formulas that include proper decimal truncation.
+
+Different combinations of base price and tiered prices are present based on whether a particular item benefits from professions, special effects (e.g., [Bear's Knowledge](https://stardewvalleywiki.com/Bear%27s_Knowledge)), both, or neither.
+
+## *Crops* tab
+
+![Crops](images/crops-tab.png)
+
+The *Crops* tab contains all the data necessary for crop tracking on other tabs to work.
 
 ## Daily tabs
 
