@@ -11,7 +11,7 @@
 
 ## Instructions
 
-1. Ship enough items to purchase the second batch of Starfruit Seeds.
+1. Ship enough items to purchase the third batch of Starfruit Seeds. Be sure to account for additional Deluxe Speed-Gro purchases if some of the tilled soil reverted to dirt due to the second crop being smaller than the first.
 
 | Yesterday                                   | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
