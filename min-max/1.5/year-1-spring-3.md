@@ -26,7 +26,7 @@
 
 1. From now on, check the Television at the start of every day to reveal tomorrow's [Weather](https://stardewvalleywiki.com/Weather).
 2. Deposit your entire inventory into the Chest. Withdraw the Fiberglass Rod.
-3. If you have at least 80 Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) yesterday, craft a Chest and keep it in your inventory. Travel to Cindersap Forest and skip to the [Cindersap Forest (2)](#cindersap-forest-2) section below. You will buy Bait at the Fish Shop tomorrow.
+3. If you have at least 80 Bait and you received [Copper Ore](https://stardewvalleywiki.com/Copper_Ore) yesterday, craft a Chest and keep it in your inventory. Travel to Cindersap Forest and skip to the [Cindersap Forest (2)](#cindersap-forest-2) section below. You will purchase Bait at the Fish Shop tomorrow.
 4. Withdraw the Hoe from the Chest.
 5. Travel to Cindersap Forest.
 
