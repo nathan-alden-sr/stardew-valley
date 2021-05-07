@@ -122,7 +122,6 @@ Instructions:
    - Watering Can
 2. Till, plant, and water crops
 3. Deposit your entire inventory into the Chest. Withdraw the following:
-   - Fiberglass Rod
    - Furnace
    - 25 Iron Ore
    - Up to 25 Gold Ore

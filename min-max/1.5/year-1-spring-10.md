@@ -27,7 +27,6 @@
 5. Deposit your entire inventory into Chests. Withdraw the following:
    - If you have Fishing level 10, enough fish to purchase half of the Kale Seeds
    - If you have less than 100 Bait on the Fiberglass Rod, use the spreadsheet to calculate how many Bait you need to purchase and the cost of the Bait. Withdraw enough fish to sell to Willy in order to purchase the minimum required Bait.
-   - Fiberglass Rod
 6. If you have Fishing level 10, ship the fish you withdrew now except for any fish withdrawn for Bait.
 7. Travel to The Mountain fishing spot.
 

@@ -29,7 +29,6 @@
 3. Fell Trees until 8:00 am.
 4. Deposit your entire inventory into Chests. Withdraw the following:
    - Five Gold Bars
-   - Fiberglass Rod
 5. Travel to the Blacksmith.
 
 ### Pelican Town
