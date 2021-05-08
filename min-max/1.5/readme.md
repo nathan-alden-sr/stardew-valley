@@ -17,7 +17,7 @@ The guide occasionally includes links to specific crop plans generated in the am
 - [First Kale crop planner](https://stardew.info/planner/13-high-guinea-pigs-engaged-easily)
 - [Second Kale crop planner](https://stardew.info/planner/29-high-moths-ran-jovially)
 - [Starfruit crop planner](https://stardew.info/planner/2-afraid-otters-whispered-easily)
-- [Pumpkin crop planner](https://stardew.info/planner/4-sour-geese-whimpered-cordially)
+- [Pumpkin crop planner](https://stardew.info/planner/11-free-goats-sat-cordially)
 
 ## General strategies
 
