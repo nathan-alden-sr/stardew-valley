@@ -62,3 +62,12 @@ Refer to the following guides for general strategies that are not day-specific:
 |                            | [9](year-1-summer-9.md)   | [10](year-1-summer-10.md) | [11](year-1-summer-11.md) |                           | [13](year-1-summer-13.md) | [14](year-1-summer-14.md) |
 |                            |                           |                           |                           | [19](year-1-summer-19.md) | [20](year-1-summer-20.md) | [21](year-1-summer-21.md) |
 |                            |                           | [24](year-1-summer-24.md) | [25](year-1-summer-25.md) | [26](year-1-summer-26.md) | [27](year-1-summer-27.md) | [28](year-1-summer-28.md) |
+
+### Year 1, Fall
+
+| M                          | Tu                        | W                         | Th                        | F                         | Sa                        | Su                        |
+| -------------------------- | ------------------------- | ------------------------- | ------------------------- |-------------------------- | ------------------------- | ------------------------- |
+| **1**                      | [2](year-1-fall-2.md)     |                           |                           |                           |                           |                           |
+|                            | [9](year-1-fall-9.md)     | [10](year-1-fall-10.md)   |                           |                           |                           |                           |
+|                            |                           |                           |                           |                           |                           |                           |
+|                            |                           |                           |                           |                           |                           |                           |
