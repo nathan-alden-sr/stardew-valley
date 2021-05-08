@@ -11,9 +11,7 @@
 
 ## Instructions
 
-1. Travel to [The Sewers](https://stardewvalleywiki.com/The_Sewers) and interact with the Statue of Uncertainty to change Farming professions. At day's end, choose the Artisan profession.
-   - You may now sell your Starfruit Wine.
-2. At 9:00 am, travel to Pierre's General Store and purchase the second batch of Pumpkin Seeds.
+1. Harvest the first Pumpkin crop and plant the second crop.
 
 | Yesterday                                   | Today                 | Next Day                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
