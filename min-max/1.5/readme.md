@@ -14,10 +14,10 @@ The guide occasionally includes links to specific crop plans generated in the am
 
 - [Rice Shoots crop planner](https://stardew.info/planner/21-full-sheep-listened-cordially)
 - [Parsnips crop planner](https://stardew.info/planner/31-soft-stoats-played-easily)
-- [First Kale crop planner](https://stardew.info/planner/26-good-goats-knitted-merrily)
-- [Second Kale crop planner](https://stardew.info/planner/18-safe-otters-sat-jovially)
-- [Starfruit crop planner](https://stardew.info/planner/14-dark-foxes-jumped-easily)
-- [Pumpkin crop planner](https://stardew.info/planner/11-large-platypuses-went-jovially)
+- [First Kale crop planner](https://stardew.info/planner/13-high-guinea-pigs-engaged-easily)
+- [Second Kale crop planner](https://stardew.info/planner/11-strong-frogs-kissed-cordially)
+- [Starfruit crop planner](https://stardew.info/planner/12-light-ants-danced-merrily)
+- [Pumpkin crop planner](https://stardew.info/planner/21-whole-rooks-sat-cordially)
 
 ## General strategies
 

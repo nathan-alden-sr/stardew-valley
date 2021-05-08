@@ -12,6 +12,11 @@
 ## Advice and warnings
 
 - The Weather is always stormy on Summer 26.
+- Depending on the number of Pumpkins you wish to plant, you may need to begin clearing the Farm today. See the [Pumpkin crop planner](https://stardew.info/planner/21-whole-rooks-sat-cordially) for a suggested plan.
+
+## Instructions
+
+1. Ship enough items to purchase [Wheat Seeds](https://stardewvalleywiki.com/Wheat_Seeds) for use as a linger crop. Be sure to include tiles you will be tilling tomorrow in your calculations.
 
 | Yesterday                                   | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |

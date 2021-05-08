@@ -14,7 +14,7 @@
 1. Use the Scythe to clear all the dead Parsnips.
 2. Place all of the Deluxe-Speed Gro.
 3. Place all of the Starfruit Seeds.
-4. At 9:00 am, travel to the Oasis and purchase the rest of the Starfruit Seeds, then return to The Farm and plant them.
+4. At 9:00 am, travel to the Oasis and purchase the rest of the Starfruit Seeds, then return to The Farm and plant the first crop.
    - Consider taking Gems and Omni Geodes with you to trade to the Desert Trader.
 5. Craft and place as many [Lightning Rods](https://stardewvalleywiki.com/Lightning_Rod) as is reasonable.
 6. Craft and place as many [Tappers](https://stardewvalleywiki.com/Tapper) on Oak Trees as is reasonable.

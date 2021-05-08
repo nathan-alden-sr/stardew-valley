@@ -21,6 +21,7 @@
 - Consider repairing the bridge at The Beach for 300 Wood to reach Summer forageables on the other side.
 - After every [stormy](https://stardewvalleywiki.com/Weather) day, be sure to gather any [Battery Packs](https://stardewvalleywiki.com/Battery_Pack) from Lightning Rods. Lightning Rods cannot intercept lightning strikes if a Battery Pack is available to be gathered.
 - The latest that [Summer Crops Bundle](https://stardewvalleywiki.com/Bundles#Summer_Crops_Bundle) crops may be planted is Spring 21, assuming Deluxe Speed-Gro is used.
+- Acquire a [Rare Seed](https://stardewvalleywiki.com/Rare_Seed) from the Traveling Cart before Fall. You can plant the Rare Seed as soon as Fall Arrives to acquire a [Sweet Gem Berry](https://stardewvalleywiki.com/Sweet_Gem_Berry) before Fall ends. Give the Sweet Gem Berry to [Old Master Cannoli](https://stardewvalleywiki.com/Old_Master_Cannoli) in the Secret Woods to receive a Stardrop.
 
 ## Instructions
 
