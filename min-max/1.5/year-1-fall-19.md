@@ -11,7 +11,8 @@
 
 ## Instructions
 
-1. At 9:00 am, travel to Pierre's General Store and purchase the second batch of Pumpkin Seeds.
+1. At 9:00 am, travel to Pierre's General Store and purchase the second batch of Pumpkin Seeds, then return to The Farm and plant the third crop.
+   - Don't plant any Pumpkin Seeds on tiles that are not fertilized with Deluxe Speed-Gro as those Pumpkins will not mature before Fall ends.
 
 | Yesterday                                   | Today                 | Next Day                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
