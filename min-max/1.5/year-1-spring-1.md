@@ -140,13 +140,17 @@ Instructions:
 
 ### The Bus Stop (1)
 
-1. Travel west. Just before you transition to [The Farm](https://stardewvalleywiki.com/The_Farm), turn your character east, stand near the south side of the path, and drop all forageables on the ground. It may take several attempts to drop them as the game seems to choose random distances when throwing items.
-2. Travel west to The Farm.
+1. Travel west to The Farm.
 
 ### The Farm (2)
 
-1. Clear a path to the [Backwoods](https://stardewvalleywiki.com/Backwoods). Try and cut as many Weeds as possible to maximize the chance for Mixed Seeds.
-2. Travel north to the Backwoods at 6:10 pm.
+1. Deposit your entire inventory into the Chest. Withdraw the following:
+   - Scythe
+   - Axe
+   - Pickaxe
+   - Hoe
+2. Clear a path to the [Backwoods](https://stardewvalleywiki.com/Backwoods). Try and cut as many Weeds as possible to maximize the chance for Mixed Seeds.
+3. Travel north to the Backwoods at 6:10 pm.
 
 ### The Backwoods
 
