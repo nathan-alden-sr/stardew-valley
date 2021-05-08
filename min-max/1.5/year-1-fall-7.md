@@ -15,4 +15,4 @@
 
 | Previous Day                                | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
-| [⟵ Year 1, Fall 2](year-2-fall-2.md)       | **Year 1, Fall 7**    | [Year 1, Fall 8 ⟶](year-1-fall-8.md)       |
+| [⟵ Year 1, Fall 2](year-1-fall-2.md)       | **Year 1, Fall 7**    | [Year 1, Fall 8 ⟶](year-1-fall-8.md)       |
