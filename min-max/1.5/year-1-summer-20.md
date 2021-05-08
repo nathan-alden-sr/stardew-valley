@@ -13,6 +13,7 @@
 
 1. Harvest the second Starfruit crop.
 2. At 9:00 am, travel to the Oasis and purchase Starfruit Seeds, then return to The Farm and plant the third crop.
+   - Don't plant any Starfruit Seeds on tiles that are not fertilized with Deluxe Speed-Gro as those Starfruit will not mature before Summer ends.
 
 | Yesterday                                   | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |

@@ -16,4 +16,4 @@
 
 | Yesterday                                   | Today                 | Next Day                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
-| [⟵ Year 1, Fall 18](year-1-fall-18.md)     | **Year 1, Fall 19**   | [Year 1, Fall 28 ⟶](year-1-fall-28.md)     |
+| [⟵ Year 1, Fall 18](year-1-fall-18.md)     | **Year 1, Fall 19**   | [Year 1, Fall 21 ⟶](year-1-fall-21.md)     |
