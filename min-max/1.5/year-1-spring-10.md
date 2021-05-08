@@ -34,8 +34,12 @@
 
 - If you have at least 100 Bait on the Fiberglass Rod:
   1. Fish until 1:50 am.
-  2. Deposit your entire inventory into the Chest. Withdraw the most profitable item stacks as calculated by the spreadsheet.
-  3. Break the Furnace and pick it up.
+  2. Break the Furnace and pick it up.
+  3. Deposit your entire inventory into the Chest. Withdraw the following:
+     - All Ore
+     - All Coal
+     - A Weapon if you acquired one from a fishing chest
+     - The most profitable item stacks as calculated by the spreadsheet
   4. Pass out.
 
 - If you do not have at least 100 Bait on the Fiberglass Rod:
@@ -50,8 +54,12 @@
 ### The Mountain (2)
 
 1. Fish until 1:50 am.
-2. Deposit your entire inventory into the Chest. Withdraw the most profitable item stacks as calculated by the spreadsheet.
-3. Break the Furnace and pick it up.
+2. Break the Furnace and pick it up.
+3. Deposit your entire inventory into the Chest. Withdraw the following:
+   - All Ore
+   - All Coal
+   - A Weapon if you acquired one from a fishing chest
+   - The most profitable item stacks as calculated by the spreadsheet
 4. Pass out.
 
 ## Day's end
