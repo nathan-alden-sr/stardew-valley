@@ -17,4 +17,4 @@
 
 | Yesterday                                   | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
-| [⟵ Year 1, Summer 26](year-1-summer-26.md) | **Year 1, Summer 27** | [Year 1, Summer 28 ⟶](year-1-summer-28.md) |
+| [⟵ Year 1, Summer 27](year-1-summer-27.md) | **Year 1, Summer 28** | [Year 1, Fall 1 ⟶](year-1-fall-1.md)       |
