@@ -16,6 +16,7 @@
 
 ## Advice and warnings
 
+- At least one Potato Seed must be planted by this day, watered every single day, and not eaten by Crows in order to successfully complete the Spring Crops Bundle on Spring 15. Usually, you will plant enough Mixed Seeds on Spring 1 to randomly give at least one Potato.
 - Failing to reach Fishing level 10 today does not alter the run in any meaningful way.
 
 ## Instructions

@@ -12,7 +12,7 @@
 ## Goals
 
 - Speak to 26 NPCs around Stardew Valley (it's actually 28, but the game gives you credit for having spoken to [Lewis](https://stardewvalleywiki.com/Lewis) and [Robin](https://stardewvalleywiki.com/Robin))
-- [Forage](https://stardewvalleywiki.com/Foraging) [Spring](https://stardewvalleywiki.com/spring) forageables
+- [Forage](https://stardewvalleywiki.com/Foraging) for Spring forageables
 - Plant a [Parsnip](https://stardewvalleywiki.com/Parsnip) crop
 - Reach [Foraging](https://stardewvalleywiki.com/Foraging) level 1
 
@@ -25,12 +25,13 @@
 - Use the spreadsheet's *Y1-Sp Farming XP Planning* tab to track the planting of all Spring crops.<br />![Y1-Sp Farming XP Planning](images/y1-sp-farming-xp-planning.png)
 - Throughout your travels you will almost certainly come across [Rice Shoots](https://stardewvalleywiki.com/Rice_Shoot). These should be planted as soon as you are able. See the [Rice Shoots crop planner](https://stardew.info/planner/21-full-sheep-listened-cordially) for a suggested plan.
 - Any time you acquire a new item, check the spreadsheet to see if it is used in a Bundle. If it is, be sure to keep one of the item.
-- Any time you learn a profession, update the profession choice in the spreadsheet.
-- While traveling over the course of the next two weeks, be on the lookout for one of each of four forageables required for the [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) on Spring 15:
-  - [Wild Horseradish](https://stardewvalleywiki.com/Wild_Horseradish)
-  - [Daffodil](https://stardewvalleywiki.com/Daffodil)
-  - [Leek](https://stardewvalleywiki.com/Leek)
-  - [Dandelion](https://stardewvalleywiki.com/Dandelion)
+- Any time you learn a profession, update the profession choice in the spreadsheet, if applicable.
+- In order to make the [Vault Bundles](https://stardewvalleywiki.com/Bundles#Vault) accessible on Spring 15, you will need to have all items necessary to complete the [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) and [Spring Crops Bundle](https://stardewvalleywiki.com/Bundles#Spring_Crops_Bundle) by that time.
+  - While traveling over the course of the next two weeks, be on the lookout for one of each of four Spring forageables:
+    - [Wild Horseradish](https://stardewvalleywiki.com/Wild_Horseradish)
+    - [Daffodil](https://stardewvalleywiki.com/Daffodil)
+    - [Leek](https://stardewvalleywiki.com/Leek)
+    - [Dandelion](https://stardewvalleywiki.com/Dandelion)
 
 ## Instructions
 
