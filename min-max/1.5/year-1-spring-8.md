@@ -15,7 +15,7 @@
 
 ## Advice and warnings
 
-- When you earn 25,000g in total, Demetrius will visit The Farm. He will give you a choice between mushrooms and fruit bats. Choose mushrooms. Once you've made the choice you will generally want to check [The Cave](https://stardewvalleywiki.com/The_Cave) every other day for [Mushrooms](https://stardewvalleywiki.com/Foraging).
+- When you earn 25,000g in total, Demetrius will visit The Farm. He will give you a choice between mushrooms and fruit bats. Choose mushrooms. Once you've made the choice you will generally want to check [The Cave](https://stardewvalleywiki.com/The_Cave) every day for [Mushrooms](https://stardewvalleywiki.com/Foraging).
 - It is possible, although unlikely, to reach Fishing level 10 today if you are very skilled and lucky. If you reach it today, choose the [Angler](https://stardewvalleywiki.com/Fishing#Fishing_Skill) profession.
 
 ## Instructions
