@@ -17,6 +17,28 @@ After taking an elevator or ladder, pause the game as soon as the screen begins 
 
 Avoid selling [Bat Wings](https://stardewvalleywiki.com/Bat_Wings), [Solar Essences](https://stardewvalleywiki.com/Solar_Essence), and [Void Essences](https://stardewvalleywiki.com/Void_Essence) if possible. They are needed for crafting as you progress through the game.
 
+## Explosives
+
+Proper use of Explosives is critical to being as time- and resource-efficient as possible. Each Explosive has a different Tiles per G (TPG) ratio and different crafting requirements. Be sure you keep enough Resources in your inventory to be able to craft any of the four at any time.
+
+### TPG based on raw materials selling price
+
+| Explosive | Tiles Affected | Raw Materials Selling Price | TPG | Use |
+| --------- | -------------- | --------------------------- | --- | --- |
+| [Bombs](https://stardewvalleywiki.com/Bomb) | 96 | 55g | 1.745 | Slowly destroy large, dense patches of rocks |
+| [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo) (requires a [Slingshot](https://stardewvalleywiki.com/Weapons#Slingshot)) | 21 | 19g | 1.105 | Quickly destroy small, dense patches of rocks |
+| [Mega Bombs](https://stardewvalleywiki.com/Mega_Bomb) | 197 | 190g | 1.037 | Slowly destroy huge, dense patches of rocks |
+| [Cherry Bomb](https://stardewvalleywiki.com/Cherry_Bomb) | 36 | 35g | 1.029 | Slowly destroy small, dense patches of rocks |
+
+### TPG based on based on Dwarf purchase price
+
+| Explosive | Tiles Affected | Dwarf Purchase Price | TPG | Use |
+| --------- | -------------- | --------------------------- | --- | --- |
+| [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo) (requires a Slingshot) | 21 | 60g (300g for a stack of five) | 0.35 | Quickly destroy small, dense patches of rocks |
+| [Mega Bombs](https://stardewvalleywiki.com/Mega_Bomb) | 197 | 1000g | 0.197 | Slowly destroy huge, dense patches of rocks |
+| [Bombs](https://stardewvalleywiki.com/Bomb) | 96 | 600g | 0.16 | Slowly destroy large, dense patches of rocks |
+| [Cherry Bomb](https://stardewvalleywiki.com/Cherry_Bomb) | 36 | 300g | 0.12 | Slowly destroy small, dense patches of rocks |
+
 ## The Mines
 
 ### Reaching floor 120 of The Mines
@@ -76,18 +98,6 @@ Trade with the Desert Trader for very useful items:
   - Any floor where you hit a dead-end and there are no additional rocks to break
 - On floors with a chest, the game will always give you one visible ladder. Break the few remaining rocks in the hopes of quickly uncovering a hole.
 - See [BlaDe's spreadsheet](https://docs.google.com/spreadsheets/d/19c3V-XkhFh-4UQSRIpXdvgngZ0Ex9F7REOeay7MVVvE) for detailed information about Ore spawning rates
-
-### Explosives
-
-Proper use of Explosives is critical to being as time- and resource-efficient as possible. Each Explosive has a different Tiles per G (TPG) ratio. There are three Explosives you will use in Skull Cavern:
-
-| Explosive | Tiles Affected | TPG | Use |
-| --------- | --------------- | --- | --- |
-| [Bombs](https://stardewvalleywiki.com/Bomb) | 96 | 1.745 | Slowly destroy large, dense patches of rocks |
-| [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo) (requires a [Slingshot](https://stardewvalleywiki.com/Weapons#Slingshot)) | 21 | 1.3125 | Quickly destroy small, dense patches of rocks |
-| [Mega Bombs](https://stardewvalleywiki.com/Mega_Bomb) | 197 | 1.037 | Slowly destroy huge, dense patches of rocks |
-
-Each Explosive has different crafting requirements. Be sure you keep enough Resources in your inventory to be able to craft any of the three at any time.
 
 ### Diamond and Jade farming
 
