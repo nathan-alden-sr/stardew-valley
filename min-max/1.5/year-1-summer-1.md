@@ -22,6 +22,12 @@
 - After every [stormy](https://stardewvalleywiki.com/Weather) day, be sure to gather any [Battery Packs](https://stardewvalleywiki.com/Battery_Pack) from Lightning Rods. Lightning Rods cannot intercept lightning strikes if a Battery Pack is available to be gathered.
 - The latest that [Summer Crops Bundle](https://stardewvalleywiki.com/Bundles#Summer_Crops_Bundle) crops may be planted is Spring 21, assuming Deluxe Speed-Gro is used.
 - Acquire a [Rare Seed](https://stardewvalleywiki.com/Rare_Seed) from the Traveling Cart before Fall. You can plant the Rare Seed as soon as Fall Arrives to acquire a [Sweet Gem Berry](https://stardewvalleywiki.com/Sweet_Gem_Berry) before Fall ends. Give the Sweet Gem Berry to [Old Master Cannoli](https://stardewvalleywiki.com/Old_Master_Cannoli) in the Secret Woods to receive a Stardrop.
+- Certain difficult-to-obtain items are needed to complete various Bundles:
+  - Try to purchase and plant an [Apple Sapling](https://stardewvalleywiki.com/Apple_Sapling) at least three days before the end of Summer for the [Fodder Bundle](https://stardewvalleywiki.com/Bundles#Fodder_Bundle) and [Artisan Bundle](https://stardewvalleywiki.com/Bundles#Artisan_Bundle)
+  - Try to purchase and plant a [Pomegranate Sapling](https://stardewvalleywiki.com/Apple_Sapling) at least two days before the end of Summer for the Artisan Bundle  and the [Enchanter's Bundle](https://stardewvalleywiki.com/Bundles#Enchanters_Bundle)
+  - Try to purchase a [Deluxe Barn](https://stardewvalleywiki.com/Barn)
+    - Try to purchase at least one [Pig](https://stardewvalleywiki.com/Pig) for the [Chef's Bundle](https://stardewvalleywiki.com/Bundles#Chefs_Bundle) and optionally the [Artisan Bundle](https://stardewvalleywiki.com/Bundles#Artisan_Bundle)
+      - Be sure to leave the Deluxe Barn's door open so the Pig may find [Truffles](https://stardewvalleywiki.com/Truffle)
 
 ## Instructions
 

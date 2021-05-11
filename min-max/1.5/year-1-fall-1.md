@@ -13,6 +13,10 @@
 
 - You need to wait for the Wheat to finish growing.
 - Try and reach Foraging level 10 by [Winter](https://stardewvalleywiki.com/Winter) 1. When you do, choose the [Tracker](https://stardewvalleywiki.com/Foraging#Foraging_Skill) profession so that Artifact Spots are more visible. Consider planting a Tree forest with your remaining Tree Seeds, then chopping them all down once grown.
+- Certain difficult-to-obtain items are needed to complete various Bundles:
+  - Try to purchase at least one [Cow](https://stardewvalleywiki.com/Cow) and one [Goat](https://stardewvalleywiki.com/Goat) for the [Animal Bundle](https://stardewvalleywiki.com/Bundles#Animal_Bundle)
+  - Try to construct a [Big Coop](https://stardewvalleywiki.com/Coop)
+    - Try to purchase at least one [Chicken](https://stardewvalleywiki.com/Chicken) and one [Duck](https://stardewvalleywiki.com/Duck) for the Animal Bundle
 
 ## Instructions
 
