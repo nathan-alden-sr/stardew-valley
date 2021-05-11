@@ -27,6 +27,12 @@ These cells do not affect any other cells.
 
 The *Bundles* tab is used to track items you need for every bundle. Items that occur in multiple bundles are also listed to remind you to collect more than one of certain items.
 
+## *Museum* tab
+
+![Museum Tab](images/museum-tab.png)
+
+The *Museum* tab is used to track items you need for the [Museum](https://stardewvalleywiki.com/Museum).
+
 ## *Generic Item Table* tab
 
 ![Item Tables](images/generic-item-table-tab.png)
