@@ -46,7 +46,6 @@
      - Chub for eating if you took them with you yesterday
      - The fish you took with you if you are visiting the Fish Shop to purchase more Bait
   3. If you don't need to visit the Fish Shop to purchase more Bait, travel to The Mountain and skip to [The Mountain](#the-mountain) section below.
-  4. Skip to [The Mountain](#the-mountain) section below.
 
 ### The Beach
 

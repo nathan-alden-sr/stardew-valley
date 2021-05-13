@@ -120,12 +120,12 @@ Instructions:
    - Hoe
    - Purchased Seeds
    - Watering Can
-2. Till, plant, and water crops
+2. Till, plant, and water crops.
 3. Deposit your entire inventory into the Chest. Withdraw the following:
    - Furnace
    - 25 Iron Ore
    - Up to 25 Gold Ore
-   - 11 Coal
+   - 10 Coal
    - Chub
 4. Travel to The Mountain fishing spot.
 
