@@ -12,12 +12,12 @@ I created a [spreadsheet](spreadsheet.md) in [LibreOffice Calc](https://www.libr
 
 The guide occasionally includes links to specific crop plans generated in the amazing [Stardew Planner](https://stardew.info/planner) tool. These plans are invaluable for quickly knowing where exactly to till or place [Sprinklers](https://stardewvalleywiki.com/Crafting#Sprinklers) and [Scarecrows](https://stardewvalleywiki.com/Scarecrow). Mixed Seeds are depicted by a generic crop icon.
 
-- [Rice Shoots crop planner](https://stardew.info/planner/21-full-sheep-listened-cordially)
-- [Parsnips crop planner](https://stardew.info/planner/31-soft-stoats-played-easily)
-- [First Kale crop planner](https://stardew.info/planner/13-high-guinea-pigs-engaged-easily)
-- [Second Kale crop planner](https://stardew.info/planner/29-high-moths-ran-jovially)
-- [Starfruit crop planner](https://stardew.info/planner/2-afraid-otters-whispered-easily)
-- [Pumpkin crop planner](https://stardew.info/planner/11-free-goats-sat-cordially)
+- [Rice Shoots crop planner](https://stardew.info/planner/7-strong-snails-fought-easily)
+- [Parsnips crop planner](https://stardew.info/planner/31-close-kingfishers-hugged-merrily)
+- [First Kale crop planner](https://stardew.info/planner/34-useful-deer-married-easily/)
+- [Second Kale crop planner](https://stardew.info/planner/15-rich-goats-whimpered-merrily)
+- [Starfruit crop planner](https://stardew.info/planner/29-clean-pigeons-felt-cordially)
+- [Pumpkin crop planner](https://stardew.info/planner/27-healthy-pikes-floundered-cordially)
 
 ## General strategies
 

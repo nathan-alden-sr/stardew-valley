@@ -47,7 +47,7 @@
 2. Water the Bean Starter and Mixed Seed crops.
 3. Harvest the first Kale crop.
    - You should reach Farming level 2.
-4. Start tilling Kale Seed planting spots in an interlocked Sprinkler pattern. Check the spreadsheet to see how many Sprinklers are necessary for the number of Kale Seeds you need to plant. See the [second Kale crop planner](https://stardew.info/planner/29-high-moths-ran-jovially) for a suggested plan. Mixed Seeds are depicted by a generic crop icon.
+4. Start tilling Kale Seed planting spots in an interlocked Sprinkler pattern. Check the spreadsheet to see how many Sprinklers are necessary for the number of Kale Seeds you need to plant. See the [second Kale crop planner](https://stardew.info/planner/15-rich-goats-whimpered-merrily) for a suggested plan. Mixed Seeds are depicted by a generic crop icon.
 5. Stop work at 8:00 am.
 6. If you need to sell fish then travel to the Fish Shop; otherwise, travel to the Blacksmith and skip to the [Pelican Town](#pelican-town) section below.
 

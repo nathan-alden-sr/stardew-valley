@@ -23,7 +23,7 @@
 - You must mine and store at least one [Stone](https://stardewvalleywiki.com/Stone) at some point during the day for Spring 2.
 - Pause often! It's instantaneous, free, and allows you to think.
 - Use the spreadsheet's *Y1-Sp Farming XP Planning* tab to track the planting of all Spring crops.<br />![Y1-Sp Farming XP Planning](images/y1-sp-farming-xp-planning.png)
-- Throughout your travels you will almost certainly come across [Rice Shoots](https://stardewvalleywiki.com/Rice_Shoot). These should be planted as soon as you are able. See the [Rice Shoots crop planner](https://stardew.info/planner/21-full-sheep-listened-cordially) for a suggested plan.
+- Throughout your travels you will almost certainly come across [Rice Shoots](https://stardewvalleywiki.com/Rice_Shoot). These should be planted as soon as you are able. See the [Rice Shoots crop planner](https://stardew.info/planner/7-strong-snails-fought-easily) for a suggested plan.
 - Any time you acquire a new item, check the spreadsheet to see if it is used in a Bundle. If it is, be sure to keep one of the item.
 - Any time you learn a profession, update the profession choice in the spreadsheet, if applicable.
 - In order to make the [Vault Bundles](https://stardewvalleywiki.com/Bundles#Vault) accessible on Spring 15, you will need to have all items necessary to complete the [Spring Foraging Bundle](https://stardewvalleywiki.com/Bundles#Spring_Foraging_Bundle) and [Spring Crops Bundle](https://stardewvalleywiki.com/Bundles#Spring_Crops_Bundle) by that day.
@@ -190,7 +190,7 @@ Instructions:
    - Parsnip Seeds
    - [Mixed Seeds](https://stardewvalleywiki.com/Mixed_Seeds)
 3. Clear enough ground to plant 15 Parsnip Seeds and whatever Mixed Seeds you carry, plus a few more spots for Mixed Seeds in case you gather more shortly.
-   - See the [Parsnips crop planner](https://stardew.info/planner/31-soft-stoats-played-easily) for a suggested plan. Mixed Seeds are depicted by a generic crop icon.
+   - See the [Parsnips crop planner](https://stardew.info/planner/31-close-kingfishers-hugged-merrily) for a suggested plan. Mixed Seeds are depicted by a generic crop icon.
 4. Plant and water Parsnip Seeds and Mixed Seeds. Acorn locations are depicted by a stump.
 5. Fell Trees until you have around four to six [Energy](https://stardewvalleywiki.com/Energy). The remaining Energy will be useful if you gather more Mixed Seeds shortly.
    - If you don't have enough Energy to fully fell a Tree, spend the Energy mining rocks or chopping a stump.
