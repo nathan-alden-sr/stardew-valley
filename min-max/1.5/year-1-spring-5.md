@@ -50,11 +50,11 @@
    - All Iron Ore
    - All Gold Ore
    - All Coal
-   - All Gems
+   - All Gems except Diamonds, Emeralds, Jade, and Rubies
+     - These Gems are needed for Skull Cavern runs.
    - All Stone
    - All but three Parsnips
      - You need one for the Spring Crops Bundle, optionally one to ship, and optionally one for Pam.
-   - Do not withdraw any Diamonds, Emeralds, Jade, or Rubies as you need them for Skull Cavern trips.
 10. Travel to The Mines.
 
 ### The Mines
