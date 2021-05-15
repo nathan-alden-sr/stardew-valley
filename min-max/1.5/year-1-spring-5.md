@@ -110,7 +110,7 @@ Instructions:
    - One Bean Starter
    - One Potato Seed if you did not get one from a Mixed Seed
    - [Kale Seeds](https://stardewvalleywiki.com/Kale_Seeds) with the remainder of your G
-     - You must purchase and plant enough Kale Seeds to reach Farming level 2 on Spring 11.
+     - You must purchase and plant enough Kale Seeds to reach Farming level 2 on Spring 13 at day's end.
      - In rare cases, you will have far more G on this day than you should spend on Kale Seeds (e.g., if you sold a [Treasure Chest](https://stardewvalleywiki.com/Treasure_Chest) that you acquired from a fishing chest). In these cases, use your judgment about how many Kale Seeds are reasonable to plant and water. Be sure to account for the extra Seeds in your crop planner. Consider using extra money to purchase the first [Backpack](https://stardewvalleywiki.com/Tools#Other_Tools) upgrade now.
 7. Travel to The Farm.
 
