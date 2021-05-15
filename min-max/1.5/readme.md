@@ -42,6 +42,8 @@ Refer to the following guides for general strategies that are not day-specific:
 3. Unlock [Skull Cavern](https://stardewvalleywiki.com/Skull_Cavern) as soon as possible
 4. Once Skull Cavern is unlocked, smelt and sell [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar) for maximum G income
 5. During Year 1, Summer, harvest three crops of [Starfruit](https://stardewvalleywiki.com/Starfruit) grown with [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) and watered with [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler)
+6. During Year 1, Fall, harvest three crops of [Pumpkin](https://stardewvalleywiki.com/Pumpkin) grown with [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) and watered preferably with [Iridium Sprinklers](https://stardewvalleywiki.com/Iridium_Sprinkler)
+7. Complete all [Community Center Bundles](https://stardewvalleywiki.com/Bundles) as soon as possible
 
 ## Daily guide
 
