@@ -25,6 +25,7 @@
 Advice and warnings:
 
 - Your only Farm Chest may be getting full by this point. If so, fell Trees for an additional 50 Wood and craft a second Chest. Place it next to the first Chest.
+- If today is raining, the Community Center cutscene will not trigger. You will have to delay the triggering until the next dry day and the visit to the [Wizard's Tower](https://stardewvalleywiki.com/Wizard%27s_Tower) until the day after that.
 
 Instructions:
 
