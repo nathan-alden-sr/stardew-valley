@@ -42,9 +42,7 @@
   2. Deposit your entire inventory into The Farm Chest. Withdraw the following:
      - Fiberglass Rod
      - The newly-crafted Chest
-     - The Hoe if you still need an Artifact and you are traveling to the Fish Shop to purchase more Bait
      - Chub for eating if you took them with you yesterday
-     - The fish you took with you if you are visiting the Fish Shop to purchase more Bait
   3. Skip to [The Mountain](#the-mountain) section below.
 
 ### The Beach
