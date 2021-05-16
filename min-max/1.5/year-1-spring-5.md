@@ -38,13 +38,12 @@
 
 1. From now on, check the Television at the start of every day to reveal today's [Luck](https://stardewvalleywiki.com/Luck).
 2. If it's not raining, then choose to accept or decline the [Pet](https://stardewvalleywiki.com/Animals#Cat_or_Dog). See the [Pet guide](pets.md).
-3. Harvest the Parsnip crop and use the spreadsheet to track how many you harvested. The count will be used in Experience calculations later.
-4. If you followed the Parsnip crop planner then your Mixed Seeds were kept separate from your 15 Parsnips. Compare the crops' appearance with images on the Stardew Wiki to see if the crop is a Cauliflower or a [Potato](https://stardewvalleywiki.com/Potato). If you do not have a Cauliflower then you will not be able to complete the Spring Crops Bundle on Spring 15 as it is too late to plant a Cauliflower and have it mature by that day.
-5. Claim the Parsnip harvesting reward of 100g in your journal.
-6. Do not water any crops until the guide instructs you to.
-7. Craft a Chest and keep it in your inventory.
-8. Use the spreadsheet to track how many Iron Ore and Gold Ore you have (they are sometimes acquired from fishing chests). The count will be used in purchasing calculations later.
-9. Deposit your entire inventory into The Farm Chest. Withdraw the following:
+3. Harvest the Parsnip crop.
+4. Claim the Parsnip harvesting reward of 100g in your journal if you do not have enough G to purchase Iron Ore and Gold Ore later.
+5. Do not water any crops until the guide instructs you to.
+6. Craft a Chest and keep it in your inventory.
+7. Use the spreadsheet to track how many Iron Ore and Gold Ore you have (they are sometimes acquired from fishing chests). The count will be used in purchasing calculations later.
+8. Deposit your entire inventory into The Farm Chest. Withdraw the following:
    - Pickaxe
    - All Copper Ore
    - All Iron Ore
@@ -55,7 +54,7 @@
    - All Stone
    - All but three Parsnips
      - You need one for the Spring Crops Bundle, optionally one to ship, and optionally one for Pam.
-10. Travel to The Mines.
+9. Travel to The Mines.
 
 ### The Mines
 
