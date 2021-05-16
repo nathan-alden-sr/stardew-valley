@@ -43,7 +43,7 @@
 5. Claim the Parsnip harvesting reward of 100g in your journal.
 6. Do not water any crops until the guide instructs you to.
 7. Craft a Chest and keep it in your inventory.
-8. Use the spreadsheet to track how many [Iron Ore](https://stardewvalleywiki.com/Iron_Ore) and [Gold Ore](https://stardewvalleywiki.com/Gold_Ore) you have (they are sometimes acquired from fishing chests). The count will be used in purchasing calculations later.
+8. Use the spreadsheet to track how many Iron Ore and Gold Ore you have (they are sometimes acquired from fishing chests). The count will be used in purchasing calculations later.
 9. Deposit your entire inventory into The Farm Chest. Withdraw the following:
    - Pickaxe
    - All Copper Ore

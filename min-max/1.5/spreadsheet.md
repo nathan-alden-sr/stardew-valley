@@ -51,9 +51,9 @@ The guide often requires that you fill your inventory with the most valuable ite
 
 ![Sorting Item Tables](images/sorting-item-tables.png)
 
-### Determining exactly what items must be shipped to reach a daily target G
+### Determining exactly what items must be shipped to reach a daily G target
 
-Sometimes, the guide requires that you ship enough items to reach a certain target G for the following day. The principle is that by keeping G as close to zero as possible, a minimum amount of G will be lost due to the 10% penalty for passing out.
+Sometimes, the guide requires that you ship enough items to reach a certain G target for the following day. The principle is that by keeping G as close to zero as possible, a minimum amount of G will be lost due to the 10% penalty for passing out.
 
 ![Shipping Targets](images/shipping-targets.png)
 
@@ -67,7 +67,7 @@ The *G in Inventory* cell tracks how much G you have in your inventory at that p
 
 The *Passing Out?* choice will apply a passing out penalty of 10% to the G in Inventory if you choose *Yes*. The final amount is represented by the *G at Day's End* cell.
 
-*G Needed* indicates what the target G for the following day is.
+*G Needed* indicates what the G target for the following day is.
 
 *G Remaining* indicates how much more G you need to ship to reach the target. When the value is negative, it means you will have shipped more than is necessary. Usually, this is unavoidable but careful selection of the items you ship can minimize the extra income.
 

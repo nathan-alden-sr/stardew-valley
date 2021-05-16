@@ -75,7 +75,9 @@
 
 ### The Farm (2)
 
-1. Ship all sellable items except for the following:
+1. Determine how many [Iron Ore](https://stardewvalleywiki.com/Iron_Ore) and [Gold Ore](https://stardewvalleywiki.com/Gold_Ore) you have. Tomorrow, you will be purchasing enough so that you have up to 25 of each.
+2. Use the spreadsheet to calculate the items you need to ship to purchase up to 25 Iron Ore and Gold Ore. In this case, it's okay if you do not reach the G target.
+3. Ship enough items to purchase the Iron Ore and Gold Ore tomorrow. Do not ship the following:
    - All Chub (you'll be eating them for Energy)
    - One of each fish that is used in Community Center Bundles
    - All Ore
@@ -83,8 +85,8 @@
    - All [Diamonds](https://stardewvalleywiki.com/Diamond), [Emeralds](https://stardewvalleywiki.com/Emerald), [Jade](https://stardewvalleywiki.com/Jade), and [Rubies](https://stardewvalleywiki.com/Ruby) for future [Skull Cavern](https://stardewvalleywiki.com/Skull_Cavern) trips
    - Consider keeping items that don't sell for much (e.g., Wood). Gathering Wood at this point is Energy-intensive and time-consuming and each Wood only sells for 2g.
    - Consider keeping certain rare Artifacts like [Ancient Seed](https://stardewvalleywiki.com/Ancient_Seed) or other Artifacts that don't sell for much. They can be used later to complete your Museum collection.
-2. If time allows, cut Weeds and Grass.
-3. Pass out.
+4. If time allows, cut Weeds and Grass.
+5. Pass out.
 
 ## Day's end
 
