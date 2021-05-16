@@ -37,7 +37,7 @@
 ### The Farm (1)
 
 1. From now on, check the Television at the start of every day to reveal today's [Luck](https://stardewvalleywiki.com/Luck).
-2. Choose to accept or decline the pet. See the [Pet guide](pets.md).
+2. If it's not raining, then choose to accept or decline the [Pet](https://stardewvalleywiki.com/Animals#Cat_or_Dog). See the [Pet guide](pets.md).
 3. Harvest the Parsnip crop and use the spreadsheet to track how many you harvested. The count will be used in Experience calculations later.
 4. If you followed the Parsnip crop planner then your Mixed Seeds were kept separate from your 15 Parsnips. Compare the crops' appearance with images on the Stardew Wiki to see if the crop is a Cauliflower or a [Potato](https://stardewvalleywiki.com/Potato). If you do not have a Cauliflower then you will not be able to complete the Spring Crops Bundle on Spring 15 as it is too late to plant a Cauliflower and have it mature by that day.
 5. Claim the Parsnip harvesting reward of 100g in your journal.
