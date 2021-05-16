@@ -49,7 +49,7 @@
    - All Iron Ore
    - All Gold Ore
    - All Coal
-   - All Gems except Diamonds, Emeralds, Jade, and Rubies
+   - Uf you do not have enough G to purchase Iron Ore and Gold Ore later, then all Gems except Diamonds, Emeralds, Jade, and Rubies
      - Diamonds, Emeralds, Jade, and Rubies are needed for Skull Cavern runs.
    - All Stone
    - All but three Parsnips
