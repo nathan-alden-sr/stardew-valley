@@ -17,6 +17,10 @@
 
 ## Advice and warnings
 
+- Spring 3 can be especially challenging, specifically for the following:
+  - The number of biting Catfish
+  - The difficulty of each Catfish to catch (some Catfish patterns are virtually impossible to catch at your current Fishing level)
+  - Consider fishing at The Mountain, instead, if you are unable to catch enough Catfish to make fishing at Cindersap Forest worth it. (Research ongoing)
 - At least one [Cauliflower Seed](https://stardewvalleywiki.com/Cauliflower_Seeds) must be planted by this day, watered every single day, and not eaten by [Crows](https://stardewvalleywiki.com/Animals#Crows) in order to successfully complete the Spring Crops Bundle on Spring 15. Usually, you will plant enough Mixed Seeds on Spring 1 to randomly give at least one [Cauliflower](https://stardewvalleywiki.com/Cauliflower), but it is possible for your run to end here.
 - The Weather is always [rainy](https://stardewvalleywiki.com/Weather) on Spring 3. When raining, the river in Cindersap Forest is the best place to fish due to the presence of Catfish, which yield a lot of Experience and G.
 
