@@ -27,7 +27,7 @@
 
 - If you are purchasing more Bait at the Fish Shop:
 
-  1. If you do not have 100 Wood, withdraw the Axe and Scythe from the Chest and fell Trees in the same manner as before until you have 150 Wood. You can fell Oak Trees now that they will drop Acorns.
+  1. If you do not have 100 Wood, withdraw the Axe and Scythe from the Chest and fell Trees in the same manner as before until you have 100 Wood. You can fell Oak Trees now that they will drop Acorns.
      - The 100 Wood is for one more Chest and a [Scarecrow](https://stardewvalleywiki.com/Scarecrow).
   2. Deposit your entire inventory into The Farm Chest. Withdraw the following:
      - Fiberglass Rod
