@@ -24,26 +24,28 @@
 
 1. Deposit your entire inventory into the Chest. Withdraw the Watering Can.
 2. Water crops.
-3. If you do not have 150 Wood, withdraw the Axe and Scythe from the Chest and fell Trees in the same manner as before until you have 150 Wood. You can fell Oak Trees now that they will drop Acorns.
-   - The 150 Wood is for two more Chests and a [Scarecrow](https://stardewvalleywiki.com/Scarecrow).
 
 - If you are purchasing more Bait at the Fish Shop:
 
-  1. Deposit your entire inventory into The Farm Chest. Withdraw the following:
+  1. If you do not have 100 Wood, withdraw the Axe and Scythe from the Chest and fell Trees in the same manner as before until you have 150 Wood. You can fell Oak Trees now that they will drop Acorns.
+     - The 100 Wood is for one more Chest and a [Scarecrow](https://stardewvalleywiki.com/Scarecrow).
+  2. Deposit your entire inventory into The Farm Chest. Withdraw the following:
      - Fiberglass Rod
      - The Hoe if you still need an Artifact
      - Chub for eating if you took them with you yesterday
      - The fish you took with you yesterday for the Bait purchase
-  2. Skip to [The Beach](#the-beach) section below.
+  3. Skip to [The Beach](#the-beach) section below.
 
 - If you are not purchasing more Bait at the Fish Shop:
 
-  1. Craft a Chest and keep it in your inventory.
-  2. Deposit your entire inventory into The Farm Chest. Withdraw the following:
+  1. If you do not have 150 Wood, withdraw the Axe and Scythe from the Chest and fell Trees in the same manner as before until you have 150 Wood. You can fell Oak Trees now that they will drop Acorns.
+     - The 150 Wood is for one more Chest and a [Scarecrow](https://stardewvalleywiki.com/Scarecrow).
+  2. Craft a Chest and keep it in your inventory.
+  3. Deposit your entire inventory into The Farm Chest. Withdraw the following:
      - Fiberglass Rod
      - The newly-crafted Chest
      - Chub for eating if you took them with you yesterday
-  3. Skip to [The Mountain](#the-mountain) section below.
+  4. Skip to [The Mountain](#the-mountain) section below.
 
 ### The Beach
 
