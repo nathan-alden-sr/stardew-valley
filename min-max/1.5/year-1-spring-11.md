@@ -1,4 +1,4 @@
-# Year 1, Spring 11
+# Spring 11, Year 1
 
 | M                          | Tu                        | W                         | Th                        | F                         | Sa                        | Su                        |
 | -------------------------- | ------------------------- | ------------------------- | ------------------------- |-------------------------- | ------------------------- | ------------------------- |
@@ -44,6 +44,7 @@
    - Hoe
    - Watering Can
    - If you did not ship any fish yesterday, enough fish to purchase half the Kale Seeds
+   - Consider taking Museum items to the Museum.
 2. Water the Bean Starter and Mixed Seed crops.
 3. Harvest the first Kale crop.
    - You should reach Farming level 2.
@@ -107,4 +108,4 @@
 
 | Yesterday                                   | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
-| [⟵ Year 1, Spring 10](year-1-spring-10.md) | **Year 1, Spring 11** | [Year 1, Spring 12 ⟶](year-1-spring-12.md) |
+| [⟵ Spring 10, Year 1](year-1-spring-10.md) | **Spring 11, Year 1** | [Spring 12, Year 1 ⟶](year-1-spring-12.md) |

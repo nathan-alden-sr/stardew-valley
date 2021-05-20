@@ -1,4 +1,4 @@
-# Year 1, Spring 16
+# Spring 16, Year 1
 
 | M                          | Tu                        | W                         | Th                        | F                         | Sa                        | Su                        |
 | -------------------------- | ------------------------- | ------------------------- | ------------------------- |-------------------------- | ------------------------- | ------------------------- |
@@ -15,7 +15,7 @@
 
 ## Advice and warnings
 
-- If you have completed all Bundle and Sprinkler requirements, you may begin Skull Cavern runs. See [Year 1, Spring 17](year-1-spring-17.md) for advice and warnings.
+- If you have completed all Bundle and Sprinkler requirements, you may begin Skull Cavern runs. See [Spring 17, Year 1](year-1-spring-17.md) for advice and warnings.
 
 ## Instructions
 
@@ -50,4 +50,4 @@
 
 | Yesterday                                   | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
-| [⟵ Year 1, Spring 15](year-1-spring-15.md) | **Year 1, Spring 16** | [Year 1, Spring 17 ⟶](year-1-spring-17.md) |
+| [⟵ Spring 15, Year 1](year-1-spring-15.md) | **Spring 16, Year 1** | [Spring 17, Year 1 ⟶](year-1-spring-17.md) |

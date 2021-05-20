@@ -111,4 +111,4 @@ As you craft [Crystalariums](https://stardewvalleywiki.com/Crystalarium), you wi
 
 ### Iridium Pickaxe
 
-Don't upgrade to the [Iridium Pickaxe](https://stardewvalleywiki.com/Pickaxes) until Year 1, Summer. You will lose too much income not running Skull Cavern for up to two days.
+Don't upgrade to the [Iridium Pickaxe](https://stardewvalleywiki.com/Pickaxes) until Summer, Year 1. You will lose too much income not running Skull Cavern for up to two days.

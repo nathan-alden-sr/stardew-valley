@@ -41,13 +41,13 @@ Refer to the following guides for general strategies that are not day-specific:
 2. Upgrade the [Pickaxe](https://stardewvalleywiki.com/Pickaxes) to the Gold Pickaxe as soon as possible
 3. Unlock [Skull Cavern](https://stardewvalleywiki.com/Skull_Cavern) as soon as possible
 4. Once Skull Cavern is unlocked, smelt and sell [Iridium Bars](https://stardewvalleywiki.com/Iridium_Bar) for maximum G income
-5. During Year 1, Summer, harvest three crops of [Starfruit](https://stardewvalleywiki.com/Starfruit) grown with [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) and watered with [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler)
-6. During Year 1, Fall, harvest three crops of [Pumpkin](https://stardewvalleywiki.com/Pumpkin) grown with [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) and watered preferably with [Iridium Sprinklers](https://stardewvalleywiki.com/Iridium_Sprinkler)
+5. During Summer, Year 1, harvest three crops of [Starfruit](https://stardewvalleywiki.com/Starfruit) grown with [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) and watered with [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler)
+6. During Fall, Year 1, harvest three crops of [Pumpkin](https://stardewvalleywiki.com/Pumpkin) grown with [Deluxe Speed-Gro](https://stardewvalleywiki.com/Deluxe_Speed-Gro) and watered preferably with [Iridium Sprinklers](https://stardewvalleywiki.com/Iridium_Sprinkler)
 7. Complete all [Community Center Bundles](https://stardewvalleywiki.com/Bundles) as soon as possible
 
 ## Daily guide
 
-### Year 1, Spring
+### Spring, Year 1
 
 | M                          | Tu                        | W                         | Th                        | F                         | Sa                        | Su                        |
 | -------------------------- | ------------------------- | ------------------------- | ------------------------- |-------------------------- | ------------------------- | ------------------------- |
@@ -56,7 +56,7 @@ Refer to the following guides for general strategies that are not day-specific:
 | [15](year-1-spring-15.md)  | [16](year-1-spring-16.md) | [17](year-1-spring-17.md) | [18](year-1-spring-18.md) | [19](year-1-spring-19.md) | [20](year-1-spring-20.md) | [21](year-1-spring-21.md) |
 | [22](year-1-spring-22.md)  | [23](year-1-spring-23.md) | [24](year-1-spring-24.md) | [25](year-1-spring-25.md) | [26](year-1-spring-26.md) | [27](year-1-spring-27.md) | [28](year-1-spring-28.md) |
 
-### Year 1, Summer
+### Summer, Year 1
 
 | M                          | Tu                        | W                         | Th                        | F                         | Sa                        | Su                        |
 | -------------------------- | ------------------------- | ------------------------- | ------------------------- |-------------------------- | ------------------------- | ------------------------- |
@@ -65,7 +65,7 @@ Refer to the following guides for general strategies that are not day-specific:
 |                            |                           |                           |                           | [19](year-1-summer-19.md) | [20](year-1-summer-20.md) | [21](year-1-summer-21.md) |
 |                            |                           | [24](year-1-summer-24.md) | [25](year-1-summer-25.md) | [26](year-1-summer-26.md) | [27](year-1-summer-27.md) | [28](year-1-summer-28.md) |
 
-### Year 1, Fall
+### Fall, Year 1
 
 | M                          | Tu                        | W                         | Th                        | F                         | Sa                        | Su                        |
 | -------------------------- | ------------------------- | ------------------------- | ------------------------- |-------------------------- | ------------------------- | ------------------------- |
@@ -74,7 +74,7 @@ Refer to the following guides for general strategies that are not day-specific:
 |                            |                           |                           | [18](year-1-fall-18.md)   | [19](year-1-fall-19.md)   |                           | [21](year-1-fall-14.md)   |
 |                            |                           |                           |                           |                           |                           | [28](year-1-fall-28.md)   |
 
-### Year 1, Winter
+### Winter, Year 1
 
 | M                          | Tu                        | W                         | Th                        | F                         | Sa                        | Su                        |
 | -------------------------- | ------------------------- | ------------------------- | ------------------------- |-------------------------- | ------------------------- | ------------------------- |
