@@ -11,7 +11,7 @@
 
 ## Instructions
 
-1. At 9:00 am, withdraw five Iron Bars and the Hoe from Chests. Travel to the Blacksmith and receive the Steel Axe. Upgrade the Hoe to the Copper Hoe for 2,000g.
+1. At 9:00 am, withdraw five Copper Bars and the Hoe from Chests. Travel to the Blacksmith and receive the Steel Axe. Upgrade the Hoe to the Copper Hoe for 2,000g.
    - The Steel Axe makes clearing Trees, stumps, and branches much more efficient. Consider using a day where the spirits are very displeased to clear The Farm and prepare for the Starfruit crop. You will need to complete these activities on Spring 27 at the latest, even if the spirits are not very displeased.
 
 | Yesterday                                   | Today                 | Tomorrow                                    |
