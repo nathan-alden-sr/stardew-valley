@@ -14,7 +14,7 @@
 1. The spreadsheet will tell you approximately how many Deluxe Speed-Gro and Starfruit Seeds you can purchase today. If you shipped more items than Iridium Bars yesterday, you will be able to purchase even more Starfruit Seeds. Your goal is to purchase the remaining Starfruit Seeds on Summer 2.
 2. At 9:00 am, withdraw five Iron Bars and from Chests. Travel to the Blacksmith and receive the Copper Hoe. Upgrade the Copper Hoe to the Steel Hoe for 5,000g.
 3. Travel to the [Oasis](https://stardewvalleywiki.com/Oasis) and purchase one Deluxe Speed-Gro for every Starfruit Seed you will plant. Spend the remaining G on Starfruit Seeds so that you will not lose much G if you pass out.
-   - Deluxe Speed-Gro is sold only on Thursdays.
+   - Deluxe Speed-Gro is sold at an 80% discount on Thursdays.
 
 | Yesterday                                   | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
