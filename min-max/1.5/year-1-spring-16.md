@@ -33,7 +33,7 @@
 - Use the spreadsheet's *Y1-Sp Starfruit Planning* tab to track all necessary items for those activities.
 - Coal in particular is a bottleneck for this part of the run. Avoid smelting Bars or crafting [Bombs](https://stardewvalleywiki.com/Bomb) or [Explosive Ammo](https://stardewvalleywiki.com/Explosive_Ammo) unnecessarily.
 - Prioritize smelting Iridium Bars over other Resources needed for Quality Sprinklers; the Iridium Bars are needed earlier than the Quality Sprinklers.
-- You need to begin preparing The Farm for Summer. The timing of when to do this depends on your preferences and how efficient you are. It is recommended that you wait until the end of Spring because you need to use the time before Spring 24 to earn as much income as possible for your first Starfruit Seeds purchase on Spring 25. See the [Starfruit crop planner](https://stardew.info/planner/29-clean-pigeons-felt-cordially) for a suggested plan.
+- You need to begin preparing The Farm for Summer. The timing of when to do this depends on your preferences and how efficient you are. It is recommended that you wait until the end of Spring because you need to use the time before Spring 24 to earn as much income as possible for your first Starfruit Seeds purchase on Spring 25. See the [Starfruit crop planner](https://stardew.info/planner/30-narrow-toads-hugged-merrily) for a suggested plan.
 
   Farm activities you need to perform:
   - Clearing Weeds, Grass, Stones, and branches where your Quality Sprinklers, Starfruit Seeds, and Scarecrows will go

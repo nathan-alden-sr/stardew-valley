@@ -12,7 +12,7 @@
 ## Advice and warnings
 
 - The Weather is always stormy on Summer 26.
-- Depending on the number of Pumpkins you wish to plant, you may need to begin clearing the Farm today. See the [Pumpkin crop planner](https://stardew.info/planner/27-healthy-pikes-floundered-cordially) for a suggested plan.
+- Depending on the number of Pumpkins you wish to plant, you may need to begin clearing the Farm today. See the [Pumpkin crop planner](https://stardew.info/planner/28-near-rats-danced-jovially) for a suggested plan.
 
 ## Instructions
 

@@ -16,8 +16,8 @@ The guide occasionally includes links to specific crop plans generated in the am
 - [Parsnips crop planner](https://stardew.info/planner/31-close-kingfishers-hugged-merrily)
 - [First Kale crop planner](https://stardew.info/planner/34-useful-deer-married-easily/)
 - [Second Kale crop planner](https://stardew.info/planner/15-rich-goats-whimpered-merrily)
-- [Starfruit crop planner](https://stardew.info/planner/29-clean-pigeons-felt-cordially)
-- [Pumpkin crop planner](https://stardew.info/planner/27-healthy-pikes-floundered-cordially)
+- [Starfruit crop planner](https://stardew.info/planner/30-narrow-toads-hugged-merrily)
+- [Pumpkin crop planner](https://stardew.info/planner/28-near-rats-danced-jovially)
 
 ## General strategies
 
