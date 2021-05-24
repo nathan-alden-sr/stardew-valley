@@ -11,7 +11,7 @@
 
 ## Instructions
 
-1. Immediately begin smelting Iridium Bars. You will need 25,000g to upgrade the Gold Pickaxe to the Iridium Pickaxe and optionally 10,000g for the Stable. The smelting should be complete at around 2:00 pm. If you are away from The Farm, be sure to return by 2:00 pm so you have enough time to visit the Blacksmith.
+1. Immediately begin smelting Iridium Bars if you did not reach your G targets yesterday. You will need 25,000g to upgrade the Gold Pickaxe to the Iridium Pickaxe and optionally 10,000g for the Stable. The smelting should be complete at around 2:00 pm. If you are away from The Farm, be sure to return by 2:00 pm so you have enough time to visit the Blacksmith.
 2. Craft and place as many Lightning Rods as is reasonable.
 3. Craft and place as many Tappers on Oak Trees as is reasonable.
 4. Continue to build up your Oak Tree farm by planting Acorns.
