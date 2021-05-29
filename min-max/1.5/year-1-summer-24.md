@@ -12,7 +12,7 @@
 ## Instructions
 
 1. Ship enough items to purchase enough Deluxe Speed-Gro to support a [Pumpkin](https://stardewvalleywiki.com/Pumpkin) crop.
-   - Deluxe Speed-Gro placed on tilled tiles dissipates after each season.
+   - Normally, Deluxe Speed-Gro or other soil amendments will dissipate after each season; however, if the crop planted on the tile does not die during the next season, the soil amendment will stay. This means you do not need to purchase Deluxe Speed-Gro for Starfruit tiles because you will be planting a linger crop of [Wheat](https://stardewvalleywiki.com/Wheat) that can grow in Fall.
 
 | Previous Day                                | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
