@@ -11,7 +11,7 @@
 
 ## Advice and warnings
 
-- As you craft Kegs, place them in the Farmhouse. Later, purchase [Big Sheds](https://stardewvalleywiki.com/Shed) from Robin and place them there. Once you unlock the [Quarry](https://stardewvalleywiki.com/Quarry), you may also place them there; however, you will need to place flooring first.
+- As you craft Kegs, place them in the Farmhouse. Later, purchase [Big Sheds](https://stardewvalleywiki.com/Shed) from the Carpenter's Shop and place them there. Once you unlock the [Quarry](https://stardewvalleywiki.com/Quarry), you may also place them there; however, you will need to place flooring first.
 
 ## Instructions
 

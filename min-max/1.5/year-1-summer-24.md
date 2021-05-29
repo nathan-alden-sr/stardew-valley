@@ -12,7 +12,7 @@
 ## Instructions
 
 1. Ship enough items to purchase enough Deluxe Speed-Gro to support a [Pumpkin](https://stardewvalleywiki.com/Pumpkin) crop.
-   - Tilled tiles that already have Deluxe Speed-Gro applied will not need any in Fall because you will plant a linger crop of [Wheat](https://stardewvalleywiki.com/Wheat) before the end of Summer.
+   - Deluxe Speed-Gro placed on tilled tiles dissipates after each season.
 
 | Previous Day                                | Today                 | Tomorrow                                    |
 | ------------------------------------------- | --------------------- | ------------------------------------------- |
