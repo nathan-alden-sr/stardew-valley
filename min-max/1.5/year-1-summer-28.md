@@ -9,6 +9,10 @@
 
 [Back to the guide summary](readme.md)
 
+## Advice and warnings
+
+- Any tilled tiles on which you are planting Wheat Seeds must be watered by today. If they aren't watered, the Wheat crop will not be ready for harvest on Fall 2.
+
 ## Instructions
 
 1. Check the Television to learn the [Bread](https://stardewvalleywiki.com/Bread) recipe from The Queen of Sauce.
