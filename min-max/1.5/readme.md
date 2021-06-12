@@ -82,3 +82,12 @@ Refer to the following guides for general strategies that are not day-specific:
 |                            |                           |                           |                           |                           |                           | [14](year-1-winter-14.md) |
 |                            |                           |                           |                           |                           |                           | [21](year-1-winter-21.md) |
 |                            |                           |                           |                           |                           |                           | [28](year-1-winter-28.md) |
+
+### Spring, Year 2
+
+| M                          | Tu                        | W                         | Th                        | F                         | Sa                        | Su                        |
+| -------------------------- | ------------------------- | ------------------------- | ------------------------- |-------------------------- | ------------------------- | ------------------------- |
+|                            |                           |                           |                           |                           |                           | [7](year-2-spring-7.md)   |
+|                            |                           |                           |                           |                           |                           | [14](year-2-spring-14.md) |
+|                            |                           |                           |                           |                           |                           | [21](year-2-spring-21.md) |
+|                            |                           |                           |                           |                           |                           | [28](year-2-spring-28.md) |
