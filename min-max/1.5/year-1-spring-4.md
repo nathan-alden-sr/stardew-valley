@@ -33,7 +33,7 @@
      - Fiberglass Rod
      - The Hoe if you still need an Artifact
      - Chub for eating if you took them with you yesterday
-     - The fish you took with you yesterday for the Bait purchase
+     - The Fish you took with you yesterday for the Bait purchase
   3. Skip to [The Beach](#the-beach) section below.
 
 - If you are not purchasing more Bait at the Fish Shop:
@@ -50,7 +50,7 @@
 ### The Beach
 
 1. Check the sand for forageables and Artifact Spots.
-2. Sell all fish and Beach forageables at the Fish Shop. Save the lowest-quality [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle).
+2. Sell all Beach forageables and Fish at the Fish Shop. Save the lowest-quality [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle).
    - You may need to make multiple trips to the Chest before it's empty. As soon as the Chest is empty and you have a free inventory slot, break the Chest and pick it up.
      - To break a Chest without a tool, select an empty slot in your inventory and hold down the left mouse button on the Chest. Your character will strike it repeatedly until it pops free.
 3. If you acquired a Copper Ore yesterday, purchase as much Bait as possible; otherwise, save 75g so you can purchase a Copper Ore from the Blacksmith later.
@@ -79,7 +79,7 @@
 2. Use the spreadsheet to calculate the items you need to ship to purchase up to 25 Iron Ore and Gold Ore. In this case, it's okay if you do not reach the G target.
 3. Ship enough items to purchase the Iron Ore and Gold Ore tomorrow. Do not ship the following:
    - All Chub (you'll be eating them for Energy)
-   - One of each fish that is used in Community Center Bundles
+   - One of each Fish that is used in Community Center Bundles
    - All Ore
    - All Coal
    - All [Diamonds](https://stardewvalleywiki.com/Diamond), [Emeralds](https://stardewvalleywiki.com/Emerald), [Jade](https://stardewvalleywiki.com/Jade), and [Rubies](https://stardewvalleywiki.com/Ruby) for future [Skull Cavern](https://stardewvalleywiki.com/Skull_Cavern) trips

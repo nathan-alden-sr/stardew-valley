@@ -56,10 +56,10 @@ Instructions:
 4. At 8:40 am, trash the Bamboo Pole, then travel to the sand to check for forageables and Artifact Spots.
    - If you acquire an Artifact now, donate it to the Museum and claim the 250g reward in your journal, then return to The Beach.
 5. Travel to the Fish Shop.
-6. Interact with the counter. Sell all Beach forageables and fish. Purchase the [Training Rod](https://stardewvalleywiki.com/Training_Rod) for 25g.
-   - The Training Rod allows for easier perfect catches. Perfect catches increase [Experience](https://stardewvalleywiki.com/Skills) gained from fishing, which is more important than the income acquired from higher-quality fish.
+6. Interact with the counter. Sell all Beach forageables and Fish. Purchase the [Training Rod](https://stardewvalleywiki.com/Training_Rod) for 25g.
+   - The Training Rod allows for easier perfect catches. Perfect catches increase [Experience](https://stardewvalleywiki.com/Skills) gained from fishing, which is more important than the income acquired from higher-quality Fish.
 7. Exit the Fish Shop, then fish below Willy's door using minimum casts.
-   - Since fish quality doesn't matter with the Training Rod, there is no reason to waste time traveling to the eastern end of the pier.
+   - Since Fish quality doesn't matter with the Training Rod, there is no reason to waste time traveling to the eastern end of the pier.
    - When running low on Energy during fishing, eat items in this order (the higher the Energy per G ratio, or EPG, the better):
 
       | Item | Quality | EPG |
@@ -79,16 +79,16 @@ Instructions:
       | Halibut | Silver | 0.35 |
       | Halibut | Regular | 0.31 |
 
-   - Do not eat fish that provide more Energy than you need. Ending the day with extra Energy is effectively throwing away G.
+   - Do not eat Fish that provide more Energy than you need. Ending the day with extra Energy is effectively throwing away G.
    - Monitor your inventory using the [spreadsheet](spreadsheet.md).
-   - If you feel very confident in your perfect catch ability, use the Bamboo Pole instead of the Training Rod. You can catch better quality fish that way and earn more money for Bait.
-8. As soon as you have 1,800g in inventory and fish value and are Fishing level 2, trash the Training Rod, sell all the fish, and purchase the Fiberglass Rod from the Fish Shop. Purchase as much Bait as possible and equip the Bait on the Fiberglass Rod.
-   - It's now more difficult to perfect catch due to only being Fishing level 2, but the Bait's reduction of bobber time combined with catching fish of silver or higher quality more than makes up for it.
+   - If you feel very confident in your perfect catch ability, use the Bamboo Pole instead of the Training Rod. You can catch better quality Fish that way and earn more money for Bait.
+8. As soon as you have 1,800g in inventory and Fish value and are Fishing level 2, trash the Training Rod, sell all the Fish, and purchase the Fiberglass Rod from the Fish Shop. Purchase as much Bait as possible and equip the Bait on the Fiberglass Rod.
+   - It's now more difficult to perfect catch due to only being Fishing level 2, but the Bait's reduction of bobber time combined with catching Fish of silver or higher quality more than makes up for it.
    - Now that you have the Fiberglass Rod, Fishing Zone consideration applies.
 9. Fish from the east-most tile of the pier using maximum casts to start.
-   - If you do not have at least 35 Bait on the rod at 4:30 pm, sell enough fish and purchase more Bait to total 35. This ensures you have enough Bait for the rest of the day and for tomorrow morning.
+   - If you do not have at least 35 Bait on the rod at 4:30 pm, sell enough Fish and purchase more Bait to total 35. This ensures you have enough Bait for the rest of the day and for tomorrow morning.
 10. Fish until 1:50 am.
-11. Deposit all of your fish into the Chest so you can sell them at the Fish Shop tomorrow. Keep other items in your inventory.
+11. Deposit all of your Fish into the Chest so you can sell them at the Fish Shop tomorrow. Keep other items in your inventory.
 12. Pass out.
 
 ## Day's end

@@ -12,7 +12,7 @@
 ## Goals
 
 - Acquire as much Bait as possible
-- Perfect-catch as many fish as possible
+- Perfect-catch as many Fish as possible
 - Catch as many [Catfish](https://stardewvalleywiki.com/Catfish) as possible
 
 ## Advice and warnings
@@ -44,13 +44,13 @@
 ### The Beach
 
 1. Check the sand for forageables and Artifact Spots.
-2. Sell all fish and Beach forageables at the Fish Shop. Save the lowest-quality [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle).
+2. Sell all Beach forageables and Fish at the Fish Shop. Save the lowest-quality [Sardine](https://stardewvalleywiki.com/Sardine) for the [Ocean Fish Bundle](https://stardewvalleywiki.com/Bundles#Ocean_Fish_Bundle).
    - You may need to make multiple trips to the Chest before it's empty. As soon as the Chest is empty and you have a free inventory slot, break the Chest and pick it up.
      - To break a Chest without a tool, select an empty slot in your inventory and hold down the left mouse button on the Chest. Your character will strike it repeatedly until it pops free.
 3. If you acquired a Copper Ore yesterday, purchase as much Bait as possible; otherwise, save 75g so you can purchase a Copper Ore from the Blacksmith later.
    - You should be able to purchase at least 400 Bait, and usually you can expect to receive more from fishing chests. The Bait should last all Spring. Usually you will not require more than 500 Bait. If you can afford more than 500 Bait, choose whether the extra G or the extra Bait is more important to you. Be aware of the 10% penalty for passing out.
    - You may choose to purchase one or two [Trout Soups](https://stardewvalleywiki.com/Trout_Soup) to assist with catching Catfish. They will raise your Fishing level when eaten, but they have a lower EPG (0.4) than Iridium-quality [Chub](https://stardewvalleywiki.com/Chub) (0.65 EPG).
-   - Waiting to sell the fish until you have acquired the [Fisher](https://stardewvalleywiki.com/Fishing#Fishing_Skill) profession is not optimal.
+   - Waiting to sell the Fish until you have acquired the [Fisher](https://stardewvalleywiki.com/Fishing#Fishing_Skill) profession is not optimal.
 4. If you saved 75g to purchase Copper Ore from the Blacksmith, go purchase it now. This ensures Clint appears at The Farm tomorrow and gives you plans to craft [Furnaces](https://stardewvalleywiki.com/Furnace).
    - You do not have to drop the Copper Ore on the ground or otherwise do anything special with it.
 5. Travel to Cindersap Forest.
@@ -68,7 +68,7 @@
    - All [Gems](https://stardewvalleywiki.com/Minerals#Gems)
    - The most profitable item stacks as calculated by the spreadsheet
      - Consider taking Chub with you if you are concerned about needing Energy for Spring 4. You need to potentially fell several Trees tomorrow so your Energy may be low before fishing.
-     - Take enough fish to sell at the Fish Shop tomorrow for more Bait if you did not visit the Fish Shop today. Remember to account for the fish you have deposited in The Beach Chest in your calculations.
+     - Take enough Fish to sell at the Fish Shop tomorrow for more Bait if you did not visit the Fish Shop today. Remember to account for the Fish you have deposited in The Beach Chest in your calculations.
 5. Pass out.
 
 ## Day's end

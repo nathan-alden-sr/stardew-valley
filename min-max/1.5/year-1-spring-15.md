@@ -23,12 +23,12 @@
 
 ### The Farm (1)
 
-- If you are close to 42,500g and can make up the difference by fishing and selling enough fish at the Fish Shop to reach 42,500g before the Fish Shop closes:
+- If you are close to 42,500g and can make up the difference by fishing and selling enough Fish at the Fish Shop to reach 42,500g before the Fish Shop closes:
   1. Deposit your entire inventory into Chests. Withdraw the following:
      - Fiberglass Rod
      - A source of Energy
   2. Fish at The Mountain. Use the spreadsheet to track your catches.
-  3. Travel to the Fish Shop and sell the fish.
+  3. Travel to the Fish Shop and sell the Fish.
   4. Travel to The Farm.
 
 1. Deposit your entire inventory into Chests. Withdraw the following:

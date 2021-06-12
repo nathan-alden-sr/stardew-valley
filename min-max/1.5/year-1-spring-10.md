@@ -25,9 +25,9 @@
    - The Kale will be planted in two batches. Planting in two batches cuts the number of Sprinklers needed--and thus Iron Bars needed--in half, leaving more Iron Bars for [Quality Sprinklers](https://stardewvalleywiki.com/Quality_Sprinkler) later.
    - If you need an odd number of Kale then the spreadsheet will round up. In this case, plant one fewer Kale Seed for the second crop.
 5. Deposit your entire inventory into Chests. Withdraw the following:
-   - If you have Fishing level 10, enough fish to purchase half of the Kale Seeds
+   - If you have Fishing level 10, enough Fish to purchase half of the Kale Seeds
    - If you have less than 100 Bait on the Fiberglass Rod, use the spreadsheet to calculate how many Bait you need to purchase and the cost of the Bait. Withdraw enough fish to sell to Willy in order to purchase the minimum required Bait.
-6. If you have Fishing level 10, ship the fish you withdrew now except for any fish withdrawn for Bait.
+6. If you have Fishing level 10, ship the Fish you withdrew now except for any Fish withdrawn for Bait.
 7. Travel to The Mountain fishing spot.
 
 ### The Mountain (1)

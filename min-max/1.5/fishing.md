@@ -15,6 +15,6 @@
   | [Chub](https://stardewvalleywiki.com/Chub) | Iridium | 0.43 (assumes you have the [Angler](https://stardewvalleywiki.com/Fishing#Fishing_Skill) profession) |
 
 - Although the [Experience](https://stardewvalleywiki.com/Skills) multiplier of a perfect catch (2.4) is slightly higher than a fishing chest (2.2), favor the fishing chest because the rewards can more than make up for the slight Experience loss.
-- The maximum number of new items you can receive after a single catch is five (one fish plus four fishing chest items). Be sure you have enough free inventory slots to receive all items.
+- The maximum number of new items you can receive after a single catch is five (one Fish plus four fishing chest items). Be sure you have enough free inventory slots to receive all items.
 - Only fish in bubbles if the [Fishing Zone](https://stardewvalleywiki.com/Fishing#Fishing_Zone) is high enough to catch Iridium- and Gold-quality Fish. Otherwise, although your hit rate will increase, you will fish up more [Trash](https://stardewvalleywiki.com/Trash) and lower-quality Fish.
 - Casting beyond Fishing Zone 5 tiles has no benefit, even if it's a max cast.
