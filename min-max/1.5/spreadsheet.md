@@ -33,6 +33,12 @@ The *Bundles* tab is used to track items you need for every bundle. Items that o
 
 The *Museum* tab is used to track items you need for the [Museum](https://stardewvalleywiki.com/Museum).
 
+## *Polycutlure* tab
+
+![Polyculture Tab](images/polyculture-tab.png)
+
+The *Polycuture* tab is used to track crops you need to ship for the [Polyculture Achievement](https://stardewvalleywiki.com/Achievements#Notes).
+
 ## *Generic Item Table* tab
 
 ![Item Tables](images/generic-item-table-tab.png)
@@ -71,12 +77,6 @@ The *Passing Out?* choice will apply a passing out penalty of 10% to the G in In
 
 *G Remaining* indicates how much more G you need to ship to reach the target. When the value is negative, it means you will have shipped more than is necessary. Usually, this is unavoidable but careful selection of the items you ship can minimize the extra income.
 
-## *Fish Availability* tab
-
-![Fish Availability](images/fish-availability-tab.png)
-
-The *Fish Availability* tab provides a list of all non-[Crab Pot](https://stardewvalleywiki.com/Crab_Pot) [Fish](https://stardewvalleywiki.com/Fish) and the times, [Seasons](https://stardewvalleywiki.com/Seasons), and [Weathers](https://stardewvalleywiki.com/Weather) when the Fish may be caught. The same fish will appear on more than one row if the Fish can be caught in multiple locations. Use the filter on each column to narrow the list of Fish based on your preferences.
-
 ## *Items and Professions* tab
 
 ![Items and Professions](images/items-and-professions-tab.png)
@@ -88,6 +88,12 @@ In general, you will not need to use this tab except to change the profession in
 Prices are automatically calculated using precise formulas that include proper decimal truncation.
 
 Different combinations of base price and tiered prices are present based on whether a particular item benefits from professions, special effects (e.g., [Bear's Knowledge](https://stardewvalleywiki.com/Bear%27s_Knowledge)), both, or neither.
+
+## *Fish Availability* tab
+
+![Fish Availability](images/fish-availability-tab.png)
+
+The *Fish Availability* tab provides a list of all non-[Crab Pot](https://stardewvalleywiki.com/Crab_Pot) [Fish](https://stardewvalleywiki.com/Fish) and the times, [Seasons](https://stardewvalleywiki.com/Seasons), and [Weathers](https://stardewvalleywiki.com/Weather) when the Fish may be caught. It also lists whether the Fish are part of a Bundle. A column is provided to allow you to track whether you have caught the Fish. The same Fish will appear on more than one row if the Fish can be caught in multiple locations. Use the filter on each column to narrow the list of Fish based on your preferences.
 
 ## *Crops* tab
 
