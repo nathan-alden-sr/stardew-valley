@@ -27,6 +27,12 @@ These cells do not affect any other cells.
 
 The *Bundles* tab is used to track items you need for every bundle. Items that occur in multiple bundles are also listed to remind you to collect more than one of certain items.
 
+## *Gifting* tab
+
+![Gifting Tab](images/gifting-tab.png)
+
+The *Gifting* tab lists all giftable [Villagers](https://stardewvalleywiki.com/Villagers), their birthdays, their easiest-to-acquire loved gifts, and ingredients required to craft their loved gifts, if applicable.
+
 ## *Museum* tab
 
 ![Museum Tab](images/museum-tab.png)
