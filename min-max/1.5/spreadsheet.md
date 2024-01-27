@@ -2,8 +2,6 @@
 
 A min-max run requires precise calculations, including selling items to earn an exact amount of G, mining and smelting Ore in exact amounts, etc. Over the course of many runs, I created a [spreadsheet](min-max.ods) in [LibreOffice Calc](https://www.libreoffice.org/download/download) to track daily information, bundle fulfillment, items and professions, and more.
 
-Note that the spreadsheet's daily tabs are not completed yet. I will update them as I complete runs. The tabs that are present likely contain data from my actual runs until I complete enough of them to be sure of the spreadsheet's robustness.
-
 ## Which cells are editable?
 
 Generally, cells shown in red are editable. However, you are free to modify the spreadsheet however you want. Explore!
@@ -39,7 +37,7 @@ The *Gifting* tab lists all giftable [Villagers](https://stardewvalleywiki.com/V
 
 The *Museum* tab is used to track items you need for the [Museum](https://stardewvalleywiki.com/Museum).
 
-## *Polycutlure* tab
+## *Polyculture* tab
 
 ![Polyculture Tab](images/polyculture-tab.png)
 
