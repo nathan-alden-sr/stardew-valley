@@ -8,7 +8,7 @@ When you first enter [The Mines](https://stardewvalleywiki.com/The_Mines), a cut
 
 After obtaining your first [Prismatic Shard](https://stardewvalleywiki.com/Prismatic_Shard) from [Skull Cavern](https://stardewvalleywiki.com/Skull_Cavern), visit the three pillars in [The Desert](https://stardewcommunitywiki.com/The_Desert). While the Prismatic Shard is selected, touch the tile at the center of the three pillars. The game will take the Prismatic Shard and award you the [Galaxy Sword](https://stardewvalleywiki.com/Galaxy_Sword).
 
-If you happen to acquire your first Prismatic Sword in early floors of Skull Cavern, it may be beneficial to exit and acquire the Galaxy Sword, then re-enter Skull Cavern. The Galaxy Sword makes combat much more efficient.
+If you happen to acquire your first Prismatic Shard in early floors of Skull Cavern, it may be beneficial to exit and acquire the Galaxy Sword, then re-enter Skull Cavern. The Galaxy Sword makes combat much more efficient.
 
 ## Infinity Blade
 
