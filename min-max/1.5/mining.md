@@ -91,7 +91,7 @@ Trade with the Desert Trader for very useful items:
 
 - In general, ignore all enemies in favor of breaking rocks
   - After acquiring a stronger weapon like the [Galaxy Sword](https://stardewvalleywiki.com/Galaxy_Sword), killing certain enemies can be useful in certain circumstances (e.g., killing [Iridium Crabs](https://stardewvalleywiki.com/Iridium_Crab) to easily obtain [Crab Cakes](https://stardewvalleywiki.com/Crab_Cakes) and Iridium Ore)
-  - The infamous [Serpent](https://stardewvalleywiki.com/Serpent) Monsters can pass through walls and will often to force you to kill them before proceeding. If you are quick with your controls, it is possible to run in the direction you were wanting to go, break one or two rocks, then turn and resume fighting.
+  - The infamous [Serpent](https://stardewvalleywiki.com/Serpent) Monsters can pass through walls and will often force you to kill them before proceeding. If you are quick with your controls, it is possible to run in the direction you were wanting to go, break one or two rocks, then turn and resume fighting.
 - Certain floors and floor layouts will cause you to waste a lot of time running from rock to rock and will not spawn enough rocks to warrant [Explosive](https://stardewvalleywiki.com/Crafting#Bombs) usage. On these floors, craft a Staircase and place a ladder immediately.
   - The long spiral floor
   - The long vertical floor
