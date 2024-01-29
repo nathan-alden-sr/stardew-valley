@@ -7,7 +7,7 @@
   - The time it will take to kill all Monsters on the floor vs. breaking rocks
   - Your [Weapon's](https://stardewvalleywiki.com/Weapons) damage
   - The day's [Luck](https://stardewvalleywiki.com/Luck); usually, you will only want to attempt this on small floors with a few Monsters
-- Consider quickly scan a small floor before mining to see if a ladder is already exposed.
+- Consider quickly scanning a small floor before mining to see if a ladder is already exposed.
 
 ## Floor transitions
 
