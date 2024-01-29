@@ -105,7 +105,7 @@ As you craft [Crystalariums](https://stardewvalleywiki.com/Crystalarium), you wi
 
 ### Magic Rock Candy
 
-- The [Buffs](https://stardewvalleywiki.com/Buffs) granted, especially +4 Luck, should more than make up for the lost 6,000g of income from selling the Prismatic Shards directly in terms of extra [Iridium Ore](https://stardewvalleywiki.com/Iridium_Ore) (you only need four extra Iridium Bars to break even)
+- The [Buffs](https://stardewvalleywiki.com/Buffs) granted, especially +5 Luck, should more than make up for the lost 6,000g of income from selling the Prismatic Shards directly in terms of extra [Iridium Ore](https://stardewvalleywiki.com/Iridium_Ore) (you only need four extra Iridium Bars to break even)
 - Save Magic Rock Candy for unlucky days
 - Use Magic Rock Candy as soon as you enter Skull Cavern to more quickly get to lower floors
 
